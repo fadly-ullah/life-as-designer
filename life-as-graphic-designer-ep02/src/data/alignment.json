@@ -1,0 +1,23 @@
+{
+  "sourceSha256": "49c45681d5391565da3061e8a9c42ce6c755510efb40883cd09595243baf0368",
+  "method": "Local Whisper small native segment timestamps plus FFmpeg silence boundaries; spelling corrected against the approved script. Not phoneme or forced word alignment.",
+  "subtitleCueCount": 36,
+  "sceneStartSeconds": [
+    0,
+    8.08,
+    16.16,
+    17.72,
+    26.8,
+    30.82,
+    38.22,
+    43.45
+  ],
+  "humanReviewRecommended": true,
+  "corrections": [
+    "kan fast -> kanvas",
+    "pinteres -> Pinterest",
+    "phone -> font",
+    "mudah -> muda",
+    "di Skon -> diskon"
+  ]
+}

@@ -1,0 +1,13 @@
+import {spawnSync} from 'node:child_process';
+import {mkdirSync,readFileSync} from 'node:fs';
+import './check-identity.mjs';
+const concurrency=Number(process.env.RENDER_CONCURRENCY||2);
+if(![1,2].includes(concurrency))throw Error('Codespaces supports concurrency 1 or 2 only.');
+const review=JSON.parse(readFileSync('out/visual-check/review.json','utf8'));
+const meta=JSON.parse(readFileSync('src/data/audioMetadata.json','utf8'));
+if(review.status!=='passed'||review.voiceSourceSha256!==meta.sourceSha256)throw Error('Inspect current visual-check PNGs before preview rendering.');
+mkdirSync('out',{recursive:true});
+const args=['remotion','render','src/index.ts','LifeAsGraphicDesignerEP02','out/.ep02-preview-mix.mp4','--scale=0.5','--codec=h264','--crf=18',`--concurrency=${concurrency}`,'--log=info'];
+const run=spawnSync('npx',args,{stdio:'inherit'});
+if(run.status!==0)process.exit(run.status||1);
+const master=spawnSync(process.execPath,['scripts/master-preview.mjs'],{stdio:'inherit'});process.exit(master.status||0);

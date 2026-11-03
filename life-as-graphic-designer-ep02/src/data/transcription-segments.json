@@ -1,0 +1,478 @@
+{
+  "source": "public/audio/ep02-voiceover.mp3",
+  "sourceSha256": "49c45681d5391565da3061e8a9c42ce6c755510efb40883cd09595243baf0368",
+  "durationSeconds": 51.487375,
+  "engine": "sherpa-onnx 2.0.1 / sherpa-onnx-whisper-small multilingual CPU",
+  "language": "id",
+  "silences": [
+    [
+      1.506213,
+      1.891247
+    ],
+    [
+      3.644218,
+      4.133764
+    ],
+    [
+      7.823424,
+      8.28678
+    ],
+    [
+      10.759252,
+      11.088821
+    ],
+    [
+      12.212721,
+      12.417846
+    ],
+    [
+      17.540884,
+      17.857188
+    ],
+    [
+      18.917188,
+      19.244717
+    ],
+    [
+      20.677302,
+      21.093537
+    ],
+    [
+      24.375034,
+      24.723583
+    ],
+    [
+      25.195964,
+      25.414853
+    ],
+    [
+      26.563152,
+      26.960726
+    ],
+    [
+      27.288844,
+      27.519546
+    ],
+    [
+      27.997574,
+      28.389637
+    ],
+    [
+      30.566145,
+      31.000068
+    ],
+    [
+      31.882268,
+      32.197302
+    ],
+    [
+      32.647234,
+      32.910771
+    ],
+    [
+      33.360839,
+      33.572653
+    ],
+    [
+      33.849501,
+      34.242336
+    ],
+    [
+      38.069342,
+      38.381134
+    ],
+    [
+      39.493107,
+      39.726304
+    ],
+    [
+      41.559048,
+      41.898821
+    ],
+    [
+      43.239093,
+      43.677868
+    ],
+    [
+      43.778866,
+      44.28483
+    ],
+    [
+      45.704467,
+      46.042608
+    ],
+    [
+      48.256871,
+      48.606757
+    ],
+    [
+      51.091088,
+      51.487347
+    ]
+  ],
+  "chunks": [
+    {
+      "startSeconds": 0.0,
+      "endSeconds": 20.8854195,
+      "text": "Brief udah jelas, tapi kan fast gue masih kosong. Dan sekarang, pinteres gue udah kayak gudang referensi. Awalnya gue cuma mau cari satu inspirasi. Eh, nemu yang bagus! Scroll lagi, ada yang lebih keren! Simpan lagi, scroll lagi, lha, udah setengah jam! Referensinya banyak, tapi mulai desainnya dari mana?",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Brief udah jelas, tapi kan fast gue masih kosong. Dan sekarang, pinteres gue udah kayak gudang referensi. Awalnya gue cuma mau cari satu inspirasi. Eh, nemu yang bagus! Scroll lagi, ada yang lebih keren! Simpan lagi, scroll lagi, lha, udah setengah jam! Referensinya banyak, tapi mulai desainnya dari mana?",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Brief",
+          " udah",
+          " j",
+          "elas",
+          ",",
+          " tapi",
+          " kan",
+          " fast",
+          " gue",
+          " masih",
+          " kos",
+          "ong",
+          ".",
+          " Dan",
+          " sekarang",
+          ",",
+          " p",
+          "inter",
+          "es",
+          " gue",
+          " udah",
+          " kayak",
+          " g",
+          "ud",
+          "ang",
+          " refer",
+          "ens",
+          "i",
+          ".",
+          " Aw",
+          "alnya",
+          " gue",
+          " cuma",
+          " mau",
+          " car",
+          "i",
+          " satu",
+          " inspir",
+          "asi",
+          ".",
+          " Eh",
+          ",",
+          " nem",
+          "u",
+          " yang",
+          " bagus",
+          "!",
+          " Scroll",
+          " lagi",
+          ",",
+          " ada",
+          " yang",
+          " lebih",
+          " k",
+          "eren",
+          "!",
+          " Sim",
+          "pan",
+          " lagi",
+          ",",
+          " scroll",
+          " lagi",
+          ",",
+          " l",
+          "ha",
+          ",",
+          " udah",
+          " set",
+          "eng",
+          "ah",
+          " jam",
+          "!",
+          " Refer",
+          "ens",
+          "inya",
+          " banyak",
+          ",",
+          " tapi",
+          " mul",
+          "ai",
+          " des",
+          "ain",
+          "nya",
+          " dari",
+          " mana",
+          "?"
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          3.78,
+          7.98,
+          10.88,
+          12.36,
+          14.18,
+          17.7
+        ],
+        "segment_durations": [
+          3.78,
+          4.2,
+          2.9,
+          1.48,
+          1.82,
+          3.52,
+          3.18
+        ],
+        "segment_texts": [
+          " Brief udah jelas, tapi kan fast gue masih kosong.",
+          " Dan sekarang, pinteres gue udah kayak gudang referensi.",
+          " Awalnya gue cuma mau cari satu inspirasi.",
+          " Eh, nemu yang bagus!",
+          " Scroll lagi, ada yang lebih keren!",
+          " Simpan lagi, scroll lagi, lha, udah setengah jam!",
+          " Referensinya banyak, tapi mulai desainnya dari mana?"
+        ]
+      }
+    },
+    {
+      "startSeconds": 20.8854195,
+      "endSeconds": 41.728934499999994,
+      "text": "Layout ini bagus, phone itu keren, yang tadi juga menarik. Duh, malah makin bingung. Oke, stop dulu. Gue tutupin teres, terus balik ke brief. Tiga kata kunci, mudah, tegas, hemat. Gue pilih tiga referensi yang paling sesuai, lalu bikin tiga sketsa kasar. Nggak semuanya bagus, tapi sekarang gue tahu mana yang paling cocok.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Layout ini bagus, phone itu keren, yang tadi juga menarik. Duh, malah makin bingung. Oke, stop dulu. Gue tutupin teres, terus balik ke brief. Tiga kata kunci, mudah, tegas, hemat. Gue pilih tiga referensi yang paling sesuai, lalu bikin tiga sketsa kasar. Nggak semuanya bagus, tapi sekarang gue tahu mana yang paling cocok.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Lay",
+          "out",
+          " ini",
+          " bagus",
+          ",",
+          " phone",
+          " itu",
+          " k",
+          "eren",
+          ",",
+          " yang",
+          " tadi",
+          " juga",
+          " men",
+          "ar",
+          "ik",
+          ".",
+          " D",
+          "uh",
+          ",",
+          " mal",
+          "ah",
+          " mak",
+          "in",
+          " b",
+          "ing",
+          "ung",
+          ".",
+          " Oke",
+          ",",
+          " stop",
+          " dulu",
+          ".",
+          " Gue",
+          " tut",
+          "up",
+          "in",
+          " ter",
+          "es",
+          ",",
+          " terus",
+          " bal",
+          "ik",
+          " ke",
+          " brief",
+          ".",
+          " T",
+          "iga",
+          " k",
+          "ata",
+          " kun",
+          "ci",
+          ",",
+          " mud",
+          "ah",
+          ",",
+          " te",
+          "gas",
+          ",",
+          " hem",
+          "at",
+          ".",
+          " Gue",
+          " p",
+          "ili",
+          "h",
+          " t",
+          "iga",
+          " refer",
+          "ens",
+          "i",
+          " yang",
+          " paling",
+          " ses",
+          "u",
+          "ai",
+          ",",
+          " l",
+          "alu",
+          " bik",
+          "in",
+          " t",
+          "iga",
+          " sk",
+          "ets",
+          "a",
+          " kas",
+          "ar",
+          ".",
+          " N",
+          "ggak",
+          " sem",
+          "u",
+          "anya",
+          " bagus",
+          ",",
+          " tapi",
+          " sekarang",
+          " gue",
+          " tahu",
+          " mana",
+          " yang",
+          " paling",
+          " coc",
+          "ok",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          3.7,
+          5.92,
+          7.34,
+          9.92,
+          13.2,
+          17.34
+        ],
+        "segment_durations": [
+          3.7,
+          2.22,
+          1.42,
+          2.58,
+          3.28,
+          4.14,
+          3.46
+        ],
+        "segment_texts": [
+          " Layout ini bagus, phone itu keren, yang tadi juga menarik.",
+          " Duh, malah makin bingung.",
+          " Oke, stop dulu.",
+          " Gue tutupin teres, terus balik ke brief.",
+          " Tiga kata kunci, mudah, tegas, hemat.",
+          " Gue pilih tiga referensi yang paling sesuai, lalu bikin tiga sketsa kasar.",
+          " Nggak semuanya bagus, tapi sekarang gue tahu mana yang paling cocok."
+        ]
+      }
+    },
+    {
+      "startSeconds": 41.728934499999994,
+      "endSeconds": 51.487375,
+      "text": "Nah, tinggal pilih warna. Eh, hijau sama kuning cocok. Tapi kok desain gue malah kayak spanduk di Skon? Waduh, episode 3 bakal ribet nih.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Nah, tinggal pilih warna. Eh, hijau sama kuning cocok. Tapi kok desain gue malah kayak spanduk di Skon? Waduh, episode 3 bakal ribet nih.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Nah",
+          ",",
+          " ting",
+          "gal",
+          " p",
+          "ili",
+          "h",
+          " war",
+          "na",
+          ".",
+          " Eh",
+          ",",
+          " hij",
+          "au",
+          " sama",
+          " kun",
+          "ing",
+          " coc",
+          "ok",
+          ".",
+          " Tapi",
+          " kok",
+          " des",
+          "ain",
+          " gue",
+          " mal",
+          "ah",
+          " kayak",
+          " sp",
+          "and",
+          "uk",
+          " di",
+          " Sk",
+          "on",
+          "?",
+          " W",
+          "ad",
+          "uh",
+          ",",
+          " episode",
+          " 3",
+          " bak",
+          "al",
+          " rib",
+          "et",
+          " nih",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          1.7,
+          4.2,
+          6.7
+        ],
+        "segment_durations": [
+          1.7,
+          2.5,
+          2.5,
+          3.0
+        ],
+        "segment_texts": [
+          " Nah, tinggal pilih warna.",
+          " Eh, hijau sama kuning cocok.",
+          " Tapi kok desain gue malah kayak spanduk di Skon?",
+          " Waduh, episode 3 bakal ribet nih."
+        ]
+      }
+    }
+  ],
+  "reviewRequired": true
+}

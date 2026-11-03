@@ -1,0 +1,682 @@
+{
+  "referenceCommit": "3c31073c8a7c83065eaf0bbb794ea3b75d63a95f",
+  "branch": "episode02/inspiration-overthinking",
+  "protectedProjects": [
+    {
+      "path": "life-as-graphic-designer-ep01-v2/.devcontainer/devcontainer.json",
+      "bytes": 567,
+      "sha256": "edc9d841bb4c78e2d9b59ea24ee2ec7448dae35593ed660e74e19d339d26cb37"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/.devcontainer/setup.sh",
+      "bytes": 696,
+      "sha256": "6ba87a11397a2c3ce1e022dbf86a710086214dffa4ba20c686e62c78b30494f0"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/.gitignore",
+      "bytes": 36,
+      "sha256": "99c5792d6c3e0e14417818adf456f0632eb2dc984e229383bd47c043a9986e0f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/README-ORIGINAL.md",
+      "bytes": 7815,
+      "sha256": "8966506a17d54fab5f43aeb6bd2f8669543f080e93d33275e0017cba71185c8b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/README-V2.md",
+      "bytes": 2816,
+      "sha256": "948ad7e8dd602e97abe6425a91812a6bdeacda33d815dc27c262407336408554"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/README.md",
+      "bytes": 2816,
+      "sha256": "948ad7e8dd602e97abe6425a91812a6bdeacda33d815dc27c262407336408554"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/package-lock.json",
+      "bytes": 144894,
+      "sha256": "30f6dfafca4f5528f8ae02c010d8b7fb0e163fec168da3fee421eef060658180"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/package.json",
+      "bytes": 1789,
+      "sha256": "999ec7764788cbe7632dc9f565ff6f322f1b9b8986b67a1427a9e53273eaf88d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/preservation-baseline.json",
+      "bytes": 6017,
+      "sha256": "0830640ca0a584839a0da3ff239532d0c0c5a8d0d4608a23618c944281512e94"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/ep01-voiceover.mp3",
+      "bytes": 945642,
+      "sha256": "953087f1dde04b02af2bc1e3e157d05f6609ac437ecee6f4e721b0718b424518"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/episode01-vo.mp3",
+      "bytes": 1044280,
+      "sha256": "03359f0b426aff1dee4e3549a26f0606711f983e033cbaee2356d62fa3f13fa9"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/music-original.wav",
+      "bytes": 6281644,
+      "sha256": "52459fad55320e1f577c11aa0c0e3c1edf304f3bd3a3125fac3b8139509b7185"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/click.wav",
+      "bytes": 10604,
+      "sha256": "045fb85adc0041b4478ae3d4c0a132ae2efe6b9d758f5984f88798d7aef87a10"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/confused.wav",
+      "bytes": 48044,
+      "sha256": "1650638800468e6ec56be28657b0507095e48c8ac236ac6ff1591f36233bf047"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/impact.wav",
+      "bytes": 48044,
+      "sha256": "5de944bef4a03cbd289ee5ed1bc5dc041f6e00900ae5f77ec38fafa500cc8f63"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/notification.wav",
+      "bytes": 38444,
+      "sha256": "0cb94f45a4e1bbe64189b6bf407383754ab5659eaa4818ad54509676dc9682e8"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/pop.wav",
+      "bytes": 10604,
+      "sha256": "5bf4cb9c2dd2da78748a9a7afff136df75f66d8ae1bdd140c78c001ceb7029aa"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/success.wav",
+      "bytes": 63404,
+      "sha256": "bab566ef6b4d405e0957c0a9867ba7fcc4735d998e7c0589be384bf852c9258c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/tick.wav",
+      "bytes": 9644,
+      "sha256": "cca685d9ff70a5034c64d519e2cc7fac8bd7185a863bff240a68f43662e20101"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/typing.wav",
+      "bytes": 192044,
+      "sha256": "23a09d607f1cd1881ed4374bb8002c490a4c34356460ca4d78103679ba258961"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/audio/sfx/whoosh.wav",
+      "bytes": 40364,
+      "sha256": "77bf62bf895acaedd13e338e269d6437a3bf6502c6047c7eaab8a42621228329"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/fonts/OFL-SpaceGrotesk.txt",
+      "bytes": 4401,
+      "sha256": "18a4de52385f6b988782639d5d0cc1326e5a8c2de9a7f01d7b20d9aedcc60943"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/public/fonts/SpaceGrotesk.woff2",
+      "bytes": 22288,
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/remotion.config.ts",
+      "bytes": 499,
+      "sha256": "70bc4e33a9cae0f2e2be0d21fff11c9171b3796e7a87a5df84bfa3dc63cdf804"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/analyze-latest-voice.py",
+      "bytes": 1231,
+      "sha256": "86046917cbe34a1c2930d4fd7d95164bf56644281ab6558f27e57e8670664b27"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/check-environment.mjs",
+      "bytes": 607,
+      "sha256": "13b51868ff24617bfa46637720d90b37fcbf476eaff72596dee7fc901fcd35d7"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/check-identity.mjs",
+      "bytes": 1763,
+      "sha256": "861c46b0bb229df5f075aab28e7ac1e7a41d51bb802391caf6312aec4e1937ec"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/check-production.mjs",
+      "bytes": 2344,
+      "sha256": "2bcf4df47d90e2d8ac86cf2522d930fd4ac170f79868cb2b4aa163565198d3da"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/compare-visuals.mjs",
+      "bytes": 3946,
+      "sha256": "1581ce99bee37a124c5afe3b213ceea70ee721f1318e0b6a34ace415df0e769a"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/contact-sheet.py",
+      "bytes": 464,
+      "sha256": "a1de9a9ee05e2ee8b5030c75f96ab1df92b79420ae8904382a46166b5b80d2da"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/master-output.mjs",
+      "bytes": 2236,
+      "sha256": "1ea3b84fef5af3a5a04e6c176e8ce3dc9c3a9ebde8ca7e43c99555ac6f8d45c2"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/master-preview.mjs",
+      "bytes": 2364,
+      "sha256": "2e89ee2464ce81b85d1b1b3b589410389e4fdf676d0ed9181ae63193c7404535"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/prepare-assets.py",
+      "bytes": 4539,
+      "sha256": "b0ab8c359c89c4dfaebc36c379863b732625e68894dc57975cef9022fe307e30"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/preview-video.mjs",
+      "bytes": 3481,
+      "sha256": "9fe119247feb216e32fdf21599a52f5fe6c1668d2f39fb2a8cfac5f8c7e27ff5"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/render-stills.mjs",
+      "bytes": 1174,
+      "sha256": "f31a05fdefa0d7359d0dc1e70c1fad99142edd7c1a0e3fa2d034925f4066c326"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/requirements-tools.txt",
+      "bytes": 42,
+      "sha256": "f793676a40e71a12c2d9066d4f2e342bf5d920a971a725519c00ed500c4231ed"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/transcribe-voice.py",
+      "bytes": 2679,
+      "sha256": "696b0177fd5ec6922a899930c3920e3933b7eab9a5ea5721d9b7c8a13235d531"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/verify-output.py",
+      "bytes": 5314,
+      "sha256": "2eb9ffd25199682725ed5036595f1761fb73899c678a22b1611ebacfa47f02a4"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/scripts/verify-preview.py",
+      "bytes": 5483,
+      "sha256": "f59abc198ffea693e89713ad34b7d7ec4f619837e12a74280784dc8d593f3a24"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/Root.tsx",
+      "bytes": 2579,
+      "sha256": "9a81d95d31548936071c46478043ff47ab4f8455538ffcbeaf8f40be571f63c3"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/audio/AudioTimeline.tsx",
+      "bytes": 2846,
+      "sha256": "3f31c75325f584ba625e5eb22cc138ed42d49e3a13c49b6882f115ad9ae4dcac"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/characters/CharacterExpressions.ts",
+      "bytes": 504,
+      "sha256": "ed0a3aa46b9eb6d569b286f383950f0322999aad11d8e3da2b042d4defaac26b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/characters/CharacterPerformance.tsx",
+      "bytes": 1460,
+      "sha256": "b98f6f938ef0b3ed062d9d125f1f3cb5dd86408219d427093beb6ae4a6126e3f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/characters/EpisodeCharacter.tsx",
+      "bytes": 794,
+      "sha256": "81a1238d6dbb70a81d6f9666b1b65cf882e312786602929ce4f1eb113f94d5f4"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/characters/PixelCharacter.tsx",
+      "bytes": 7793,
+      "sha256": "8c3a74fb84e033f24e123e54bbe60eec9198ddecc2d507bbd3acc21336f823dc"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/ChatBubble.tsx",
+      "bytes": 1272,
+      "sha256": "7e343df60237259b1cda201e7d097a88b102cf6ad2eab7e477a44c926747ce98"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/FloatingCard.tsx",
+      "bytes": 820,
+      "sha256": "6d0d776f6115e943437aba3258a153a2b6a1adcae565cb4b4445b29987975393"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/Moodboard.tsx",
+      "bytes": 1550,
+      "sha256": "baeec03ef4e34eca1baa1d49ba8eaeee378e3a8a064f2975e8b4258cfba57df1"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/PixelComputer.tsx",
+      "bytes": 2334,
+      "sha256": "761d81e7a5337790b21d2678ad2446e63f27704588cc940d29ae3b6954590369"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/PixelDesk.tsx",
+      "bytes": 705,
+      "sha256": "5517b66e6b8c08c660303276983b48e274748e464495418e35f89510e1f1f84c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/SceneCamera.tsx",
+      "bytes": 1607,
+      "sha256": "060535987234b6ae69424475123eba8a93a2253c012145bb4adb490902454cfd"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/Subtitle.tsx",
+      "bytes": 1319,
+      "sha256": "1a4fcbb626d6db1272e9c7b28b8ae6e2de7e49376108f5f8729fc88267cfe976"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/components/Transition.tsx",
+      "bytes": 684,
+      "sha256": "2193facb284cec989c97abbdb1b7a61ca0cc406c929a630cadc4907f7fb1cc8e"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/compositions/Episode01.tsx",
+      "bytes": 3165,
+      "sha256": "e60e439545fc1310d3563ad4c8251a212192b2fedc2aabcc700e1d6cea8ce2df"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/audioMetadata.json",
+      "bytes": 561,
+      "sha256": "39b19671fe4e0465656c636ca8f144552b03b48bd355b61034cc674af379f9b7"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/beats.ts",
+      "bytes": 848,
+      "sha256": "d5f471f63b93967aa089e0172af6e2ab83f723a90ac5f51067dc25c0e4a0c89d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/captions.json",
+      "bytes": 4991,
+      "sha256": "f44845ba4c8c8452c8fe1c3a10a54db1d1646f2667bd1a85f55b742f9dddd32e"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/colors.ts",
+      "bytes": 344,
+      "sha256": "e0e6f177b4d622f4136352a80bdf6f4673ad9482eb0b4aa21037acad9243fa1d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/performance.json",
+      "bytes": 4112,
+      "sha256": "80cfde86bbbfdefeba4a0cfec1376438132608eee28b2b29996e6fbdd90ccddb"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/sceneTimings.ts",
+      "bytes": 607,
+      "sha256": "3c131774ce25e9e48cac2c7389a01a89024ed9b29a81f96a091204509b9e182c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/script.ts",
+      "bytes": 987,
+      "sha256": "09dc9b36965110cc0be9190c73cc56748dd36722f8b8638111365fab5d07fe1d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/subtitles.ts",
+      "bytes": 5621,
+      "sha256": "9c2a21b39ee2d61de86ee4b0526f8f8bf66c6e556c425d1bc0a4c5c52ecb1afd"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/voice-alignment.json",
+      "bytes": 1709,
+      "sha256": "9a23b5a586a3acc2115e0c902f9319999bc2f13c95a23184754ac0f82fd43c97"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/data/waveform.json",
+      "bytes": 17056,
+      "sha256": "728f8fe5f4c4b51503f06c353f042e4d02af68050965400dcb3f6fa30d1b2a62"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/index.ts",
+      "bytes": 88,
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene01Hook.tsx",
+      "bytes": 1983,
+      "sha256": "e64a765c19441b2897b7ede0319057842446d2b0835dcf9f96ada91f900f5524"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene02ClientMessage.tsx",
+      "bytes": 1843,
+      "sha256": "8bdc563eabbf5e1fc7166bc786a3b9ef104dbbece3cc1f641a108c6ebdd66c5f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene03Confusion.tsx",
+      "bytes": 2537,
+      "sha256": "2b8ac8182f28d5754dd66634e5153b1ec4aa1c1402111109b69a7bb4af1e07cb"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene04Questions.tsx",
+      "bytes": 1986,
+      "sha256": "10c5275f0e528b5178ea3cd650643f21716f1e5e4d0b37b99cc021814dccfca4"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene05Answer.tsx",
+      "bytes": 1883,
+      "sha256": "a5f1954275b2428ad9f5a084f96c5d64e17a87d487f48945d5d6cb8a0f29b395"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene06Canvas.tsx",
+      "bytes": 1453,
+      "sha256": "db5fa0631b29e0beca16fa3f4b56c63668bd0a7c96010772d613a9e97e478cf0"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene07CreativeBlock.tsx",
+      "bytes": 2275,
+      "sha256": "ce71e618b320f34e5385ea9937aaf9be58c5a1f09064d9f094263b843e810c61"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/scenes/Scene08Teaser.tsx",
+      "bytes": 3117,
+      "sha256": "e8788b77e660b9888726c9f687035337dd63829807e51b97d8dd323f8d4264ec"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/style.css",
+      "bytes": 211,
+      "sha256": "c8d6bf591f38310737db89157a37b0bc0972e5451cf58f62a75d908d0b6af68f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/src/utils/animations.ts",
+      "bytes": 492,
+      "sha256": "b0018e39dbfc539cb20058e63f6db8f8a55b798fd30dc72bd12d1b6ff618427b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01-v2/tsconfig.json",
+      "bytes": 413,
+      "sha256": "5dbb31a9c4edad9f1f44dd9ff6268fb059d9fd6df1c5d28af2d2dafe8b1398fc"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/.gitignore",
+      "bytes": 36,
+      "sha256": "99c5792d6c3e0e14417818adf456f0632eb2dc984e229383bd47c043a9986e0f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/README.md",
+      "bytes": 7815,
+      "sha256": "8966506a17d54fab5f43aeb6bd2f8669543f080e93d33275e0017cba71185c8b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/package-lock.json",
+      "bytes": 144888,
+      "sha256": "ac3a91014870c340e7097ea2ba637ed2f6035c089e7fcc641bd0b52b824ce127"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/package.json",
+      "bytes": 1136,
+      "sha256": "83236e6b44df9b199685f6ea3b16c3d1a1a126d43c2ade9129bf448c9ce5b03d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/episode01-vo.mp3",
+      "bytes": 1044280,
+      "sha256": "03359f0b426aff1dee4e3549a26f0606711f983e033cbaee2356d62fa3f13fa9"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/music-original.wav",
+      "bytes": 6281644,
+      "sha256": "52459fad55320e1f577c11aa0c0e3c1edf304f3bd3a3125fac3b8139509b7185"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/click.wav",
+      "bytes": 10604,
+      "sha256": "045fb85adc0041b4478ae3d4c0a132ae2efe6b9d758f5984f88798d7aef87a10"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/confused.wav",
+      "bytes": 48044,
+      "sha256": "1650638800468e6ec56be28657b0507095e48c8ac236ac6ff1591f36233bf047"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/impact.wav",
+      "bytes": 48044,
+      "sha256": "5de944bef4a03cbd289ee5ed1bc5dc041f6e00900ae5f77ec38fafa500cc8f63"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/notification.wav",
+      "bytes": 38444,
+      "sha256": "0cb94f45a4e1bbe64189b6bf407383754ab5659eaa4818ad54509676dc9682e8"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/pop.wav",
+      "bytes": 10604,
+      "sha256": "5bf4cb9c2dd2da78748a9a7afff136df75f66d8ae1bdd140c78c001ceb7029aa"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/success.wav",
+      "bytes": 63404,
+      "sha256": "bab566ef6b4d405e0957c0a9867ba7fcc4735d998e7c0589be384bf852c9258c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/tick.wav",
+      "bytes": 9644,
+      "sha256": "cca685d9ff70a5034c64d519e2cc7fac8bd7185a863bff240a68f43662e20101"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/typing.wav",
+      "bytes": 192044,
+      "sha256": "23a09d607f1cd1881ed4374bb8002c490a4c34356460ca4d78103679ba258961"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/audio/sfx/whoosh.wav",
+      "bytes": 40364,
+      "sha256": "77bf62bf895acaedd13e338e269d6437a3bf6502c6047c7eaab8a42621228329"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/fonts/OFL-SpaceGrotesk.txt",
+      "bytes": 4401,
+      "sha256": "18a4de52385f6b988782639d5d0cc1326e5a8c2de9a7f01d7b20d9aedcc60943"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/public/fonts/SpaceGrotesk.woff2",
+      "bytes": 22288,
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/remotion.config.ts",
+      "bytes": 499,
+      "sha256": "70bc4e33a9cae0f2e2be0d21fff11c9171b3796e7a87a5df84bfa3dc63cdf804"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/contact-sheet.py",
+      "bytes": 464,
+      "sha256": "a1de9a9ee05e2ee8b5030c75f96ab1df92b79420ae8904382a46166b5b80d2da"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/master-output.mjs",
+      "bytes": 2017,
+      "sha256": "33b80721ee205604be9534403af82a81dd5d857fa9f2d5723b0f9332b5f09d65"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/prepare-assets.py",
+      "bytes": 4539,
+      "sha256": "b0ab8c359c89c4dfaebc36c379863b732625e68894dc57975cef9022fe307e30"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/preview-video.mjs",
+      "bytes": 3555,
+      "sha256": "411adac36b2a9ac96b404ff77b25a9fad3c96a702d1c977291739b2347d25d2f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/render-stills.mjs",
+      "bytes": 1174,
+      "sha256": "a6682e0df8c350039099a77f33dcd1e74ed983ddc32210b7eac267e0953fa8ca"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/requirements-tools.txt",
+      "bytes": 42,
+      "sha256": "f793676a40e71a12c2d9066d4f2e342bf5d920a971a725519c00ed500c4231ed"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/scripts/verify-output.py",
+      "bytes": 5314,
+      "sha256": "2eb9ffd25199682725ed5036595f1761fb73899c678a22b1611ebacfa47f02a4"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/Root.tsx",
+      "bytes": 2574,
+      "sha256": "019737b819effd0335dce666694b59bacbd8445cc4f6f870b457d74601566c1f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/audio/AudioTimeline.tsx",
+      "bytes": 2411,
+      "sha256": "de7572f7ab80c1c6c8efcfd2f658dc59b128f3d61d2839374f1a49b2a5dcca5c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/characters/CharacterExpressions.ts",
+      "bytes": 504,
+      "sha256": "ed0a3aa46b9eb6d569b286f383950f0322999aad11d8e3da2b042d4defaac26b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/characters/PixelCharacter.tsx",
+      "bytes": 7793,
+      "sha256": "8c3a74fb84e033f24e123e54bbe60eec9198ddecc2d507bbd3acc21336f823dc"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/ChatBubble.tsx",
+      "bytes": 1272,
+      "sha256": "7e343df60237259b1cda201e7d097a88b102cf6ad2eab7e477a44c926747ce98"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/FloatingCard.tsx",
+      "bytes": 820,
+      "sha256": "6d0d776f6115e943437aba3258a153a2b6a1adcae565cb4b4445b29987975393"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/Moodboard.tsx",
+      "bytes": 1550,
+      "sha256": "baeec03ef4e34eca1baa1d49ba8eaeee378e3a8a064f2975e8b4258cfba57df1"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/PixelComputer.tsx",
+      "bytes": 2334,
+      "sha256": "761d81e7a5337790b21d2678ad2446e63f27704588cc940d29ae3b6954590369"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/PixelDesk.tsx",
+      "bytes": 705,
+      "sha256": "5517b66e6b8c08c660303276983b48e274748e464495418e35f89510e1f1f84c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/SceneCamera.tsx",
+      "bytes": 1607,
+      "sha256": "060535987234b6ae69424475123eba8a93a2253c012145bb4adb490902454cfd"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/Subtitle.tsx",
+      "bytes": 1319,
+      "sha256": "1a4fcbb626d6db1272e9c7b28b8ae6e2de7e49376108f5f8729fc88267cfe976"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/components/Transition.tsx",
+      "bytes": 684,
+      "sha256": "2193facb284cec989c97abbdb1b7a61ca0cc406c929a630cadc4907f7fb1cc8e"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/compositions/Episode01.tsx",
+      "bytes": 3165,
+      "sha256": "e60e439545fc1310d3563ad4c8251a212192b2fedc2aabcc700e1d6cea8ce2df"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/audioMetadata.json",
+      "bytes": 410,
+      "sha256": "b3cb184bed3ab0deeb72b2c9eb73da50d7210cae912a3234e4602a475eac6f20"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/captions.json",
+      "bytes": 3774,
+      "sha256": "8cfebd4ef681b0fd5fe3f8afe7ec1893ae8a5c4a884cdf7f99e38a82fae8fa5c"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/colors.ts",
+      "bytes": 344,
+      "sha256": "e0e6f177b4d622f4136352a80bdf6f4673ad9482eb0b4aa21037acad9243fa1d"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/sceneTimings.ts",
+      "bytes": 722,
+      "sha256": "a716ce66984c836399ce812011f6ca0f00b84795dcea7950406d7224a7478bf9"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/script.ts",
+      "bytes": 1071,
+      "sha256": "8eef9bcd1a21a5db9db6d123d9da5053b5c55fabed1dc07bde4c5df641b2a131"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/subtitles.ts",
+      "bytes": 5504,
+      "sha256": "fd8992ea4030cb9bad65bd24c3693d79edcd880b36aa28611f307d63774409e8"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/waveform.json",
+      "bytes": 17046,
+      "sha256": "e8e909d977183ec4d810b6db35e7bb5124636d67593f8eacb00677f69a2717c5"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/index.ts",
+      "bytes": 88,
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene01Hook.tsx",
+      "bytes": 1790,
+      "sha256": "5e027103dd026bd8c82b48a7e495dd37514c6d08fc0a7b5e0908f0c49e80276b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene02ClientMessage.tsx",
+      "bytes": 1725,
+      "sha256": "6b3beaa4a2faa2c1075a3955aa6362a82afa0ca12b3e364d2a826f03be7e31cc"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene03Confusion.tsx",
+      "bytes": 2326,
+      "sha256": "dfd9893c9c9423fb32146247f85a78a7a59313f4b1880440f4df8661eb94033e"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene04Questions.tsx",
+      "bytes": 1821,
+      "sha256": "74e5b4215d20e42489602113621d81b5f097d5b471515af5771612a27e6eefdc"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene05Answer.tsx",
+      "bytes": 1749,
+      "sha256": "4f6f9aa00f5dc135b56b0eec306f8cf41665a0e0024b45c72a310f870d5c2043"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene06Canvas.tsx",
+      "bytes": 1196,
+      "sha256": "691351e37394690b14d588b23f490bdd19b653f18e892f354759906fa23bfca0"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene07CreativeBlock.tsx",
+      "bytes": 2139,
+      "sha256": "7a916f19ce3c820be81a091c76c2293186e426ca591b60ff62dcafcfe3286455"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/scenes/Scene08Teaser.tsx",
+      "bytes": 3001,
+      "sha256": "d691c9529df7bbbb51b4d949cb61e3e7152769f077a85e091dd1cf3ce29939bd"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/style.css",
+      "bytes": 211,
+      "sha256": "c8d6bf591f38310737db89157a37b0bc0972e5451cf58f62a75d908d0b6af68f"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/utils/animations.ts",
+      "bytes": 492,
+      "sha256": "b0018e39dbfc539cb20058e63f6db8f8a55b798fd30dc72bd12d1b6ff618427b"
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/tsconfig.json",
+      "bytes": 413,
+      "sha256": "5dbb31a9c4edad9f1f44dd9ff6268fb059d9fd6df1c5d28af2d2dafe8b1398fc"
+    }
+  ],
+  "lockedLocalFiles": {
+    "src/characters/PixelCharacter.tsx": "8c3a74fb84e033f24e123e54bbe60eec9198ddecc2d507bbd3acc21336f823dc",
+    "src/characters/CharacterExpressions.ts": "ed0a3aa46b9eb6d569b286f383950f0322999aad11d8e3da2b042d4defaac26b",
+    "src/data/colors.ts": "e0e6f177b4d622f4136352a80bdf6f4673ad9482eb0b4aa21037acad9243fa1d",
+    "src/style.css": "c8d6bf591f38310737db89157a37b0bc0972e5451cf58f62a75d908d0b6af68f",
+    "src/utils/animations.ts": "b0018e39dbfc539cb20058e63f6db8f8a55b798fd30dc72bd12d1b6ff618427b"
+  },
+  "fonts": {
+    "public/fonts/SpaceGrotesk.woff2": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d",
+    "public/fonts/OFL-SpaceGrotesk.txt": "18a4de52385f6b988782639d5d0cc1326e5a8c2de9a7f01d7b20d9aedcc60943"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sourcePath": "public/audio/ep02-voiceover.mp3",
+  "staticSource": "audio/ep02-voiceover.mp3",
+  "audioDurationSeconds": 51.487313,
+  "decodedDurationSeconds": 51.48734693877551,
+  "audioSamples": 2270592,
+  "sampleRate": 44100,
+  "sourceSha256": "49c45681d5391565da3061e8a9c42ce6c755510efb40883cd09595243baf0368",
+  "fps": 30,
+  "audioFrames": 1545,
+  "endingPaddingFrames": 105,
+  "durationInFrames": 1650,
+  "voiceGain": 0.82
+}
