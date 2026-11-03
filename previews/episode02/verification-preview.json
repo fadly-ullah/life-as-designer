@@ -1,0 +1,54 @@
+{
+  "file": "out/ep02-full-preview.mp4",
+  "bytes": 3977103,
+  "codec": "h264",
+  "resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "frames": 1650,
+  "videoDurationSeconds": 55.0,
+  "containerDurationSeconds": 55.0,
+  "voiceDurationSeconds": 51.487313,
+  "previewSha256": "f716e3cd2a065e51cb36ed9b4dc988149608bb0df3c63a74883ec4d42b0a240e",
+  "voiceSourceSha256": "49c45681d5391565da3061e8a9c42ce6c755510efb40883cd09595243baf0368",
+  "latestVoiceFileUnmodified": true,
+  "originalCharacterDesignPreserved": true,
+  "final1080pRendered": false,
+  "voiceSync": [
+    {
+      "windowSeconds": [
+        0.5,
+        7
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99681
+    },
+    {
+      "windowSeconds": [
+        24,
+        31
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99648
+    },
+    {
+      "windowSeconds": [
+        44,
+        51
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99227
+    }
+  ],
+  "audioSamplePeakDbFS": -1.36,
+  "integratedLoudnessLUFS": -16.0,
+  "truePeakDbTP": -1.3,
+  "fullDecode": "passed",
+  "blackFrames": "none detected",
+  "captionCues": 36,
+  "captionTranscript": "matches supplied script",
+  "captionAlignment": "Local Whisper small phrase segments + waveform and playback review; not phoneme or forced word alignment",
+  "identityReference": "Original EP01 source rig, typography and local font verified by SHA256"
+}

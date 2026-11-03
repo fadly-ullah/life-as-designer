@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "voiceSourceSha256": "49c45681d5391565da3061e8a9c42ce6c755510efb40883cd09595243baf0368",
+  "reviewer": "Codex visual inspection",
+  "notes": [
+    "Original EP01 reference frame compared side by side; same SVG rig, clothing, hair and pixel geometry.",
+    "All nine scenes/moments inspected: no clipped important text, two-line subtitle safe area, original editorial hierarchy.",
+    "Unselected sketches now fade out completely, selected direction moves into computer.",
+    "Green/yellow overload is confined to the intentional failed promo poster."
+  ],
+  "frames": [
+    {
+      "file": "01-opening.png",
+      "frame": 75,
+      "sha256": "e07e0902bfb437ef476824b6bb537a6eced69b964b6544b7e497341e4e056ec0"
+    },
+    {
+      "file": "02-inspiration-browsing.png",
+      "frame": 438,
+      "sha256": "4cada2e57d0dc3750c927f6b9ab880580dfd1f040be9ad2e6ba7784c15b7b2d1"
+    },
+    {
+      "file": "03-thirty-minutes.png",
+      "frame": 510,
+      "sha256": "abb519e145cb216ca92b37a5df852ec0fd42e770b97b9e6c468c9704721ba698"
+    },
+    {
+      "file": "04-overthinking.png",
+      "frame": 766,
+      "sha256": "38fcc913f510f21fd3eae149c934b118f9df158a88b3770ba41ea277774f67f6"
+    },
+    {
+      "file": "05-keywords-sketches.png",
+      "frame": 1125,
+      "sha256": "560f2475ffc3ef217324c065483769cc3014ee00db50493ec742791121714b37"
+    },
+    {
+      "file": "06-color-disaster.png",
+      "frame": 1430,
+      "sha256": "a5d0c8fa30daa0e35ed6784d9ac16015554ef14a39425d58326be21681335539"
+    },
+    {
+      "file": "07-reset.png",
+      "frame": 900,
+      "sha256": "37d7a188d546a3b49af247ca5bb34f395c97cd20c1ce796bf1d7da6cd312c2be"
+    },
+    {
+      "file": "08-design-direction.png",
+      "frame": 1225,
+      "sha256": "7aa100b5471e31b51a7b72e4768e950cb35b0836a056b2607b5d609af8f7daa7"
+    },
+    {
+      "file": "09-ep03-teaser.png",
+      "frame": 1590,
+      "sha256": "06653ebb54e064a0ae2300354d9c86688648c053eaf54bd1d8262614cce351aa"
+    }
+  ]
+}

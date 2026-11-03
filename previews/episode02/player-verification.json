@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "duration": 55,
+    "width": 540,
+    "height": 960,
+    "canPlayMP4": "probably"
+  },
+  "seekPoints": [
+    0.7,
+    5.9,
+    10,
+    14.7,
+    16.9,
+    19.5,
+    22.9,
+    25.7,
+    27.2,
+    29.9,
+    32.4,
+    34.9,
+    37.4,
+    40.8,
+    44.6,
+    47.7,
+    50,
+    54.5
+  ],
+  "fullPlaybackAtNormalSpeed": {
+    "ended": true,
+    "currentTime": 55,
+    "error": null,
+    "quality": {
+      "total": 3919,
+      "dropped": 0
+    }
+  },
+  "errors": []
+}

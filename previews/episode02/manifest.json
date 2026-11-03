@@ -1,0 +1,97 @@
+{
+  "sourceBranch": "episode02/inspiration-overthinking",
+  "sourceCommit": "b19236ec8ea1410621d38c8afbd4a6a9569df83a",
+  "previewBranch": "preview/episode02",
+  "previewDurationSeconds": 55,
+  "voiceDurationSeconds": 51.487313,
+  "previewSha256": "f716e3cd2a065e51cb36ed9b4dc988149608bb0df3c63a74883ec4d42b0a240e",
+  "final1080pRendered": false,
+  "userApproval": "pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2039,
+      "sha256": "2bf8c06e62af202c6d8515b5d64d541689d5d6309b2862f1f7481cfd9670ccc4"
+    },
+    {
+      "path": "encoded-timeline.jpg",
+      "bytes": 345903,
+      "sha256": "d93686427913e138eabcf5b9cf5f5a45f15ffd2c955f92eb30c74be23daae94a"
+    },
+    {
+      "path": "ep01-ep02-comparison.jpg",
+      "bytes": 225149,
+      "sha256": "9ae6f74c913bbcabc15b0318c68df1785d7ef2eb38737fc41457c2aaef3e85e0"
+    },
+    {
+      "path": "ep02-full-preview.mp4",
+      "bytes": 3977103,
+      "sha256": "f716e3cd2a065e51cb36ed9b4dc988149608bb0df3c63a74883ec4d42b0a240e"
+    },
+    {
+      "path": "episode02-subtitles.srt",
+      "bytes": 1992,
+      "sha256": "6e34ea2b8ade92cc6504b59d8630d697bc83677412bbf5d1f3fd21fb1ea49702"
+    },
+    {
+      "path": "player-verification.json",
+      "bytes": 483,
+      "sha256": "84edf53dc19ef3ea4ef2a7462335c38241708514938ab84d8ac557de186301a3"
+    },
+    {
+      "path": "verification-preview.json",
+      "bytes": 1413,
+      "sha256": "49c4a4ab29b7ee7e2a8684aae82cc02cbe365b841a7060f0eb5093ac5aa74ae1"
+    },
+    {
+      "path": "visual-check/01-opening.png",
+      "bytes": 150459,
+      "sha256": "e07e0902bfb437ef476824b6bb537a6eced69b964b6544b7e497341e4e056ec0"
+    },
+    {
+      "path": "visual-check/02-inspiration-browsing.png",
+      "bytes": 189288,
+      "sha256": "4cada2e57d0dc3750c927f6b9ab880580dfd1f040be9ad2e6ba7784c15b7b2d1"
+    },
+    {
+      "path": "visual-check/03-thirty-minutes.png",
+      "bytes": 175012,
+      "sha256": "abb519e145cb216ca92b37a5df852ec0fd42e770b97b9e6c468c9704721ba698"
+    },
+    {
+      "path": "visual-check/04-overthinking.png",
+      "bytes": 210789,
+      "sha256": "38fcc913f510f21fd3eae149c934b118f9df158a88b3770ba41ea277774f67f6"
+    },
+    {
+      "path": "visual-check/05-keywords-sketches.png",
+      "bytes": 145279,
+      "sha256": "560f2475ffc3ef217324c065483769cc3014ee00db50493ec742791121714b37"
+    },
+    {
+      "path": "visual-check/06-color-disaster.png",
+      "bytes": 202277,
+      "sha256": "a5d0c8fa30daa0e35ed6784d9ac16015554ef14a39425d58326be21681335539"
+    },
+    {
+      "path": "visual-check/07-reset.png",
+      "bytes": 147101,
+      "sha256": "37d7a188d546a3b49af247ca5bb34f395c97cd20c1ce796bf1d7da6cd312c2be"
+    },
+    {
+      "path": "visual-check/08-design-direction.png",
+      "bytes": 141011,
+      "sha256": "7aa100b5471e31b51a7b72e4768e950cb35b0836a056b2607b5d609af8f7daa7"
+    },
+    {
+      "path": "visual-check/09-ep03-teaser.png",
+      "bytes": 184963,
+      "sha256": "06653ebb54e064a0ae2300354d9c86688648c053eaf54bd1d8262614cce351aa"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 1990,
+      "sha256": "a6759f9d434b943c30617ad40c6c5c72a5548946468643c49de643f0b354f410"
+    }
+  ]
+}
