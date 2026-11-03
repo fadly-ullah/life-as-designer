@@ -1,0 +1,163 @@
+{
+  "file": "out/ep03-full-preview.mp4",
+  "bytes": 3860149,
+  "codec": "h264",
+  "resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "frames": 1740,
+  "videoDurationSeconds": 58.0,
+  "containerDurationSeconds": 58.0,
+  "voiceDurationSeconds": 54.282438,
+  "previewSha256": "946d9a1460faa0ed15f2d6e036aa1ab492a0ce9a47118d9ec9a2bbeab6671e25",
+  "voiceSourceSha256": "c3be1d84fdfa95b6cb18c21c8432eede9db83a321e42fb0467c236c94d878d82",
+  "latestVoiceFileUnmodified": true,
+  "originalCharacterDesignPreserved": true,
+  "final1080pRendered": false,
+  "voiceSync": [
+    {
+      "windowSeconds": [
+        0.5,
+        7
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99481
+    },
+    {
+      "windowSeconds": [
+        25,
+        32
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99589
+    },
+    {
+      "windowSeconds": [
+        47,
+        53.9
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99135
+    }
+  ],
+  "audioSamplePeakDbFS": -1.41,
+  "integratedLoudnessLUFS": -16.1,
+  "truePeakDbTP": -1.3,
+  "fullDecode": "passed",
+  "blackFrames": "none detected",
+  "captionCues": 26,
+  "captionTranscript": "matches supplied script",
+  "captionAlignment": "Local Whisper-small phrase timestamps matched to measured speech/pause regions; no word/phoneme timing claim",
+  "identityReference": "Original EP01 source rig, typography and local font verified by SHA256",
+  "browserPlayback": {
+    "metadata": {
+      "duration": 58,
+      "width": 540,
+      "height": 960,
+      "canPlayMP4": "probably"
+    },
+    "seekPoints": [
+      0.5,
+      2,
+      4.6,
+      7.8,
+      10,
+      13.7,
+      16.3,
+      18.2,
+      21.8,
+      24,
+      27.5,
+      30.5,
+      33.3,
+      37.7,
+      42.4,
+      45.3,
+      47.8,
+      50.2,
+      52.6,
+      56.8
+    ],
+    "fullPlaybackAtNormalSpeed": {
+      "ended": true,
+      "currentTime": 58,
+      "error": null,
+      "quality": {
+        "total": 4497,
+        "dropped": 0
+      }
+    },
+    "errors": []
+  },
+  "visualReview": {
+    "status": "passed",
+    "productionFingerprint": "0c20ffcd79776b770265ad262215474ccc9ec17dc5243b3d81271bc2867d9778",
+    "voiceSourceSha256": "c3be1d84fdfa95b6cb18c21c8432eede9db83a321e42fb0467c236c94d878d82",
+    "reviewer": "Codex visual inspection",
+    "notes": [
+      "Ten current representative moments inspected; seven requested storyboard checks plus palette, cleanup and EP04 ending.",
+      "Original EP01 frame compared alongside EP03. Same character geometry, facial treatment, hair, hoodie, colors, proportions and font.",
+      "Poster before/after visibly demonstrates weak contrast versus a clear 50% offer, readable title and quiet secondary details.",
+      "The script-font mistake keeps the same poster copy; calligraphy is confined to the fictional artwork and selector.",
+      "Important editorial text and subtitles fit the safe area. Contrast crops are visual examples without fabricated scores.",
+      "Character scale and continuous blink/breath clock checked after refinements.",
+      "Reset note waits until the browser has closed; EP04 continuation label is below the stand with a clear gap."
+    ],
+    "frames": [
+      {
+        "file": "01-opening-color-disaster.png",
+        "frame": 150,
+        "sha256": "82abb30b75e084fa9e8c4e2857f59d7e96f37ad13ed905d6effbe25f60d4dc36"
+      },
+      {
+        "file": "02-five-color-experiment.png",
+        "frame": 420,
+        "sha256": "c38421d5e5e53ce1288df99fbadcadcd4f3a921f4ab7603c579a20a7f67ae594"
+      },
+      {
+        "file": "03-hierarchy-failure.png",
+        "frame": 550,
+        "sha256": "6d2b690b01c0b1ec70433977556416cd77f0f00e0ba1dec9d792411a5a79af93"
+      },
+      {
+        "file": "04-return-to-brief.png",
+        "frame": 840,
+        "sha256": "bbf7cb43b88b031dd0e5d7d9f2eee34e7705f165bb6d0394e310ac7501297a8f"
+      },
+      {
+        "file": "05-color-functions.png",
+        "frame": 1068,
+        "sha256": "63ebe942951b66a2ab9489a1f1e216d387c8255ffaf669e3e6820e52c69a507e"
+      },
+      {
+        "file": "06-professional-poster.png",
+        "frame": 1330,
+        "sha256": "84b3f8fabb0fe1f8fc3fab991cc611dac67d869e128b3dcf5bd2f37afd23d4a8"
+      },
+      {
+        "file": "07-typography-disaster.png",
+        "frame": 1515,
+        "sha256": "e3a7570538dd77b9598e35341ebcedc7f135678976623963826deb20a54821ed"
+      },
+      {
+        "file": "08-five-swatches.png",
+        "frame": 285,
+        "sha256": "31b52dcc69df1fc0e4507756285ce705b8f6f43316ee9e533981546627b03627"
+      },
+      {
+        "file": "09-cleanup-contrast.png",
+        "frame": 1190,
+        "sha256": "d1a8e6cf8c6f1460128956d455037053b6e8c816cb83a91b0ab68ec3ed9ac758"
+      },
+      {
+        "file": "10-ep04-teaser.png",
+        "frame": 1680,
+        "sha256": "1cc5b0d81ba6721b95d54df06da1d54b4b822c575e46edc72f76760b088a070d"
+      }
+    ]
+  },
+  "testedCompositionSourceCommit": "5851c8dbf1a2906770bb9e9cc3e9b8dd469801b8",
+  "userApprovalForFinal": "pending"
+}
