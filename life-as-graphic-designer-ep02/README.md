@@ -27,6 +27,8 @@ npm run render:preview
 .venv-tools/bin/python scripts/verify-preview.py
 ```
 
+After rendering, run `npm run preview:video` and forward port **3004** for a regular HTML5 player with seek/download support.
+
 Preview output: **`out/ep02-full-preview.mp4`**, 540×960, 30fps, H.264 baseline/yuv420p, AAC stereo 48kHz, faststart. All rendering is capped at **2 workers** (`Config.setConcurrency(2)` and `--concurrency=2`). Use `RENDER_CONCURRENCY=1 npm run render:preview` for constrained machines. Final 1080×1920 movie export is deliberately blocked until the user approves the full evaluation preview.
 
 ## Source and timing
