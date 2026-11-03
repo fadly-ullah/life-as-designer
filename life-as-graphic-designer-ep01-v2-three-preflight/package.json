@@ -1,0 +1,33 @@
+{
+  "name": "life-as-graphic-designer-ep01-v2",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts --port=3001",
+    "typecheck": "tsc --noEmit",
+    "compositions": "remotion compositions src/index.ts",
+    "audio:inspect": "node scripts/inspect-audio.mjs",
+    "smoke:3d": "node scripts/smoke-3d.mjs",
+    "check:environment": "node scripts/check-environment.mjs"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@remotion/bundler": "4.0.540",
+    "@remotion/captions": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "@remotion/three": "4.0.540",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.0",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@types/three": "0.187.0",
+    "typescript": "5.9.3"
+  }
+}

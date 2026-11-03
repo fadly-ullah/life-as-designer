@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "sourceSha256": "953087f1dde04b02af2bc1e3e157d05f6609ac437ecee6f4e721b0718b424518",
+  "source": "original EP01",
+  "pairs": [
+    {
+      "name": "Hook-WOW",
+      "originalFrame": 126,
+      "v2Frame": 60
+    },
+    {
+      "name": "Questions",
+      "originalFrame": 1000,
+      "v2Frame": 800
+    },
+    {
+      "name": "Moodboard",
+      "originalFrame": 1300,
+      "v2Frame": 1080
+    }
+  ],
+  "visualFilesByteIdentical": true,
+  "sceneStaticLayoutSignatures": "all eight identical",
+  "note": "Pose, timing and narration change; model geometry, typography, colors, layout positions and dimensions are preserved.",
+  "visualReview": {
+    "reviewer": "assistant",
+    "pairsInspected": 3,
+    "modelAndProportions": "consistent with original",
+    "typographyPaletteEditorialLayout": "consistent with original",
+    "textAndPoseChanges": "limited to updated narration and original rig performance",
+    "approvalForFinal1080p": false
+  }
+}

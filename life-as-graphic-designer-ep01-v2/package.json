@@ -1,0 +1,41 @@
+{
+  "name": "life-as-graphic-designer-ep01-v2",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts --port=3001",
+    "render": "npm run render:final",
+    "compositions": "remotion compositions src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "stills": "node scripts/render-stills.mjs",
+    "prepare:assets": "npm run audio:analyze",
+    "verify": "npm run verify:preview",
+    "preview:video": "node scripts/preview-video.mjs",
+    "check:identity": "node scripts/check-identity.mjs",
+    "check:production": "node scripts/check-production.mjs",
+    "check:environment": "node scripts/check-environment.mjs",
+    "compare:visuals": "node scripts/compare-visuals.mjs",
+    "render:preview": "node scripts/check-production.mjs --preview && remotion render src/index.ts LifeAsGraphicDesignerEP01V2 out/.preview-mix.mp4 --codec=h264 --scale=0.5 --concurrency=3 && node scripts/master-preview.mjs",
+    "render:final": "node scripts/check-production.mjs && remotion render src/index.ts LifeAsGraphicDesignerEP01V2 out/.render-mix.mp4 --codec=h264 --concurrency=3 && node scripts/master-output.mjs",
+    "verify:preview": "python3 scripts/verify-preview.py",
+    "audio:analyze": "python3 scripts/analyze-latest-voice.py"
+  },
+  "dependencies": {
+    "@fontsource-variable/space-grotesk": "5.2.10",
+    "@remotion/bundler": "4.0.540",
+    "@remotion/captions": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "@remotion/transitions": "4.0.540",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.0",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

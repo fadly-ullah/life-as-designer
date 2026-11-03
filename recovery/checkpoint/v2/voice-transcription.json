@@ -1,0 +1,508 @@
+{
+  "source": "public/audio/ep01-voiceover.mp3",
+  "sourceSha256": "953087f1dde04b02af2bc1e3e157d05f6609ac437ecee6f4e721b0718b424518",
+  "durationSeconds": 58.0440625,
+  "engine": "sherpa-onnx 2.0.1 / Whisper tiny multilingual CPU",
+  "language": "id",
+  "silences": [
+    [
+      1.137823,
+      1.492086
+    ],
+    [
+      2.61873,
+      2.979388
+    ],
+    [
+      3.246395,
+      3.647256
+    ],
+    [
+      3.850385,
+      4.213719
+    ],
+    [
+      5.844218,
+      6.171542
+    ],
+    [
+      8.854263,
+      9.204739
+    ],
+    [
+      13.227823,
+      13.657007
+    ],
+    [
+      13.825601,
+      14.170431
+    ],
+    [
+      15.33356,
+      15.978753
+    ],
+    [
+      16.319138,
+      16.658413
+    ],
+    [
+      18.227937,
+      18.562608
+    ],
+    [
+      19.901859,
+      20.339819
+    ],
+    [
+      21.584785,
+      22.083764
+    ],
+    [
+      23.230091,
+      23.757846
+    ],
+    [
+      24.88483,
+      25.349909
+    ],
+    [
+      27.271769,
+      27.737982
+    ],
+    [
+      29.253016,
+      29.467528
+    ],
+    [
+      34.48517,
+      34.736848
+    ],
+    [
+      36.498435,
+      36.814785
+    ],
+    [
+      40.859048,
+      41.14737
+    ],
+    [
+      42.578367,
+      43.030023
+    ],
+    [
+      44.457914,
+      45.627098
+    ],
+    [
+      46.864172,
+      47.290159
+    ],
+    [
+      48.470907,
+      48.935442
+    ],
+    [
+      49.393401,
+      49.894331
+    ],
+    [
+      50.321542,
+      50.911859
+    ],
+    [
+      51.492812,
+      51.758005
+    ],
+    [
+      53.873832,
+      54.466553
+    ],
+    [
+      55.187279,
+      55.644762
+    ],
+    [
+      56.620567,
+      56.828118
+    ]
+  ],
+  "chunks": [
+    {
+      "startSeconds": 0.0,
+      "endSeconds": 21.8342745,
+      "text": "Simpel aja. Tapi harus wow! Huh? Eh? Ini brief apat tak tak kibang. Gue baru buka aja. Briefnya udah bikin otak buffering. Postrepromosi. Katanya harus elgian ramai tapi tetap minimalis. Nah, ini mau nyeyem mana? Oke, jangan berubuh buka aplikasi. Pahami dulu mau nyaklain. Gue balikannya tiga hal.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Simpel aja. Tapi harus wow! Huh? Eh? Ini brief apat tak tak kibang. Gue baru buka aja. Briefnya udah bikin otak buffering. Postrepromosi. Katanya harus elgian ramai tapi tetap minimalis. Nah, ini mau nyeyem mana? Oke, jangan berubuh buka aplikasi. Pahami dulu mau nyaklain. Gue balikannya tiga hal.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Sim",
+          "pel",
+          " aja",
+          ".",
+          " Tapi",
+          " harus",
+          " wow",
+          "!",
+          " Huh",
+          "?",
+          " Eh",
+          "?",
+          " Ini",
+          " brief",
+          " ap",
+          "at",
+          " tak",
+          " tak",
+          " k",
+          "ib",
+          "ang",
+          ".",
+          " Gue",
+          " baru",
+          " bu",
+          "ka",
+          " aja",
+          ".",
+          " Brief",
+          "nya",
+          " udah",
+          " bik",
+          "in",
+          " ot",
+          "ak",
+          " buff",
+          "ering",
+          ".",
+          " Post",
+          "re",
+          "prom",
+          "osi",
+          ".",
+          " Kat",
+          "anya",
+          " harus",
+          " el",
+          "g",
+          "ian",
+          " ram",
+          "ai",
+          " tapi",
+          " tet",
+          "ap",
+          " minimal",
+          "is",
+          ".",
+          " Nah",
+          ",",
+          " ini",
+          " mau",
+          " n",
+          "ye",
+          "y",
+          "em",
+          " mana",
+          "?",
+          " Oke",
+          ",",
+          " jangan",
+          " ber",
+          "ub",
+          "uh",
+          " bu",
+          "ka",
+          " apl",
+          "ik",
+          "asi",
+          ".",
+          " P",
+          "ah",
+          "ami",
+          " dulu",
+          " mau",
+          " ny",
+          "ak",
+          "l",
+          "ain",
+          ".",
+          " Gue",
+          " bal",
+          "ik",
+          "annya",
+          " t",
+          "iga",
+          " hal",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          1.2,
+          2.72,
+          3.56,
+          4.2,
+          5.96,
+          7.2,
+          9.0,
+          10.2,
+          13.4,
+          15.4,
+          18.4,
+          20.0
+        ],
+        "segment_durations": [
+          1.2,
+          1.52,
+          0.84,
+          0.64,
+          1.76,
+          1.24,
+          1.8,
+          1.2,
+          3.2,
+          2.0,
+          3.0,
+          1.6,
+          1.8
+        ],
+        "segment_texts": [
+          " Simpel aja.",
+          " Tapi harus wow!",
+          " Huh?",
+          " Eh?",
+          " Ini brief apat tak tak kibang.",
+          " Gue baru buka aja.",
+          " Briefnya udah bikin otak buffering.",
+          " Postrepromosi.",
+          " Katanya harus elgian ramai tapi tetap minimalis.",
+          " Nah, ini mau nyeyem mana?",
+          " Oke, jangan berubuh buka aplikasi.",
+          " Pahami dulu mau nyaklain.",
+          " Gue balikannya tiga hal."
+        ]
+      }
+    },
+    {
+      "startSeconds": 21.8342745,
+      "endSeconds": 42.804195,
+      "text": "Siapa audiencenya apa pesan utamanya? Dan ga visualnya mau kayak gimana? Nah, baru jelas targetnya anak mudah pesannya diskon 5% Tampilannya gelap dengan action hijau. Oke sekarang ada rahnya! Gue susurnya prioritas informasi begini kecakar, lalu bukan kan fas. Harusnya tinggal eksikusikan!",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Siapa audiencenya apa pesan utamanya? Dan ga visualnya mau kayak gimana? Nah, baru jelas targetnya anak mudah pesannya diskon 5% Tampilannya gelap dengan action hijau. Oke sekarang ada rahnya! Gue susurnya prioritas informasi begini kecakar, lalu bukan kan fas. Harusnya tinggal eksikusikan!",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Si",
+          "apa",
+          " audience",
+          "nya",
+          " apa",
+          " pes",
+          "an",
+          " ut",
+          "am",
+          "anya",
+          "?",
+          " Dan",
+          " ga",
+          " visual",
+          "nya",
+          " mau",
+          " kayak",
+          " gim",
+          "ana",
+          "?",
+          " Nah",
+          ",",
+          " baru",
+          " j",
+          "elas",
+          " target",
+          "nya",
+          " anak",
+          " mud",
+          "ah",
+          " pes",
+          "an",
+          "nya",
+          " disk",
+          "on",
+          " 5",
+          "%",
+          " T",
+          "amp",
+          "il",
+          "annya",
+          " gel",
+          "ap",
+          " dengan",
+          " action",
+          " hij",
+          "au",
+          ".",
+          " Oke",
+          " sekarang",
+          " ada",
+          " rah",
+          "nya",
+          "!",
+          " Gue",
+          " sus",
+          "urn",
+          "ya",
+          " prior",
+          "itas",
+          " inform",
+          "asi",
+          " begin",
+          "i",
+          " ke",
+          "c",
+          "ak",
+          "ar",
+          ",",
+          " l",
+          "alu",
+          " bukan",
+          " kan",
+          " f",
+          "as",
+          ".",
+          " Har",
+          "us",
+          "nya",
+          " ting",
+          "gal",
+          " eks",
+          "ik",
+          "us",
+          "ikan",
+          "!"
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          3.28,
+          5.6,
+          10.8,
+          12.72,
+          14.72,
+          19.12
+        ],
+        "segment_durations": [
+          3.28,
+          2.32,
+          5.2,
+          1.92,
+          2.0,
+          4.4,
+          1.76
+        ],
+        "segment_texts": [
+          " Siapa audiencenya apa pesan utamanya?",
+          " Dan ga visualnya mau kayak gimana?",
+          " Nah, baru jelas targetnya anak mudah pesannya diskon 5%",
+          " Tampilannya gelap dengan action hijau.",
+          " Oke sekarang ada rahnya!",
+          " Gue susurnya prioritas informasi begini kecakar, lalu bukan kan fas.",
+          " Harusnya tinggal eksikusikan!"
+        ]
+      }
+    },
+    {
+      "startSeconds": 42.804195,
+      "endSeconds": 58.0440625,
+      "text": "10 menek kemudian Kanofas masih kosong, referensi makin banyak, idigue, no Jadi mulai dari skatsa atau referensi Episod2, cari inspirasi, malah overthinkING",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "10 menek kemudian Kanofas masih kosong, referensi makin banyak, idigue, no Jadi mulai dari skatsa atau referensi Episod2, cari inspirasi, malah overthinkING",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " 10",
+          " men",
+          "ek",
+          " ke",
+          "mud",
+          "ian",
+          " K",
+          "ano",
+          "f",
+          "as",
+          " masih",
+          " kos",
+          "ong",
+          ",",
+          " refer",
+          "ens",
+          "i",
+          " mak",
+          "in",
+          " banyak",
+          ",",
+          " id",
+          "ig",
+          "ue",
+          ",",
+          " no",
+          " Jadi",
+          " mul",
+          "ai",
+          " dari",
+          " sk",
+          "ats",
+          "a",
+          " atau",
+          " refer",
+          "ens",
+          "i",
+          " Ep",
+          "is",
+          "od",
+          "2",
+          ",",
+          " car",
+          "i",
+          " inspir",
+          "asi",
+          ",",
+          " mal",
+          "ah",
+          " over",
+          "think",
+          "ING"
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          2.68,
+          7.68,
+          11.32
+        ],
+        "segment_durations": [
+          2.0,
+          5.0,
+          3.64,
+          3.88
+        ],
+        "segment_texts": [
+          " 10 menek kemudian",
+          " Kanofas masih kosong, referensi makin banyak, idigue, no",
+          " Jadi mulai dari skatsa atau referensi",
+          " Episod2, cari inspirasi, malah overthinkING"
+        ]
+      }
+    }
+  ],
+  "reviewRequired": true
+}

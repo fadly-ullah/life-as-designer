@@ -1,0 +1,17 @@
+import {readFileSync,existsSync,mkdirSync,writeFileSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+import {resolve} from 'node:path';
+const root=resolve('.');
+const baseline=JSON.parse(readFileSync('preservation-baseline.json','utf8'));
+const digest=(file)=>createHash('sha256').update(readFileSync(file)).digest('hex');
+const frozen=Object.keys(baseline.files).filter(p=>p.startsWith('src/characters/')||p.startsWith('src/components/')||p.startsWith('public/fonts/')||p==='src/data/colors.ts'||p==='src/style.css'||p==='src/compositions/Episode01.tsx'||p==='src/utils/animations.ts');
+const changed=frozen.filter(p=>!existsSync(resolve(root,p))||digest(resolve(root,p))!==baseline.files[p]);
+const sibling=resolve(root,'../life-as-graphic-designer-ep01');
+const original=existsSync(baseline.source)?baseline.source:existsSync(sibling)?sibling:undefined;
+const changedOriginal=original?Object.keys(baseline.files).filter(p=>!existsSync(resolve(original,p))||digest(resolve(original,p))!==baseline.files[p]):[];
+if(changed.length)throw new Error('Original visual identity changed: '+changed.join(', '));
+if(changedOriginal.length)throw new Error('Original project was modified: '+changedOriginal.join(', '));
+mkdirSync('out',{recursive:true});
+const report={status:'passed',source:original??baseline.source,backup:baseline.backup,frozenVisualFiles:frozen,originalFilesUnmodified:original?Object.keys(baseline.files).length:null};
+writeFileSync('out/identity-report.json',JSON.stringify(report,null,2)+'\n');
+console.log(`Visual identity preserved: ${frozen.length} files byte-identical; ${original?`${Object.keys(baseline.files).length} original files untouched.`:'original directory not mounted; verified against the preserved baseline hashes.'}`);

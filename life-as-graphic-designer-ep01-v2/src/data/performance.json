@@ -1,0 +1,228 @@
+[
+  [
+    {
+      "startSeconds": 0,
+      "endSeconds": 1.43,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "startSeconds": 1.43,
+      "endSeconds": 3.42,
+      "action": "surprised",
+      "talk": false
+    },
+    {
+      "startSeconds": 3.42,
+      "endSeconds": 4.15,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "startSeconds": 4.15,
+      "endSeconds": 6.05,
+      "action": "talking",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "startSeconds": 6.05,
+      "endSeconds": 7.25,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "startSeconds": 7.25,
+      "endSeconds": 9.12,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "startSeconds": 9.12,
+      "endSeconds": 11.9,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "startSeconds": 11.9,
+      "endSeconds": 13.45,
+      "action": "confused",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "startSeconds": 13.45,
+      "endSeconds": 15.8,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "startSeconds": 15.8,
+      "endSeconds": 18.4,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "startSeconds": 18.4,
+      "endSeconds": 20.15,
+      "action": "pointing",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "startSeconds": 20.15,
+      "endSeconds": 21.87,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "startSeconds": 21.87,
+      "endSeconds": 23.33,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "startSeconds": 23.33,
+      "endSeconds": 23.76,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "startSeconds": 23.76,
+      "endSeconds": 24.99,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "startSeconds": 24.99,
+      "endSeconds": 25.35,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "startSeconds": 25.35,
+      "endSeconds": 27.55,
+      "action": "pointing",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "startSeconds": 27.55,
+      "endSeconds": 29.34,
+      "action": "happy",
+      "talk": false
+    },
+    {
+      "startSeconds": 29.34,
+      "endSeconds": 31.02,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "startSeconds": 31.02,
+      "endSeconds": 32.52,
+      "action": "happy",
+      "talk": false
+    },
+    {
+      "startSeconds": 32.52,
+      "endSeconds": 34.59,
+      "action": "pointing",
+      "talk": false
+    },
+    {
+      "startSeconds": 34.59,
+      "endSeconds": 36.67,
+      "action": "happy",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "startSeconds": 36.67,
+      "endSeconds": 38.58,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "startSeconds": 38.58,
+      "endSeconds": 41.15,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "startSeconds": 41.15,
+      "endSeconds": 42.8,
+      "action": "happy",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "startSeconds": 42.8,
+      "endSeconds": 45.5,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "startSeconds": 45.5,
+      "endSeconds": 47.29,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "startSeconds": 47.29,
+      "endSeconds": 48.94,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "startSeconds": 48.94,
+      "endSeconds": 50.65,
+      "action": "frustrated",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "startSeconds": 50.65,
+      "endSeconds": 51.76,
+      "action": "talking",
+      "talk": true
+    },
+    {
+      "startSeconds": 51.76,
+      "endSeconds": 53.99,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "startSeconds": 53.99,
+      "endSeconds": 54.47,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "startSeconds": 54.47,
+      "endSeconds": 55.64,
+      "action": "surprised",
+      "talk": false
+    },
+    {
+      "startSeconds": 55.64,
+      "endSeconds": 56.83,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "startSeconds": 56.83,
+      "endSeconds": 59.266666666666666,
+      "action": "frustrated",
+      "talk": false
+    }
+  ]
+]

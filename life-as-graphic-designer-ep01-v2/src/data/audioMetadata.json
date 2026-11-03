@@ -1,0 +1,14 @@
+{
+  "sourcePath": "public/audio/ep01-voiceover.mp3",
+  "staticSource": "audio/ep01-voiceover.mp3",
+  "audioDurationSeconds": 58.04408163265306,
+  "audioSamples": 2559744,
+  "sampleRate": 44100,
+  "fps": 30,
+  "audioFrames": 1742,
+  "endingPaddingFrames": 36,
+  "durationInFrames": 1778,
+  "sourceSha256": "953087f1dde04b02af2bc1e3e157d05f6609ac437ecee6f4e721b0718b424518",
+  "voiceGain": 0.79,
+  "alignment": "Whisper small native phrase segments, crosschecked against waveform/silences; editorially corrected Indonesian spelling. Not forced word alignment."
+}

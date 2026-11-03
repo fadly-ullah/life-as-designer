@@ -1,0 +1,10 @@
+import metadata from './audioMetadata.json';
+export const FPS=30;
+export const AUDIO_DURATION=metadata.audioDurationSeconds;
+export const AUDIO_FRAMES=Math.ceil(AUDIO_DURATION*FPS);
+export const ENDING_PADDING=36;
+export const DURATION=AUDIO_FRAMES+ENDING_PADDING;
+export const sceneStarts=[0, 6.05, 13.45, 20.15, 27.55, 36.67, 42.8, 50.65].map(s=>Math.round(s*FPS));
+export const sceneEnds=[...sceneStarts.slice(1),DURATION];
+export const sceneLengths=sceneStarts.map((s,i)=>sceneEnds[i]-s);
+export const localBeat=(scene:number,absoluteSeconds:number)=>Math.round(absoluteSeconds*FPS)-sceneStarts[scene];

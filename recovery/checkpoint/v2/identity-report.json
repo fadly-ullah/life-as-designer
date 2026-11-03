@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "source": "/workspace/life-as-designer/life-as-graphic-designer-ep01",
+  "backup": "/workspace/life-as-designer/.backups/ep01-original-967d3b7f195b.tar.gz",
+  "frozenVisualFiles": [
+    "public/fonts/OFL-SpaceGrotesk.txt",
+    "public/fonts/SpaceGrotesk.woff2",
+    "src/characters/CharacterExpressions.ts",
+    "src/characters/PixelCharacter.tsx",
+    "src/components/ChatBubble.tsx",
+    "src/components/FloatingCard.tsx",
+    "src/components/Moodboard.tsx",
+    "src/components/PixelComputer.tsx",
+    "src/components/PixelDesk.tsx",
+    "src/components/SceneCamera.tsx",
+    "src/components/Subtitle.tsx",
+    "src/components/Transition.tsx",
+    "src/compositions/Episode01.tsx",
+    "src/data/colors.ts",
+    "src/style.css",
+    "src/utils/animations.ts"
+  ],
+  "originalFilesUnmodified": 57
+}

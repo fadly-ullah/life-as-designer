@@ -1,0 +1,10 @@
+{
+  "source": "public/audio/episode01-vo.mp3",
+  "audioSamples": 2831616,
+  "sampleRate": 44100,
+  "audioDurationSeconds": 64.20897959183674,
+  "fps": 30,
+  "audioFrames": 1927,
+  "sha256": "03359f0b426aff1dee4e3549a26f0606711f983e033cbaee2356d62fa3f13fa9",
+  "status": "Source measured. V2 scene/subtitle alignment awaits docs/."
+}

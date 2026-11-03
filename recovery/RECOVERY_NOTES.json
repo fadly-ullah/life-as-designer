@@ -1,0 +1,18 @@
+{
+  "branch": "recovery/ep01-original-v2-2026-11-03",
+  "sourceSnapshot": "current Codex workspace; not a rebuilt project",
+  "originalRoot": "life-as-graphic-designer-ep01",
+  "v2Root": "life-as-graphic-designer-ep01-v2",
+  "latestVoice": "life-as-graphic-designer-ep01-v2/public/audio/ep01-voiceover.mp3",
+  "latestVoiceSeconds": 58.04408163265306,
+  "latestVoiceSha256": "953087f1dde04b02af2bc1e3e157d05f6609ac437ecee6f4e721b0718b424518",
+  "originalFilesVerifiedUnchanged": 57,
+  "protectedV2VisualFilesByteIdentical": 16,
+  "threeComparisonPairsSaved": true,
+  "previewCompletionVerified": false,
+  "newRenderingPerformedForRecovery": false,
+  "protectedRemoteRefsBefore": {
+    "main": "17134567fb69a7aecdb5881a9376aca4995290f9",
+    "preview/episode01": "ee01a6256cf99455c9c60f06faf4cc03e576f03b"
+  }
+}

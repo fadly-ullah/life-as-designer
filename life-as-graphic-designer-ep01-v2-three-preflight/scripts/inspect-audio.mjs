@@ -1,0 +1,12 @@
+import {spawnSync} from 'node:child_process';
+import {readFileSync,writeFileSync,mkdirSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+const source='public/audio/episode01-vo.mp3';
+const result=spawnSync('ffmpeg',['-v','error','-i',source,'-f','f32le','-ac','1','-ar','44100','-'],{maxBuffer:64*1024*1024});
+if(result.status!==0)throw new Error(result.stderr?.toString()||'Cannot decode original voice');
+const samples=result.stdout.length/4;
+const duration=samples/44100;
+const metadata={source,audioSamples:samples,sampleRate:44100,audioDurationSeconds:duration,fps:30,audioFrames:Math.ceil(duration*30),sha256:createHash('sha256').update(readFileSync(source)).digest('hex'),status:'Source measured. V2 scene/subtitle alignment awaits docs/.'};
+mkdirSync('src/data',{recursive:true});
+writeFileSync('src/data/audioMetadata.json',JSON.stringify(metadata,null,2)+'\n');
+console.log(JSON.stringify(metadata,null,2));
