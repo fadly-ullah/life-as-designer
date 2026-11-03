@@ -13,6 +13,6 @@ export const Scene08TypographyDisaster:React.FC=()=>{
   <div style={{position:'absolute',left:90,top:665,width:310,padding:22,background:E.white,border:`2px solid ${E.line}`,borderRadius:16,opacity:selector,transform:`translateY(${(1-selector)*25}px)`}}><div style={{fontSize:21,fontWeight:700,letterSpacing:2,marginBottom:20}}>FONT / PILIH</div><div style={{fontSize:25,padding:'14px 8px',borderBottom:`1px solid ${E.line}`,color:E.darkOlive}}>Space Grotesk</div><div style={{fontSize:44,fontFamily:'WeddingScript',padding:'17px 8px',background:applied?E.lime:undefined,marginTop:7}}>Great Vibes</div></div>
   <PosterWorkspace base={1} text={1} offer={1} olive={1} cleanup={1} wedding={applied} style={{left:430,top:640,width:540,height:675}} label={applied?'Typography / Great Vibes':'Typography / Space Grotesk'}/>
   <ShotCharacter scene={7} x={90} y={1010} width={285}/>
-  {ending&&<div style={{position:'absolute',right:95,top:1350,color:E.darkOlive,fontSize:25,fontWeight:600}}>BERSAMBUNG / EPISODE 04</div>}
+  {ending&&<div style={{position:'absolute',right:95,top:1380,color:E.darkOlive,fontSize:23,fontWeight:600}}>BERSAMBUNG / EPISODE 04</div>}
  </EditorialShot>;
 };
