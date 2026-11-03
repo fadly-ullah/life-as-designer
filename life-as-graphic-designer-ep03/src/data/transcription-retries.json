@@ -1,0 +1,153 @@
+[
+  {
+    "startSeconds": 3.34,
+    "endSeconds": 6.43,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Kau di sini, buang malah kaya sepanduk di sk",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " K",
+        "au",
+        " di",
+        " sini",
+        ",",
+        " bu",
+        "ang",
+        " mal",
+        "ah",
+        " k",
+        "aya",
+        " se",
+        "p",
+        "and",
+        "uk",
+        " di",
+        " sk"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        0.0
+      ],
+      "segment_texts": [
+        " Kau di sini, buang malah kaya sepanduk di sk"
+      ]
+    }
+  },
+  {
+    "startSeconds": 46.6,
+    "endSeconds": 48.85,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Berarti tinggal pilifon dong",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Ber",
+        "arti",
+        " ting",
+        "gal",
+        " pil",
+        "if",
+        "on",
+        " dong"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        2.3
+      ],
+      "segment_texts": [
+        " Berarti tinggal pilifon dong"
+      ]
+    }
+  },
+  {
+    "startSeconds": 48.85,
+    "endSeconds": 51.3,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Loh, kok malah kaya undangan nikahan",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " L",
+        "oh",
+        ",",
+        " kok",
+        " mal",
+        "ah",
+        " k",
+        "aya",
+        " und",
+        "angan",
+        " nik",
+        "ah",
+        "an"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        0.0
+      ],
+      "segment_texts": [
+        " Loh, kok malah kaya undangan nikahan"
+      ]
+    }
+  },
+  {
+    "startSeconds": 51.3,
+    "endSeconds": 54.282438,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Waduh, episode 4 bakal bahas phone nih.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " W",
+        "ad",
+        "uh",
+        ",",
+        " episode",
+        " 4",
+        " bak",
+        "al",
+        " bah",
+        "as",
+        " phone",
+        " nih",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        2.9
+      ],
+      "segment_texts": [
+        " Waduh, episode 4 bakal bahas phone nih."
+      ]
+    }
+  }
+]

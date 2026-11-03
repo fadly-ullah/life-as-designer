@@ -1,0 +1,14 @@
+{
+  "sourcePath": "public/audio/ep03-voiceover.mp3",
+  "staticSource": "audio/ep03-voiceover.mp3",
+  "audioDurationSeconds": 54.282438,
+  "decodedDurationSeconds": 54.282448979591834,
+  "audioSamples": 2393856,
+  "sampleRate": 44100,
+  "sourceSha256": "c3be1d84fdfa95b6cb18c21c8432eede9db83a321e42fb0467c236c94d878d82",
+  "fps": 30,
+  "audioFrames": 1629,
+  "endingPaddingFrames": 111,
+  "durationInFrames": 1740,
+  "voiceGain": 0.82
+}
