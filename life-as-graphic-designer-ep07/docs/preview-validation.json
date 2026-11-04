@@ -1,0 +1,235 @@
+{
+  "file": "out/ep07-full-preview.mp4",
+  "bytes": 4894598,
+  "codec": "h264",
+  "resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "frames": 2040,
+  "videoDurationSeconds": 68.0,
+  "containerDurationSeconds": 68.0,
+  "voiceDurationSeconds": 65.410563,
+  "previewSha256": "3c895c65db001088566684a59df17df27ce5a2c9e27282e7298e3419bf1098dc",
+  "voiceSourceSha256": "bf3d0990c7776f9a068c3d1da77eb8b62977f8fd3cfc2f65afdf46b1dadb382c",
+  "latestVoiceFileUnmodified": true,
+  "originalCharacterDesignPreserved": true,
+  "final1080pRendered": false,
+  "voiceSync": [
+    {
+      "windowSeconds": [
+        0.3,
+        8
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.96597
+    },
+    {
+      "windowSeconds": [
+        29,
+        40
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99874
+    },
+    {
+      "windowSeconds": [
+        57.3,
+        65.1
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.9976
+    }
+  ],
+  "audioSamplePeakDbFS": -1.87,
+  "integratedLoudnessLUFS": -16.1,
+  "truePeakDbTP": -1.8,
+  "fullDecode": "passed",
+  "blackFrames": "none detected",
+  "captionCues": 38,
+  "captionTranscript": "matches supplied script",
+  "captionAlignment": "Local Whisper-small phrase timestamps matched to measured speech/pause regions; no word/phoneme timing claim",
+  "identityReference": "Original EP01 source rig, typography and local font verified by SHA256",
+  "status": "ready-for-user-review",
+  "testedImplementationCommit": "e580a1839471d112a8b6a527016fedcff7fad213",
+  "sourceBranch": "feature/ep07-season-finale",
+  "previewBranch": "preview/episode07",
+  "protectedPreviousEpisodeFiles": 649,
+  "authenticPreviousEpisodeClips": 6,
+  "visualReview": {
+    "status": "passed",
+    "productionFingerprint": "eec381f433c4a1eb3793802e9ab796d9ff672be8e5937e5125c01b48f4e87e72",
+    "voiceSourceSha256": "bf3d0990c7776f9a068c3d1da77eb8b62977f8fd3cfc2f65afdf46b1dadb382c",
+    "reviewer": "Codex visual inspection",
+    "notes": [
+      "Nineteen checkpoints inspected with EP01 original reference: character geometry, face, hair, clothing, colors and proportions preserved.",
+      "Approval is not revealed before its measured voice cue; nervous, disbelief and original happy performance are distinct.",
+      "Six genuine animated archives match the spoken recap, with no old audio or subtitles in the finale mix. Adjusted EP01 source in-point to 3.55s so the actual HARUS WOW and surprised rig are clearly visible; re-rendered and inspected the correction.",
+      "All six episode archive formats/hashes and all 649 prior project files pass preservation checks.",
+      "Reflection cards remain legible and respect the subtitle/face areas. The brief and young audience/discount/visual priority are consistent with existing episodes.",
+      "Poster evolution uses the actual three poster implementations and resolves to the exact EP06 final state. Before/after and client-discount feedback remain understandable.",
+      "Season 01 completed graphic uses original typography/palette; Season 02 shows three neutral topic options with no automatic selection.",
+      "All current PNGs have readable titles and subtitles, clear facial acting, no clipping, no missing assets and no unrelated visual branding.",
+      "Encoded timeline exposed an overly compressed color/font demonstration. Equal measured phrase thirds and a short font-family crossfade now give color, type and layout readable durations. Inspected the two added intermediate frames plus the revised layout checkpoint."
+    ],
+    "frames": [
+      {
+        "file": "01-nervous-opening.png",
+        "frame": 151,
+        "sha256": "70ec0285ac10a923282027a9eba6bb121bc009dae1d4ab089b1e1be9787449dd"
+      },
+      {
+        "file": "02-client-approved.png",
+        "frame": 338,
+        "sha256": "b79a71c06bc25c0dc489e3c23059d031743694c8e71f5aa73981760f8b198627"
+      },
+      {
+        "file": "03-flashback-montage.png",
+        "frame": 616,
+        "sha256": "d43a2514e0f02569fb938d414130403d484cbadeb9af656e94490f7e7d1187f7"
+      },
+      {
+        "file": "04-reflection.png",
+        "frame": 1188,
+        "sha256": "1fa4f414030f94375876ada8200542d4d24b5d4c04fe14cd4737ec017f8c73db"
+      },
+      {
+        "file": "05-poster-evolution.png",
+        "frame": 1345,
+        "sha256": "cd991cd438be238e5bbf53a64b217ccb605414c980c624de35a654999c98ae23"
+      },
+      {
+        "file": "06-season-completed.png",
+        "frame": 1607,
+        "sha256": "f6cba2a566449ab82e9bc98622633b3c61c36811e3b010b69ca33ffad7af45b0"
+      },
+      {
+        "file": "07-season-two-teaser.png",
+        "frame": 1910,
+        "sha256": "e38bedcf4aab3453152cd68d0816cc2c0749e21965f05be0d8632c06419597e3"
+      },
+      {
+        "file": "08-approval-message.png",
+        "frame": 222,
+        "sha256": "44af906f83c6ada23c01c3ace1ef103bec23416a17a84c6cabfeb494d90bee71"
+      },
+      {
+        "file": "09-disbelief.png",
+        "frame": 284,
+        "sha256": "ce1d126e80fd54df7f9d7ff392d9bcf7dad4bb243f6e622ddc4c509a0a91f9b3"
+      },
+      {
+        "file": "10-archive-ep01.png",
+        "frame": 520,
+        "sha256": "ff347c3766633c0acfc18e5b2e2b0fee71c0d74c8fa1621b5399b46ea97197ea"
+      },
+      {
+        "file": "11-archive-ep02.png",
+        "frame": 561,
+        "sha256": "f94ef1836cddca08f686989c5465e0d8b2a8f99561c13067262d424bc25be647"
+      },
+      {
+        "file": "12-archive-ep03.png",
+        "frame": 596,
+        "sha256": "6b70cb7100420931c718ac87d5f33998d31c2baa53995fc54853487d08c161c8"
+      },
+      {
+        "file": "13-archive-ep05.png",
+        "frame": 702,
+        "sha256": "8c666c3a938243b16f4a8a90cf8191d93548d5555e21cf5f4be151794bc71a7d"
+      },
+      {
+        "file": "14-archive-ep06.png",
+        "frame": 760,
+        "sha256": "b04a687723eb0f676510af0d7eebb343dd1d077a2b701e408efc7b7633fc509b"
+      },
+      {
+        "file": "15-original-brief.png",
+        "frame": 1017,
+        "sha256": "59358aa6f5ae4a9b1df2ebf9868707eaabafa300678f4f89cc2a68b1ed3160a7"
+      },
+      {
+        "file": "16-feedback-lesson.png",
+        "frame": 1461,
+        "sha256": "e95c60516a56db63dbf68e484468eac70804887f1da171d88ca92f403c4c6c74"
+      },
+      {
+        "file": "17-final-hold.png",
+        "frame": 2020,
+        "sha256": "7efd2e9b3c4e2a5bc6d29a5f9bcb9a73db059e0014ac8c72b7a87daa748ae521"
+      },
+      {
+        "file": "18-color-correction.png",
+        "frame": 1280,
+        "sha256": "49199a5f367cc6d75123ce7aac929d9ae79bd1654f3be7ff342fb6a5572ceb9b"
+      },
+      {
+        "file": "19-type-correction.png",
+        "frame": 1327,
+        "sha256": "cddb43b995df298ee6b9584923a733fe14a9eb516e4420808ff0e5fb32aeb171"
+      }
+    ]
+  },
+  "browserPlayback": {
+    "metadata": {
+      "duration": 68,
+      "width": 540,
+      "height": 960,
+      "canPlayMP4": "probably"
+    },
+    "seekPoints": [
+      0.6,
+      2.5,
+      5,
+      6.9,
+      8.9,
+      10.5,
+      12,
+      13.6,
+      15.5,
+      17.3,
+      18.7,
+      19.9,
+      21.4,
+      23.2,
+      25.3,
+      27.5,
+      29.5,
+      31,
+      34,
+      36.9,
+      38.4,
+      40.1,
+      42.2,
+      43.3,
+      44.7,
+      46.8,
+      48.8,
+      50.5,
+      52.5,
+      54,
+      56.1,
+      57.7,
+      59.1,
+      60.1,
+      61.1,
+      62.7,
+      64.3,
+      67
+    ],
+    "fullPlaybackAtNormalSpeed": {
+      "ended": true,
+      "currentTime": 68,
+      "error": null,
+      "quality": {
+        "total": 6037,
+        "dropped": 0
+      }
+    },
+    "browserAudioPlayback": "muted for autoplay; audio independently verified by decode/correlation/loudness",
+    "errors": []
+  },
+  "userPreviewApproval": "pending",
+  "finalExportAuthorized": false
+}
