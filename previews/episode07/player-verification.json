@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "duration": 68,
+    "width": 540,
+    "height": 960,
+    "canPlayMP4": "probably"
+  },
+  "seekPoints": [
+    0.6,
+    2.5,
+    5,
+    6.9,
+    8.9,
+    10.5,
+    12,
+    13.6,
+    15.5,
+    17.3,
+    18.7,
+    19.9,
+    21.4,
+    23.2,
+    25.3,
+    27.5,
+    29.5,
+    31,
+    34,
+    36.9,
+    38.4,
+    40.1,
+    42.2,
+    43.3,
+    44.7,
+    46.8,
+    48.8,
+    50.5,
+    52.5,
+    54,
+    56.1,
+    57.7,
+    59.1,
+    60.1,
+    61.1,
+    62.7,
+    64.3,
+    67
+  ],
+  "fullPlaybackAtNormalSpeed": {
+    "ended": true,
+    "currentTime": 68,
+    "error": null,
+    "quality": {
+      "total": 6037,
+      "dropped": 0
+    }
+  },
+  "browserAudioPlayback": "muted for autoplay; audio independently verified by decode/correlation/loudness",
+  "errors": []
+}

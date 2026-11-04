@@ -1,0 +1,160 @@
+{
+  "sourceBranch": "feature/ep07-season-finale",
+  "sourceCommit": "393220040d6d92fb4c30545fb693f94eae6651c8",
+  "previewBranch": "preview/episode07",
+  "previewDurationSeconds": 68,
+  "voiceDurationSeconds": 65.410563,
+  "voiceMaster": "public/audio/ep07-voiceover.mp3",
+  "voiceSourceSha256": "bf3d0990c7776f9a068c3d1da77eb8b62977f8fd3cfc2f65afdf46b1dadb382c",
+  "previewSha256": "3c895c65db001088566684a59df17df27ce5a2c9e27282e7298e3419bf1098dc",
+  "authenticPreviousEpisodeClips": 6,
+  "final1080pRendered": false,
+  "userApproval": "pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4004,
+      "sha256": "7a4b2ba34c273e4db66b6056249f0dfc79a4b67c38f7ac6164e9b34375ae34ba"
+    },
+    {
+      "path": "additional-story-checks.jpg",
+      "bytes": 424754,
+      "sha256": "3a1a8b2191c5d38cfc00a0886b347d98030b20520d85888e29478c8bac34ea3b"
+    },
+    {
+      "path": "encoded-timeline.jpg",
+      "bytes": 781373,
+      "sha256": "5d9d3edc8de1e68241a4841800a045e9768d991b6ecd3982a7297c950214c9e4"
+    },
+    {
+      "path": "ep01-ep07-comparison.jpg",
+      "bytes": 356963,
+      "sha256": "7fa9ba91662b730306e80263b07891c734d6bc5790b7ca7d3b468c1efd3cbafd"
+    },
+    {
+      "path": "ep07-full-preview.mp4",
+      "bytes": 4894598,
+      "sha256": "3c895c65db001088566684a59df17df27ce5a2c9e27282e7298e3419bf1098dc"
+    },
+    {
+      "path": "episode07-subtitles.srt",
+      "bytes": 2265,
+      "sha256": "1a03c55684c6d93610ef78db1de2fe1edac23914e3393ef4e7016c98800bc640"
+    },
+    {
+      "path": "flashback-provenance.json",
+      "bytes": 4217,
+      "sha256": "cc505b46c016817f1886efd35bf6f3a67bc844273ab7c588e83f77263e66ad9b"
+    },
+    {
+      "path": "player-verification.json",
+      "bytes": 782,
+      "sha256": "1e7023c8bd02de75e70f29264da48f1d4f64bc053a38ed047dfd278a12a0b89e"
+    },
+    {
+      "path": "verification-preview.json",
+      "bytes": 1420,
+      "sha256": "376fe0f1613e76eb3158633fa67a12cb8da38422bd88f79ce4a972eccbeff543"
+    },
+    {
+      "path": "visual-check/01-nervous-opening.png",
+      "bytes": 163431,
+      "sha256": "70ec0285ac10a923282027a9eba6bb121bc009dae1d4ab089b1e1be9787449dd"
+    },
+    {
+      "path": "visual-check/02-client-approved.png",
+      "bytes": 172995,
+      "sha256": "b79a71c06bc25c0dc489e3c23059d031743694c8e71f5aa73981760f8b198627"
+    },
+    {
+      "path": "visual-check/03-flashback-montage.png",
+      "bytes": 440380,
+      "sha256": "d43a2514e0f02569fb938d414130403d484cbadeb9af656e94490f7e7d1187f7"
+    },
+    {
+      "path": "visual-check/04-reflection.png",
+      "bytes": 197398,
+      "sha256": "1fa4f414030f94375876ada8200542d4d24b5d4c04fe14cd4737ec017f8c73db"
+    },
+    {
+      "path": "visual-check/05-poster-evolution.png",
+      "bytes": 209922,
+      "sha256": "cd991cd438be238e5bbf53a64b217ccb605414c980c624de35a654999c98ae23"
+    },
+    {
+      "path": "visual-check/06-season-completed.png",
+      "bytes": 182976,
+      "sha256": "f6cba2a566449ab82e9bc98622633b3c61c36811e3b010b69ca33ffad7af45b0"
+    },
+    {
+      "path": "visual-check/07-season-two-teaser.png",
+      "bytes": 161722,
+      "sha256": "e38bedcf4aab3453152cd68d0816cc2c0749e21965f05be0d8632c06419597e3"
+    },
+    {
+      "path": "visual-check/08-approval-message.png",
+      "bytes": 172139,
+      "sha256": "44af906f83c6ada23c01c3ace1ef103bec23416a17a84c6cabfeb494d90bee71"
+    },
+    {
+      "path": "visual-check/09-disbelief.png",
+      "bytes": 164332,
+      "sha256": "ce1d126e80fd54df7f9d7ff392d9bcf7dad4bb243f6e622ddc4c509a0a91f9b3"
+    },
+    {
+      "path": "visual-check/10-archive-ep01.png",
+      "bytes": 395958,
+      "sha256": "ff347c3766633c0acfc18e5b2e2b0fee71c0d74c8fa1621b5399b46ea97197ea"
+    },
+    {
+      "path": "visual-check/11-archive-ep02.png",
+      "bytes": 500373,
+      "sha256": "f94ef1836cddca08f686989c5465e0d8b2a8f99561c13067262d424bc25be647"
+    },
+    {
+      "path": "visual-check/12-archive-ep03.png",
+      "bytes": 463920,
+      "sha256": "6b70cb7100420931c718ac87d5f33998d31c2baa53995fc54853487d08c161c8"
+    },
+    {
+      "path": "visual-check/13-archive-ep05.png",
+      "bytes": 418366,
+      "sha256": "8c666c3a938243b16f4a8a90cf8191d93548d5555e21cf5f4be151794bc71a7d"
+    },
+    {
+      "path": "visual-check/14-archive-ep06.png",
+      "bytes": 468426,
+      "sha256": "b04a687723eb0f676510af0d7eebb343dd1d077a2b701e408efc7b7633fc509b"
+    },
+    {
+      "path": "visual-check/15-original-brief.png",
+      "bytes": 200173,
+      "sha256": "59358aa6f5ae4a9b1df2ebf9868707eaabafa300678f4f89cc2a68b1ed3160a7"
+    },
+    {
+      "path": "visual-check/16-feedback-lesson.png",
+      "bytes": 186199,
+      "sha256": "e95c60516a56db63dbf68e484468eac70804887f1da171d88ca92f403c4c6c74"
+    },
+    {
+      "path": "visual-check/17-final-hold.png",
+      "bytes": 160325,
+      "sha256": "7efd2e9b3c4e2a5bc6d29a5f9bcb9a73db059e0014ac8c72b7a87daa748ae521"
+    },
+    {
+      "path": "visual-check/18-color-correction.png",
+      "bytes": 239666,
+      "sha256": "49199a5f367cc6d75123ce7aac929d9ae79bd1654f3be7ff342fb6a5572ceb9b"
+    },
+    {
+      "path": "visual-check/19-type-correction.png",
+      "bytes": 245387,
+      "sha256": "cddb43b995df298ee6b9584923a733fe14a9eb516e4420808ff0e5fb32aeb171"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 4775,
+      "sha256": "9acd070b7da710c843719294e4f239d7e54af0d8bf580c9d7ce13bc6df960e2e"
+    }
+  ]
+}
