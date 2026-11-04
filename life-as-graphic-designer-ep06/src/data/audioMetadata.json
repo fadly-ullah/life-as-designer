@@ -1,0 +1,18 @@
+{
+  "sourcePath": "public/audio/ep06-voiceover.wav",
+  "staticSource": "audio/ep06-voiceover.wav",
+  "audioDurationSeconds": 56.610958,
+  "decodedDurationSeconds": 56.610958333333336,
+  "audioSamples": 2717326,
+  "sampleRate": 48000,
+  "sourceSampleRate": 24000,
+  "sourceSha256": "9851ec7d6e87a5520b6c86676b88f5250c619176e7d1d303ce52dcc2d332b05b",
+  "fps": 30,
+  "audioFrames": 1699,
+  "endingPaddingFrames": 71,
+  "durationInFrames": 1770,
+  "voiceGain": 0.82,
+  "compatibilityMp3": "public/audio/ep06-voiceover.mp3",
+  "compatibilityMp3Sha256": "395069ac0376ee0b17e0964b50a8d68b5f32d19d75234436c759c4149177072e",
+  "narrationMaster": "Uploaded WAV, original bytes; MP3 is an optional compatibility derivative only."
+}

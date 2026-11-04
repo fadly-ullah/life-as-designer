@@ -1,0 +1,236 @@
+[
+  [
+    {
+      "start": 0,
+      "end": 0.296542,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 0.296542,
+      "end": 2.375292,
+      "action": "frustrated",
+      "talk": true
+    },
+    {
+      "start": 2.375292,
+      "end": 3.812125,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 3.812125,
+      "end": 4.991083,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 4.991083,
+      "end": 5.8,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 5.8,
+      "end": 6.65,
+      "action": "frustrated",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 6.65,
+      "end": 9.901,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 9.901,
+      "end": 12.4275,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 12.4275,
+      "end": 14.07375,
+      "action": "confused",
+      "talk": true
+    },
+    {
+      "start": 14.07375,
+      "end": 15.634833,
+      "action": "frustrated",
+      "talk": true
+    },
+    {
+      "start": 15.634833,
+      "end": 16.797125,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 16.797125,
+      "end": 18.825708,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 18.825708,
+      "end": 21.09,
+      "action": "frustrated",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 21.09,
+      "end": 21.8,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 21.8,
+      "end": 23.08,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 23.08,
+      "end": 25.439625,
+      "action": "confused",
+      "talk": true
+    },
+    {
+      "start": 25.439625,
+      "end": 26.997625,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 26.997625,
+      "end": 28.799417,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 28.799417,
+      "end": 31.37,
+      "action": "happy",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 31.37,
+      "end": 33.319,
+      "action": "frustrated",
+      "talk": false
+    },
+    {
+      "start": 33.319,
+      "end": 34.1,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 34.1,
+      "end": 35.1,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 35.1,
+      "end": 35.977,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 35.977,
+      "end": 37.12,
+      "action": "pointing",
+      "talk": false
+    },
+    {
+      "start": 37.12,
+      "end": 38.529833,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 38.529833,
+      "end": 40.64,
+      "action": "thinking",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 40.64,
+      "end": 41.6365,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 41.6365,
+      "end": 42.508458,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 42.508458,
+      "end": 43.457375,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 43.457375,
+      "end": 46.751125,
+      "action": "happy",
+      "talk": true
+    },
+    {
+      "start": 46.751125,
+      "end": 48.45,
+      "action": "breathing",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 48.45,
+      "end": 50.267375,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "start": 50.267375,
+      "end": 51.504042,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 51.504042,
+      "end": 52.969667,
+      "action": "thinking",
+      "talk": true
+    },
+    {
+      "start": 52.969667,
+      "end": 54.233542,
+      "action": "confused",
+      "talk": true
+    },
+    {
+      "start": 54.233542,
+      "end": 56.61,
+      "action": "reading",
+      "talk": true
+    },
+    {
+      "start": 56.61,
+      "end": 59,
+      "action": "thinking",
+      "talk": false
+    }
+  ]
+]

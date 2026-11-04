@@ -1,0 +1,522 @@
+{
+  "source": "public/audio/ep06-voiceover.wav",
+  "sourceSha256": "9851ec7d6e87a5520b6c86676b88f5250c619176e7d1d303ce52dcc2d332b05b",
+  "durationSeconds": 56.611,
+  "engine": "sherpa-onnx 2.0.1 / sherpa-onnx-whisper-small multilingual CPU",
+  "language": "id",
+  "silences": [
+    [
+      0.0,
+      0.296667
+    ],
+    [
+      1.374125,
+      1.919458
+    ],
+    [
+      2.088292,
+      2.375417
+    ],
+    [
+      3.508958,
+      3.833333
+    ],
+    [
+      4.541917,
+      4.991083
+    ],
+    [
+      5.21,
+      5.55725
+    ],
+    [
+      6.421708,
+      6.866083
+    ],
+    [
+      7.586375,
+      8.043625
+    ],
+    [
+      9.498292,
+      9.901083
+    ],
+    [
+      10.808542,
+      11.125708
+    ],
+    [
+      11.819083,
+      12.4275
+    ],
+    [
+      13.584292,
+      14.0745
+    ],
+    [
+      14.989792,
+      15.634875
+    ],
+    [
+      16.343667,
+      16.797333
+    ],
+    [
+      18.286792,
+      18.825792
+    ],
+    [
+      20.932792,
+      21.24225
+    ],
+    [
+      24.684917,
+      25.439667
+    ],
+    [
+      26.441083,
+      26.997625
+    ],
+    [
+      28.447375,
+      28.799417
+    ],
+    [
+      31.101333,
+      31.638125
+    ],
+    [
+      32.877458,
+      33.319125
+    ],
+    [
+      38.261333,
+      38.529875
+    ],
+    [
+      40.469792,
+      40.789625
+    ],
+    [
+      41.319917,
+      41.636542
+    ],
+    [
+      42.062625,
+      42.508458
+    ],
+    [
+      43.066458,
+      43.457417
+    ],
+    [
+      46.54025,
+      46.751167
+    ],
+    [
+      48.313042,
+      48.587125
+    ],
+    [
+      48.972375,
+      49.191958
+    ],
+    [
+      50.019917,
+      50.267375
+    ],
+    [
+      51.152375,
+      51.504167
+    ],
+    [
+      52.506042,
+      52.969667
+    ],
+    [
+      53.915333,
+      54.233542
+    ],
+    [
+      55.07125,
+      55.401125
+    ]
+  ],
+  "chunks": [
+    {
+      "startSeconds": 0.0,
+      "endSeconds": 21.087521,
+      "text": "Deadline 3.1 jam, dan aplikasi desain gue malah no freeze! Haa serius sekarang! Jam 10 malam, klien minta fail sebelum jam 11. Gue perik sekali, dua kali, komputernya malah diem, kayak lagi ngambak. Masalahnya perubahan terakhir belum gue simpan. Waduh jangan sampai ngulang dari awal.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Deadline 3.1 jam, dan aplikasi desain gue malah no freeze! Haa serius sekarang! Jam 10 malam, klien minta fail sebelum jam 11. Gue perik sekali, dua kali, komputernya malah diem, kayak lagi ngambak. Masalahnya perubahan terakhir belum gue simpan. Waduh jangan sampai ngulang dari awal.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Dead",
+          "line",
+          " 3",
+          ".",
+          "1",
+          " jam",
+          ",",
+          " dan",
+          " apl",
+          "ik",
+          "asi",
+          " des",
+          "ain",
+          " gue",
+          " mal",
+          "ah",
+          " no",
+          " freeze",
+          "!",
+          " Ha",
+          "a",
+          " ser",
+          "ius",
+          " sekarang",
+          "!",
+          " Jam",
+          " 10",
+          " mal",
+          "am",
+          ",",
+          " kl",
+          "ien",
+          " m",
+          "inta",
+          " fail",
+          " sebel",
+          "um",
+          " jam",
+          " 11",
+          ".",
+          " Gue",
+          " per",
+          "ik",
+          " sekali",
+          ",",
+          " dua",
+          " kali",
+          ",",
+          " kom",
+          "put",
+          "ern",
+          "ya",
+          " mal",
+          "ah",
+          " die",
+          "m",
+          ",",
+          " kayak",
+          " lagi",
+          " ng",
+          "amb",
+          "ak",
+          ".",
+          " Mas",
+          "alah",
+          "nya",
+          " per",
+          "ub",
+          "ahan",
+          " ter",
+          "akh",
+          "ir",
+          " belum",
+          " gue",
+          " sim",
+          "pan",
+          ".",
+          " W",
+          "ad",
+          "uh",
+          " jangan",
+          " sampai",
+          " ng",
+          "ul",
+          "ang",
+          " dari",
+          " aw",
+          "al",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          4.7,
+          6.5,
+          9.6,
+          15.2,
+          18.5
+        ],
+        "segment_durations": [
+          4.7,
+          1.8,
+          3.1,
+          5.6,
+          3.3,
+          2.5
+        ],
+        "segment_texts": [
+          " Deadline 3.1 jam, dan aplikasi desain gue malah no freeze!",
+          " Haa serius sekarang!",
+          " Jam 10 malam, klien minta fail sebelum jam 11.",
+          " Gue perik sekali, dua kali, komputernya malah diem, kayak lagi ngambak.",
+          " Masalahnya perubahan terakhir belum gue simpan.",
+          " Waduh jangan sampai ngulang dari awal."
+        ]
+      }
+    },
+    {
+      "startSeconds": 21.087521,
+      "endSeconds": 42.285541499999994,
+      "text": "Gue coba buka lagi aplikasinya, sambil berharap file gue masih aman. Dan ternyata, ada file auto recovery! Alhamdulillah, masih selamat. Tapi waktunya makin mepet. Gue langsung cek informasi promo, rapihin layout, pastiin ukuran desain, terus ekspor file-nya. Nggak ada waktu buat utak hati detail kecil. Upload, loading.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Gue coba buka lagi aplikasinya, sambil berharap file gue masih aman. Dan ternyata, ada file auto recovery! Alhamdulillah, masih selamat. Tapi waktunya makin mepet. Gue langsung cek informasi promo, rapihin layout, pastiin ukuran desain, terus ekspor file-nya. Nggak ada waktu buat utak hati detail kecil. Upload, loading.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Gue",
+          " co",
+          "ba",
+          " bu",
+          "ka",
+          " lagi",
+          " apl",
+          "ik",
+          "as",
+          "inya",
+          ",",
+          " samb",
+          "il",
+          " ber",
+          "har",
+          "ap",
+          " file",
+          " gue",
+          " masih",
+          " aman",
+          ".",
+          " Dan",
+          " t",
+          "ern",
+          "y",
+          "ata",
+          ",",
+          " ada",
+          " file",
+          " auto",
+          " recovery",
+          "!",
+          " Al",
+          "ham",
+          "dul",
+          "illah",
+          ",",
+          " masih",
+          " sel",
+          "amat",
+          ".",
+          " Tapi",
+          " w",
+          "akt",
+          "unya",
+          " mak",
+          "in",
+          " me",
+          "pet",
+          ".",
+          " Gue",
+          " lang",
+          "sung",
+          " c",
+          "ek",
+          " inform",
+          "asi",
+          " promo",
+          ",",
+          " rap",
+          "ihin",
+          " layout",
+          ",",
+          " past",
+          "iin",
+          " uk",
+          "uran",
+          " des",
+          "ain",
+          ",",
+          " terus",
+          " eks",
+          "por",
+          " file",
+          "-",
+          "nya",
+          ".",
+          " N",
+          "ggak",
+          " ada",
+          " waktu",
+          " buat",
+          " ut",
+          "ak",
+          " hat",
+          "i",
+          " detail",
+          " ke",
+          "cil",
+          ".",
+          " U",
+          "plo",
+          "ad",
+          ",",
+          " loading",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          4.24,
+          7.44,
+          10.0,
+          12.0,
+          17.24,
+          19.4
+        ],
+        "segment_durations": [
+          3.68,
+          3.2,
+          2.56,
+          2.0,
+          5.24,
+          2.16,
+          1.84
+        ],
+        "segment_texts": [
+          " Gue coba buka lagi aplikasinya, sambil berharap file gue masih aman.",
+          " Dan ternyata, ada file auto recovery!",
+          " Alhamdulillah, masih selamat.",
+          " Tapi waktunya makin mepet.",
+          " Gue langsung cek informasi promo, rapihin layout, pastiin ukuran desain, terus ekspor file-nya.",
+          " Nggak ada waktu buat utak hati detail kecil.",
+          " Upload, loading."
+        ]
+      }
+    },
+    {
+      "startSeconds": 42.285541499999994,
+      "endSeconds": 56.611,
+      "text": "Terkirim! Huhh, akhirnya sebelum jam 11, gue kira udah bisa istirahat. Eh, besok paginya, klien ngecat lagi, desainnya diterima, atau revisi lagi? Jawabannya di episode 7.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Terkirim! Huhh, akhirnya sebelum jam 11, gue kira udah bisa istirahat. Eh, besok paginya, klien ngecat lagi, desainnya diterima, atau revisi lagi? Jawabannya di episode 7.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Ter",
+          "k",
+          "irim",
+          "!",
+          " Huh",
+          "h",
+          ",",
+          " akhir",
+          "nya",
+          " sebel",
+          "um",
+          " jam",
+          " 11",
+          ",",
+          " gue",
+          " k",
+          "ira",
+          " udah",
+          " bisa",
+          " ist",
+          "ir",
+          "ah",
+          "at",
+          ".",
+          " Eh",
+          ",",
+          " bes",
+          "ok",
+          " pag",
+          "inya",
+          ",",
+          " kl",
+          "ien",
+          " n",
+          "ge",
+          "cat",
+          " lagi",
+          ",",
+          " des",
+          "ain",
+          "nya",
+          " d",
+          "iter",
+          "ima",
+          ",",
+          " atau",
+          " rev",
+          "isi",
+          " lagi",
+          "?",
+          " Jaw",
+          "ab",
+          "annya",
+          " di",
+          " episode",
+          " 7",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          1.0,
+          4.2,
+          6.14,
+          7.76,
+          9.04,
+          10.46,
+          11.74
+        ],
+        "segment_durations": [
+          1.0,
+          3.2,
+          1.94,
+          1.62,
+          1.28,
+          1.42,
+          1.28,
+          2.5
+        ],
+        "segment_texts": [
+          " Terkirim!",
+          " Huhh, akhirnya sebelum jam 11,",
+          " gue kira udah bisa istirahat.",
+          " Eh, besok paginya,",
+          " klien ngecat lagi,",
+          " desainnya diterima,",
+          " atau revisi lagi?",
+          " Jawabannya di episode 7."
+        ]
+      }
+    }
+  ],
+  "reviewRequired": true
+}

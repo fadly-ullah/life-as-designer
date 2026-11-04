@@ -1,0 +1,287 @@
+[
+  {
+    "startSeconds": 0,
+    "endSeconds": 6.7,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Deadline 3.1.0 jam, dan aplikasi desain gue malah no freeze. Serius sekarang!",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Dead",
+        "line",
+        " 3",
+        ".",
+        "1",
+        ".",
+        "0",
+        " jam",
+        ",",
+        " dan",
+        " apl",
+        "ik",
+        "asi",
+        " des",
+        "ain",
+        " gue",
+        " mal",
+        "ah",
+        " no",
+        " freeze",
+        ".",
+        " Ser",
+        "ius",
+        " sekarang",
+        "!"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        5.0
+      ],
+      "segment_durations": [
+        5.0,
+        2.0
+      ],
+      "segment_texts": [
+        " Deadline 3.1.0 jam, dan aplikasi desain gue malah no freeze.",
+        " Serius sekarang!"
+      ]
+    }
+  },
+  {
+    "startSeconds": 9.65,
+    "endSeconds": 15.4,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Gue perik sekali, dua kali, komputernya meladim, kayak lagi ngambak.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Gue",
+        " per",
+        "ik",
+        " sekali",
+        ",",
+        " dua",
+        " kali",
+        ",",
+        " kom",
+        "put",
+        "ern",
+        "ya",
+        " mel",
+        "ad",
+        "im",
+        ",",
+        " kayak",
+        " lagi",
+        " ng",
+        "amb",
+        "ak",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        5.5
+      ],
+      "segment_texts": [
+        " Gue perik sekali, dua kali, komputernya meladim, kayak lagi ngambak."
+      ]
+    }
+  },
+  {
+    "startSeconds": 25.2,
+    "endSeconds": 31.3,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Dan ternyata ada file auto recovery. Alhamdulillah, masih selamat.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Dan",
+        " t",
+        "ern",
+        "y",
+        "ata",
+        " ada",
+        " file",
+        " auto",
+        " recovery",
+        ".",
+        " Al",
+        "ham",
+        "dul",
+        "illah",
+        ",",
+        " masih",
+        " sel",
+        "amat",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        6.0
+      ],
+      "segment_texts": [
+        " Dan ternyata ada file auto recovery. Alhamdulillah, masih selamat."
+      ]
+    }
+  },
+  {
+    "startSeconds": 33.1,
+    "endSeconds": 38.45,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Gue langsung cek informasi promo, rapihin layout, pastiin ukuran desain, terus export file-nya.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Gue",
+        " lang",
+        "sung",
+        " c",
+        "ek",
+        " inform",
+        "asi",
+        " promo",
+        ",",
+        " rap",
+        "ihin",
+        " layout",
+        ",",
+        " past",
+        "iin",
+        " uk",
+        "uran",
+        " des",
+        "ain",
+        ",",
+        " terus",
+        " export",
+        " file",
+        "-",
+        "nya",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        5.2
+      ],
+      "segment_texts": [
+        " Gue langsung cek informasi promo, rapihin layout, pastiin ukuran desain, terus export file-nya."
+      ]
+    }
+  },
+  {
+    "startSeconds": 38.35,
+    "endSeconds": 42.35,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Gak ada waktu buat utak hati detail kecil. Upload, loading.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " G",
+        "ak",
+        " ada",
+        " waktu",
+        " buat",
+        " ut",
+        "ak",
+        " hat",
+        "i",
+        " detail",
+        " ke",
+        "cil",
+        ".",
+        " U",
+        "plo",
+        "ad",
+        ",",
+        " loading",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        4.0
+      ],
+      "segment_texts": [
+        " Gak ada waktu buat utak hati detail kecil. Upload, loading."
+      ]
+    }
+  },
+  {
+    "startSeconds": 51.3,
+    "endSeconds": 56.611,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Desainnya diterima atau revisi lagi? Jawabannya di episode 7.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Des",
+        "ain",
+        "nya",
+        " d",
+        "iter",
+        "ima",
+        " atau",
+        " rev",
+        "isi",
+        " lagi",
+        "?",
+        " Jaw",
+        "ab",
+        "annya",
+        " di",
+        " episode",
+        " 7",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        2.72
+      ],
+      "segment_durations": [
+        2.72,
+        2.56
+      ],
+      "segment_texts": [
+        " Desainnya diterima atau revisi lagi?",
+        " Jawabannya di episode 7."
+      ]
+    }
+  }
+]
