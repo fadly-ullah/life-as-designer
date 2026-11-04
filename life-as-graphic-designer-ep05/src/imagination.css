@@ -1,0 +1,9 @@
+/* Articulate the ORIGINAL existing right-leg paths together around the hip.
+   No path geometry, clothing, face or proportions are redrawn. */
+.almost-kick svg path[d="M83 142H105V166H108V198H83Z"],
+.almost-kick svg rect[x="88"][y="158"],
+.almost-kick svg g[transform$="94 195)"] {
+ transform-box:view-box;
+ transform-origin:94px 144px;
+ transform:rotate(var(--kick-angle,0deg));
+}

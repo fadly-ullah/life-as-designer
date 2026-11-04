@@ -1,0 +1,115 @@
+[
+  {
+    "startSeconds": 36.5,
+    "endSeconds": 40.95,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Nah, sekarang fokus desainnya lebih jelas, nggak perlu nambah element macam-macam.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Nah",
+        ",",
+        " sekarang",
+        " f",
+        "okus",
+        " des",
+        "ain",
+        "nya",
+        " lebih",
+        " j",
+        "elas",
+        ",",
+        " nggak",
+        " perlu",
+        " n",
+        "amb",
+        "ah",
+        " element",
+        " macam",
+        "-",
+        "mac",
+        "am",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0
+      ],
+      "segment_durations": [
+        4.48
+      ],
+      "segment_texts": [
+        " Nah, sekarang fokus desainnya lebih jelas, nggak perlu nambah element macam-macam."
+      ]
+    }
+  },
+  {
+    "startSeconds": 44,
+    "endSeconds": 53.090958,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Akhirnya... Eh, dia cat lagi bisa final malam ini. Hah? Malam ini? Waduh, episode 6, deadline tinggal sejam.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Ak",
+        "hir",
+        "nya",
+        "...",
+        " Eh",
+        ",",
+        " dia",
+        " cat",
+        " lagi",
+        " bisa",
+        " final",
+        " mal",
+        "am",
+        " ini",
+        ".",
+        " Hah",
+        "?",
+        " Mal",
+        "am",
+        " ini",
+        "?",
+        " W",
+        "ad",
+        "uh",
+        ",",
+        " episode",
+        " 6",
+        ",",
+        " deadline",
+        " ting",
+        "gal",
+        " se",
+        "jam",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.4,
+        6.02
+      ],
+      "segment_durations": [
+        4.4,
+        1.62,
+        3.04
+      ],
+      "segment_texts": [
+        " Akhirnya... Eh, dia cat lagi bisa final malam ini.",
+        " Hah? Malam ini?",
+        " Waduh, episode 6, deadline tinggal sejam."
+      ]
+    }
+  }
+]

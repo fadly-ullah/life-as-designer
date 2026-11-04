@@ -1,0 +1,539 @@
+{
+  "source": "life-as-graphic-designer-ep05/public/audio/ep05-voiceover.wav",
+  "sourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+  "durationSeconds": 53.091,
+  "engine": "sherpa-onnx 2.0.1 / sherpa-onnx-whisper-small multilingual CPU",
+  "language": "id",
+  "silences": [
+    [
+      1.543042,
+      1.817875
+    ],
+    [
+      2.881208,
+      3.1535
+    ],
+    [
+      3.972875,
+      4.181083
+    ],
+    [
+      5.140333,
+      5.422333
+    ],
+    [
+      5.65775,
+      6.199
+    ],
+    [
+      7.396833,
+      7.872208
+    ],
+    [
+      9.142,
+      9.444375
+    ],
+    [
+      10.835708,
+      11.061417
+    ],
+    [
+      12.588042,
+      12.92025
+    ],
+    [
+      14.083125,
+      14.49725
+    ],
+    [
+      15.975,
+      16.308625
+    ],
+    [
+      16.770917,
+      17.127333
+    ],
+    [
+      18.061917,
+      18.423167
+    ],
+    [
+      20.473,
+      20.736583
+    ],
+    [
+      21.426375,
+      21.80875
+    ],
+    [
+      23.291083,
+      23.587292
+    ],
+    [
+      26.755708,
+      27.009958
+    ],
+    [
+      27.161625,
+      27.676917
+    ],
+    [
+      30.35075,
+      30.626792
+    ],
+    [
+      31.92225,
+      32.133333
+    ],
+    [
+      34.421667,
+      34.646042
+    ],
+    [
+      36.423083,
+      36.709125
+    ],
+    [
+      38.877167,
+      39.169833
+    ],
+    [
+      40.818542,
+      41.033125
+    ],
+    [
+      42.222042,
+      42.471
+    ],
+    [
+      43.926917,
+      44.186917
+    ],
+    [
+      45.245625,
+      45.492375
+    ],
+    [
+      45.633792,
+      46.185
+    ],
+    [
+      47.018333,
+      47.239708
+    ],
+    [
+      48.343292,
+      48.587042
+    ],
+    [
+      48.812333,
+      49.315125
+    ],
+    [
+      49.936708,
+      50.174292
+    ]
+  ],
+  "chunks": [
+    {
+      "startSeconds": 0.0,
+      "endSeconds": 20.604791499999997,
+      "text": "Baru aja gue kirim desain, klien langsung bales. Bagus sih, tapi kurang nendang. Lah? Kurang nendang gimana bang? Mau gue tendang posternya? Awalnya minta minimalis, sekarang malah pengen lebih rame. Gue sempet mikir, apa perlu nambah ornament, warna, atau element lain? Waduh, bisa balik berantakan lagi nih.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Baru aja gue kirim desain, klien langsung bales. Bagus sih, tapi kurang nendang. Lah? Kurang nendang gimana bang? Mau gue tendang posternya? Awalnya minta minimalis, sekarang malah pengen lebih rame. Gue sempet mikir, apa perlu nambah ornament, warna, atau element lain? Waduh, bisa balik berantakan lagi nih.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Bar",
+          "u",
+          " aja",
+          " gue",
+          " kir",
+          "im",
+          " des",
+          "ain",
+          ",",
+          " kl",
+          "ien",
+          " lang",
+          "sung",
+          " bal",
+          "es",
+          ".",
+          " Bag",
+          "us",
+          " sih",
+          ",",
+          " tapi",
+          " kur",
+          "ang",
+          " n",
+          "end",
+          "ang",
+          ".",
+          " Lah",
+          "?",
+          " Kur",
+          "ang",
+          " n",
+          "end",
+          "ang",
+          " gim",
+          "ana",
+          " bang",
+          "?",
+          " Mau",
+          " gue",
+          " tend",
+          "ang",
+          " poster",
+          "nya",
+          "?",
+          " Aw",
+          "alnya",
+          " m",
+          "inta",
+          " minimal",
+          "is",
+          ",",
+          " sekarang",
+          " mal",
+          "ah",
+          " peng",
+          "en",
+          " lebih",
+          " r",
+          "ame",
+          ".",
+          " Gue",
+          " se",
+          "mp",
+          "et",
+          " mik",
+          "ir",
+          ",",
+          " apa",
+          " perlu",
+          " n",
+          "amb",
+          "ah",
+          " ornament",
+          ",",
+          " war",
+          "na",
+          ",",
+          " atau",
+          " element",
+          " lain",
+          "?",
+          " W",
+          "ad",
+          "uh",
+          ",",
+          " bisa",
+          " bal",
+          "ik",
+          " ber",
+          "ant",
+          "akan",
+          " lagi",
+          " nih",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          3.0,
+          5.26,
+          7.66,
+          9.24,
+          12.76,
+          18.26
+        ],
+        "segment_durations": [
+          3.0,
+          2.26,
+          2.4,
+          1.58,
+          3.52,
+          5.5,
+          2.3
+        ],
+        "segment_texts": [
+          " Baru aja gue kirim desain, klien langsung bales.",
+          " Bagus sih, tapi kurang nendang.",
+          " Lah? Kurang nendang gimana bang?",
+          " Mau gue tendang posternya?",
+          " Awalnya minta minimalis, sekarang malah pengen lebih rame.",
+          " Gue sempet mikir, apa perlu nambah ornament, warna, atau element lain?",
+          " Waduh, bisa balik berantakan lagi nih."
+        ]
+      }
+    },
+    {
+      "startSeconds": 20.604791499999997,
+      "endSeconds": 40.925833499999996,
+      "text": "Tapi bentar, jangan-jangan gue salah nangkap. Gue tanya balik, bagian mana yang sebenarnya kurang menonjol? Eh, ternyata klien cuma takut angka diskonnya gak keyatan. Oke, sekarang jelas. Gue gedein angka diskon, perkuat kontras, terus rapihin posisi tombol ajakannya. Nah, sekarang fokus desainnya lebih jelas. Gak perlu nambah elemen macem",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Tapi bentar, jangan-jangan gue salah nangkap. Gue tanya balik, bagian mana yang sebenarnya kurang menonjol? Eh, ternyata klien cuma takut angka diskonnya gak keyatan. Oke, sekarang jelas. Gue gedein angka diskon, perkuat kontras, terus rapihin posisi tombol ajakannya. Nah, sekarang fokus desainnya lebih jelas. Gak perlu nambah elemen macem",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Tapi",
+          " bent",
+          "ar",
+          ",",
+          " jangan",
+          "-",
+          "j",
+          "angan",
+          " gue",
+          " salah",
+          " n",
+          "ang",
+          "kap",
+          ".",
+          " Gue",
+          " t",
+          "anya",
+          " bal",
+          "ik",
+          ",",
+          " bag",
+          "ian",
+          " mana",
+          " yang",
+          " seben",
+          "arnya",
+          " kur",
+          "ang",
+          " men",
+          "on",
+          "j",
+          "ol",
+          "?",
+          " Eh",
+          ",",
+          " t",
+          "ern",
+          "y",
+          "ata",
+          " kl",
+          "ien",
+          " cuma",
+          " tak",
+          "ut",
+          " ang",
+          "ka",
+          " disk",
+          "on",
+          "nya",
+          " gak",
+          " ke",
+          "y",
+          "atan",
+          ".",
+          " Oke",
+          ",",
+          " sekarang",
+          " j",
+          "elas",
+          ".",
+          " Gue",
+          " g",
+          "ede",
+          "in",
+          " ang",
+          "ka",
+          " disk",
+          "on",
+          ",",
+          " per",
+          "ku",
+          "at",
+          " kont",
+          "ras",
+          ",",
+          " terus",
+          " rap",
+          "ihin",
+          " pos",
+          "isi",
+          " to",
+          "mbol",
+          " aj",
+          "ak",
+          "annya",
+          ".",
+          " Nah",
+          ",",
+          " sekarang",
+          " f",
+          "okus",
+          " des",
+          "ain",
+          "nya",
+          " lebih",
+          " j",
+          "elas",
+          ".",
+          " G",
+          "ak",
+          " perlu",
+          " n",
+          "amb",
+          "ah",
+          " ele",
+          "men",
+          " mac",
+          "em"
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          2.84,
+          6.26,
+          9.84,
+          11.42,
+          15.96,
+          18.42
+        ],
+        "segment_durations": [
+          2.84,
+          3.42,
+          3.58,
+          1.58,
+          4.54,
+          2.46,
+          0.0
+        ],
+        "segment_texts": [
+          " Tapi bentar, jangan-jangan gue salah nangkap.",
+          " Gue tanya balik, bagian mana yang sebenarnya kurang menonjol?",
+          " Eh, ternyata klien cuma takut angka diskonnya gak keyatan.",
+          " Oke, sekarang jelas.",
+          " Gue gedein angka diskon, perkuat kontras, terus rapihin posisi tombol ajakannya.",
+          " Nah, sekarang fokus desainnya lebih jelas.",
+          " Gak perlu nambah elemen macem"
+        ]
+      }
+    },
+    {
+      "startSeconds": 40.925833499999996,
+      "endSeconds": 53.091,
+      "text": "Gue kirim lagi ke klien. Nah, ini maksud saya. Akhirnya... Eh? Dia cat lagi? Bisa final malam ini. Hah? Malam ini? Waduh... Episode 6? Datelain tinggal sejam",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Gue kirim lagi ke klien. Nah, ini maksud saya. Akhirnya... Eh? Dia cat lagi? Bisa final malam ini. Hah? Malam ini? Waduh... Episode 6? Datelain tinggal sejam",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Gue",
+          " kir",
+          "im",
+          " lagi",
+          " ke",
+          " kl",
+          "ien",
+          ".",
+          " Nah",
+          ",",
+          " ini",
+          " mak",
+          "sud",
+          " saya",
+          ".",
+          " Ak",
+          "hir",
+          "nya",
+          "...",
+          " Eh",
+          "?",
+          " Dia",
+          " cat",
+          " lagi",
+          "?",
+          " B",
+          "isa",
+          " final",
+          " mal",
+          "am",
+          " ini",
+          ".",
+          " Hah",
+          "?",
+          " Mal",
+          "am",
+          " ini",
+          "?",
+          " W",
+          "ad",
+          "uh",
+          "...",
+          " Episode",
+          " 6",
+          "?",
+          " Dat",
+          "el",
+          "ain",
+          " ting",
+          "gal",
+          " se",
+          "jam"
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          1.4,
+          3.12,
+          4.44,
+          5.08,
+          6.2,
+          7.52,
+          8.24,
+          9.12,
+          9.84,
+          10.84
+        ],
+        "segment_durations": [
+          1.4,
+          1.72,
+          1.32,
+          0.64,
+          1.12,
+          1.32,
+          0.72,
+          0.88,
+          0.72,
+          1.0,
+          0.0
+        ],
+        "segment_texts": [
+          " Gue kirim lagi ke klien.",
+          " Nah, ini maksud saya.",
+          " Akhirnya...",
+          " Eh?",
+          " Dia cat lagi?",
+          " Bisa final malam ini.",
+          " Hah?",
+          " Malam ini?",
+          " Waduh...",
+          " Episode 6?",
+          " Datelain tinggal sejam"
+        ]
+      }
+    }
+  ],
+  "reviewRequired": true
+}

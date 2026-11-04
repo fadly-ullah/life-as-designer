@@ -1,0 +1,188 @@
+[
+  [
+    {
+      "start": 0,
+      "end": 3.153333,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 3.153333,
+      "end": 5.422292,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 5.422292,
+      "end": 6.199,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 6.199,
+      "end": 9.293167,
+      "action": "frustrated",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 9.293167,
+      "end": 11.0595,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 11.0595,
+      "end": 12.920208,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 12.920208,
+      "end": 16.308458,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 16.308458,
+      "end": 18.423125,
+      "action": "pointing",
+      "talk": false
+    },
+    {
+      "start": 18.423125,
+      "end": 20.604792,
+      "action": "frustrated",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "start": 20.604792,
+      "end": 23.587125,
+      "action": "thinking",
+      "talk": true
+    },
+    {
+      "start": 23.587125,
+      "end": 27.008125,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 27.008125,
+      "end": 28.113375,
+      "action": "surprised",
+      "talk": false
+    },
+    {
+      "start": 28.113375,
+      "end": 30.138875,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 30.138875,
+      "end": 30.4888545,
+      "action": "happy",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "start": 30.4888545,
+      "end": 32.133167,
+      "action": "happy",
+      "talk": true
+    },
+    {
+      "start": 32.133167,
+      "end": 33.645125,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 33.645125,
+      "end": 34.646042,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 34.646042,
+      "end": 36.706708,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 36.706708,
+      "end": 39.1695,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 39.1695,
+      "end": 40.9257705,
+      "action": "happy",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 40.9257705,
+      "end": 42.470792,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 42.470792,
+      "end": 43.1,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 43.1,
+      "end": 44.186208,
+      "action": "surprised",
+      "talk": false
+    },
+    {
+      "start": 44.186208,
+      "end": 45.369,
+      "action": "happy",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 45.369,
+      "end": 45.492333,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "start": 45.492333,
+      "end": 47.239625,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 47.239625,
+      "end": 48.58175,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 48.58175,
+      "end": 50.174167,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 50.174167,
+      "end": 56,
+      "action": "frustrated",
+      "talk": true
+    }
+  ]
+]

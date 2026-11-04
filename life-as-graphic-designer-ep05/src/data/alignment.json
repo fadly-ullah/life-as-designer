@@ -1,0 +1,164 @@
+{
+  "sourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+  "method": "Native local Whisper-small phrases matched to actual FFmpeg silencedetect -34dB / 70ms speech-pause boundaries. No uniform storyboard timing.",
+  "sceneStartSeconds": [
+    0,
+    9.293167,
+    20.604792,
+    30.4888545,
+    40.9257705,
+    45.369
+  ],
+  "speechRegions": [
+    {
+      "start": 0.16,
+      "end": 1.566792,
+      "text": "Baru aja gue kirim desain,"
+    },
+    {
+      "start": 1.817875,
+      "end": 2.882,
+      "text": "klien langsung balas..."
+    },
+    {
+      "start": 3.153333,
+      "end": 5.143125,
+      "text": "Bagus sih... tapi kurang nendang!"
+    },
+    {
+      "start": 5.422292,
+      "end": 7.399833,
+      "text": "Lah?! Kurang nendang gimana, Bang?!"
+    },
+    {
+      "start": 7.872042,
+      "end": 9.142667,
+      "text": "Mau gue tendang posternya?!"
+    },
+    {
+      "start": 9.443667,
+      "end": 10.835917,
+      "text": "Awalnya minta minimalis."
+    },
+    {
+      "start": 11.0595,
+      "end": 12.588917,
+      "text": "Sekarang malah pengin lebih rame."
+    },
+    {
+      "start": 12.920208,
+      "end": 14.087625,
+      "text": "Gue sempet mikir..."
+    },
+    {
+      "start": 14.49725,
+      "end": 15.975125,
+      "text": "apa perlu nambah ornamen?"
+    },
+    {
+      "start": 16.308458,
+      "end": 18.061958,
+      "text": "Warna? Atau elemen lain?"
+    },
+    {
+      "start": 18.423125,
+      "end": 20.473042,
+      "text": "Waduh... bisa balik berantakan lagi, nih."
+    },
+    {
+      "start": 20.736542,
+      "end": 23.291125,
+      "text": "Tapi bentar... jangan-jangan gue salah nangkep."
+    },
+    {
+      "start": 23.587125,
+      "end": 26.755708,
+      "text": "Gue tanya balik, bagian mana yang sebenarnya kurang menonjol?"
+    },
+    {
+      "start": 27.008125,
+      "end": 30.350917,
+      "text": "Eh, ternyata klien cuma takut angka diskonnya nggak kelihatan!"
+    },
+    {
+      "start": 30.626792,
+      "end": 31.925708,
+      "text": "Oke, sekarang jelas!"
+    },
+    {
+      "start": 32.133167,
+      "end": 33.379333,
+      "text": "Gue gedein angka diskon,"
+    },
+    {
+      "start": 33.645125,
+      "end": 34.421875,
+      "text": "perkuat kontras,"
+    },
+    {
+      "start": 34.646042,
+      "end": 36.432708,
+      "text": "terus rapihin posisi tombol ajakannya."
+    },
+    {
+      "start": 36.706708,
+      "end": 38.877625,
+      "text": "Nah, sekarang fokus desainnya lebih jelas."
+    },
+    {
+      "start": 39.1695,
+      "end": 40.818583,
+      "text": "Nggak perlu nambah elemen macem-macem."
+    },
+    {
+      "start": 41.032958,
+      "end": 42.222417,
+      "text": "Gue kirim lagi ke klien."
+    },
+    {
+      "start": 42.470792,
+      "end": 43.928458,
+      "text": "Nah, ini maksud saya!"
+    },
+    {
+      "start": 44.186208,
+      "end": 45.245667,
+      "text": "AKHIRNYAAA!"
+    },
+    {
+      "start": 45.492333,
+      "end": 47.02,
+      "text": "Eh... dia chat lagi?"
+    },
+    {
+      "start": 47.239625,
+      "end": 48.343583,
+      "text": "Bisa final malam ini?"
+    },
+    {
+      "start": 48.58175,
+      "end": 49.9375,
+      "text": "HAH?! MALAM INI?!"
+    },
+    {
+      "start": 50.174167,
+      "end": 51.689875,
+      "text": "Waduh... episode enam,"
+    },
+    {
+      "start": 51.889458,
+      "end": 52.960125,
+      "text": "deadline tinggal sejam!"
+    }
+  ],
+  "orthographyCorrections": [
+    "keyatan -> kelihatan",
+    "cat lagi -> chat lagi",
+    "datelain -> deadline",
+    "nangkap -> nangkep (approved colloquial spelling)"
+  ],
+  "wordTimingAvailable": false,
+  "phonemeTimingAvailable": false,
+  "narrationMaster": "Original uploaded WAV; no speech regeneration, stretch or pitch processing.",
+  "humanPreviewReviewRecommended": true
+}

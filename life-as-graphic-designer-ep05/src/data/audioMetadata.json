@@ -1,0 +1,18 @@
+{
+  "sourcePath": "public/audio/ep05-voiceover.wav",
+  "staticSource": "audio/ep05-voiceover.wav",
+  "audioDurationSeconds": 53.090958,
+  "decodedDurationSeconds": 53.09095833333333,
+  "audioSamples": 2548366,
+  "sampleRate": 48000,
+  "sourceSampleRate": 24000,
+  "sourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+  "fps": 30,
+  "audioFrames": 1593,
+  "endingPaddingFrames": 87,
+  "durationInFrames": 1680,
+  "voiceGain": 0.82,
+  "compatibilityMp3": "public/audio/ep05-voiceover.mp3",
+  "compatibilityMp3Sha256": "8dff72d863b203fece2a86a448faa26c524abd4808d3d71ed5c989059e2a0be9",
+  "narrationMaster": "Uploaded WAV, original bytes; MP3 is an optional compatibility derivative only."
+}
