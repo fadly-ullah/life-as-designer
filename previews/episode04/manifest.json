@@ -1,0 +1,113 @@
+{
+  "sourceBranch": "feature/ep04-typography-story",
+  "sourceCommit": "6027c8e9a3a3dd0813b081234e57d9fca88eac29",
+  "previewBranch": "preview/episode04",
+  "previewDurationSeconds": 61,
+  "voiceDurationSeconds": 59.424,
+  "decodedVoiceDurationSeconds": 59.381,
+  "previewSha256": "d4cc244ebe08cc978d9dd29dea15b222f29b803046075b8f4ca2dcacf10544b1",
+  "final1080pRendered": false,
+  "userApproval": "pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2606,
+      "sha256": "fa17c24d6580d2f9221c0d2257da44452960eb581ddd84153a8487eb2455bb43"
+    },
+    {
+      "path": "encoded-timeline.jpg",
+      "bytes": 407907,
+      "sha256": "bd2b34c17f12ccbfcfaeee7ac154f40c0421e708a0dd299acbd7d9ac59fadbbf"
+    },
+    {
+      "path": "ep01-ep04-comparison.jpg",
+      "bytes": 198316,
+      "sha256": "0a7ee5a6e5c6ed6853082b13e9e421869526ca2f83b49e611eb471fec0b44692"
+    },
+    {
+      "path": "ep04-full-preview.mp4",
+      "bytes": 3886654,
+      "sha256": "d4cc244ebe08cc978d9dd29dea15b222f29b803046075b8f4ca2dcacf10544b1"
+    },
+    {
+      "path": "episode04-subtitles.srt",
+      "bytes": 1862,
+      "sha256": "ebd9d498c14bc6ad66f5c522c53024bd1a25473217369b0a7bbe39647c0a9c0b"
+    },
+    {
+      "path": "player-verification.json",
+      "bytes": 537,
+      "sha256": "5db23724fc6c36c6c89a7cbc6baeaffdc48f5bcf11d99185963b73b8b7af8dd4"
+    },
+    {
+      "path": "verification-preview.json",
+      "bytes": 1414,
+      "sha256": "8562126640cbabf5fab5cb7b094474b1bf7aa3d731edea3c1d523c132d0132c4"
+    },
+    {
+      "path": "visual-check/01-mild-cold.png",
+      "bytes": 160597,
+      "sha256": "14f0bf78fdb0b44215218f464f1908c83754a5d9dddccf8956876b9e4c50fe4b"
+    },
+    {
+      "path": "visual-check/02-wedding-typography.png",
+      "bytes": 202053,
+      "sha256": "a32ea343148ecf5d53ae8ed1a95b11ac8e93944221aa1fc29aedcaa9ce6c40e1"
+    },
+    {
+      "path": "visual-check/03-conflicting-fonts.png",
+      "bytes": 198296,
+      "sha256": "623f13e4bcc4ffb1022979055d7bc252a855c9087e300398238748a9971709d3"
+    },
+    {
+      "path": "visual-check/04-typography-correction.png",
+      "bytes": 188258,
+      "sha256": "12a0f200eecb10d2d3b35d31d3219d062958b024c002e2e2767e542dd89c27ad"
+    },
+    {
+      "path": "visual-check/05-professional-poster.png",
+      "bytes": 207771,
+      "sha256": "0ab059a15be2f1283a9ae4bd52cae64e1775dbaee3344fb037f3a2e1ca6df6e8"
+    },
+    {
+      "path": "visual-check/06-client-revision.png",
+      "bytes": 142907,
+      "sha256": "5d12445cb7df69cf704b5eff287a2e19e526224a771128ddcb77652e6955db22"
+    },
+    {
+      "path": "visual-check/07-family-selection.png",
+      "bytes": 180135,
+      "sha256": "f1923b1ed9357fd8f2ba8c724d1df527fc7bf8baeaf96d01893965b2823fe31f"
+    },
+    {
+      "path": "visual-check/08-spacing-repair.png",
+      "bytes": 192115,
+      "sha256": "9ea5055d0559ef788623aebbdc2d5b73a00137d324d102691faaf41659b5d525"
+    },
+    {
+      "path": "visual-check/09-send-message.png",
+      "bytes": 171869,
+      "sha256": "b193c2e9a2629bc2497bda82f40ba8c4edc11901b00138ef959e5b5569f9e730"
+    },
+    {
+      "path": "visual-check/10-ep05-teaser.png",
+      "bytes": 144796,
+      "sha256": "4cf98173fdd31a829a34fd818f164bcf4bafbae507f90ea9d1fa9c2dde5b798f"
+    },
+    {
+      "path": "visual-check/11-font-reaction.png",
+      "bytes": 201856,
+      "sha256": "7ff6a6a8fc82d3fd4f25e769a53193e9afeb2c3e0cc51055649d1b273571fdc5"
+    },
+    {
+      "path": "visual-check/12-reply-arrival.png",
+      "bytes": 151285,
+      "sha256": "ff75a62478a40aa4f348f925ae3a495ae3fb766cfb4d2ec6c552c916f93f431a"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 3111,
+      "sha256": "ec573b83d8f2f9a56649b4f72a30c526f056b669c639bd7cbcfccd55ef1a1c61"
+    }
+  ]
+}
