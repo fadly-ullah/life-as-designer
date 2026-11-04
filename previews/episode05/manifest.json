@@ -1,0 +1,119 @@
+{
+  "sourceBranch": "feature/ep05-client-revisions",
+  "sourceCommit": "c1752ca6d1f1bf6d766f036464e4e7d9fac5a530",
+  "previewBranch": "preview/episode05",
+  "previewDurationSeconds": 56,
+  "voiceDurationSeconds": 53.090958,
+  "voiceMaster": "public/audio/ep05-voiceover.wav",
+  "voiceSourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+  "previewSha256": "a13314493c1aa3e0d6b17a60b5311ef487f3ffa5234c7f2f3e14ec9976daeb37",
+  "final1080pRendered": false,
+  "userApproval": "pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3493,
+      "sha256": "327ae20137f1a933f812e917c32ce8783045811a3194cd2f14ae7ca37e28280c"
+    },
+    {
+      "path": "additional-story-checks.jpg",
+      "bytes": 148563,
+      "sha256": "e1b5ad7953b251cbc5dc429e9279715c8a3ef07cc6540693457136dcc72c873e"
+    },
+    {
+      "path": "encoded-timeline.jpg",
+      "bytes": 394601,
+      "sha256": "513bd0b9a067b8b4feb1cd19b005d304c5b7f3abb4ba37244dde03484894a991"
+    },
+    {
+      "path": "ep01-ep05-comparison.jpg",
+      "bytes": 193124,
+      "sha256": "eebc1add3c8a5be473c70bcda97b97ad5b8d5377a75e654dd9e6820ce185a055"
+    },
+    {
+      "path": "ep05-full-preview.mp4",
+      "bytes": 3832727,
+      "sha256": "a13314493c1aa3e0d6b17a60b5311ef487f3ffa5234c7f2f3e14ec9976daeb37"
+    },
+    {
+      "path": "episode05-subtitles.srt",
+      "bytes": 1787,
+      "sha256": "fdca3a7ae633dfda19a1fc09f6ba3b6e263196b0edc4ff7b4e1b75e81435ef04"
+    },
+    {
+      "path": "player-verification.json",
+      "bytes": 542,
+      "sha256": "8ec76225ae07b225a0c6bdc911346b85fe7cea80bc34188f2efbf0df02060f26"
+    },
+    {
+      "path": "verification-preview.json",
+      "bytes": 1419,
+      "sha256": "2f7623c6b30b45cbb04bb5b3eedd2bb0e05e743176ed3a50c24104ba389870c0"
+    },
+    {
+      "path": "visual-check/01-client-feedback.png",
+      "bytes": 160433,
+      "sha256": "bdf22ce23b9e05e7aff961f9b2dbfd94bd90e4440ac6742f3a9097553b099d3a"
+    },
+    {
+      "path": "visual-check/02-imagined-kick.png",
+      "bytes": 213722,
+      "sha256": "e12a3d67daeff1dd666328bc5d2bdd2ba80ca9abc63906ee718d7dd7716d0c73"
+    },
+    {
+      "path": "visual-check/03-imagined-clutter.png",
+      "bytes": 206538,
+      "sha256": "d388c8612f02ac0c4ca300f192b0919416aab3c7843ec820e40dc1f3ac560e4f"
+    },
+    {
+      "path": "visual-check/04-clarification.png",
+      "bytes": 186728,
+      "sha256": "b079f5e042bc6aa0819b9f6174d9ae804437a9aeab76c81f0f299eaf13a3ef05"
+    },
+    {
+      "path": "visual-check/05-corrected-poster.png",
+      "bytes": 209250,
+      "sha256": "34b49c4cd4215fd317705f137a44990e0bc93c8fe99dc969bbe19c744372bc68"
+    },
+    {
+      "path": "visual-check/06-deadline-shock.png",
+      "bytes": 160710,
+      "sha256": "3d9b8d771427631e0699c843effac5a594ee47b8438b05241ad88e8f37d72e16"
+    },
+    {
+      "path": "visual-check/07-back-to-reality.png",
+      "bytes": 186924,
+      "sha256": "8fdfd8a84877d42b67e04598b4be25d79161498d21a802c36183ebd6fe5571a8"
+    },
+    {
+      "path": "visual-check/08-contrast-revision.png",
+      "bytes": 189448,
+      "sha256": "3467cf8041b8fe1f75b38bdb3102b524ec0ae8ca10a1a9b6fb9d45d2353e2412"
+    },
+    {
+      "path": "visual-check/09-cta-revision.png",
+      "bytes": 197078,
+      "sha256": "897ed669860d733f004d038cab91d8d7c7ad6a52d3a484f2dfbad9a89bfdd0e7"
+    },
+    {
+      "path": "visual-check/10-client-approval.png",
+      "bytes": 162330,
+      "sha256": "e40122317f5d387ea3d3710b9de307e350fe4bf49dfd39af06af07d04375d316"
+    },
+    {
+      "path": "visual-check/11-relief.png",
+      "bytes": 153301,
+      "sha256": "de4a56d582dbd6eab7da334349d5f903a3e4c19ba796cf713898e6169611d7f0"
+    },
+    {
+      "path": "visual-check/12-ep06-teaser.png",
+      "bytes": 149249,
+      "sha256": "29c999337834556d8ed341df699d2520a383bb78b880efaaf9268c6514d244b1"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 3092,
+      "sha256": "3471eee8de8865a6176dc0b0bafdbd6b87281d2cc727657a7a254777119e3dfc"
+    }
+  ]
+}

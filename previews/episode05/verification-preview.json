@@ -1,0 +1,54 @@
+{
+  "file": "out/ep05-full-preview.mp4",
+  "bytes": 3832727,
+  "codec": "h264",
+  "resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "frames": 1680,
+  "videoDurationSeconds": 56.0,
+  "containerDurationSeconds": 56.0,
+  "voiceDurationSeconds": 53.090958,
+  "previewSha256": "a13314493c1aa3e0d6b17a60b5311ef487f3ffa5234c7f2f3e14ec9976daeb37",
+  "voiceSourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+  "latestVoiceFileUnmodified": true,
+  "originalCharacterDesignPreserved": true,
+  "final1080pRendered": false,
+  "voiceSync": [
+    {
+      "windowSeconds": [
+        0.3,
+        7
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99624
+    },
+    {
+      "windowSeconds": [
+        22,
+        29
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99769
+    },
+    {
+      "windowSeconds": [
+        46,
+        52.9
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99688
+    }
+  ],
+  "audioSamplePeakDbFS": -3.76,
+  "integratedLoudnessLUFS": -16.0,
+  "truePeakDbTP": -2.3,
+  "fullDecode": "passed",
+  "blackFrames": "none detected",
+  "captionCues": 28,
+  "captionTranscript": "matches supplied script",
+  "captionAlignment": "Local Whisper-small phrase timestamps matched to measured speech/pause regions; no word/phoneme timing claim",
+  "identityReference": "Original EP01 source rig, typography and local font verified by SHA256"
+}
