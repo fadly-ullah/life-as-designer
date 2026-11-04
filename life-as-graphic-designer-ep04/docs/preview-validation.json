@@ -1,0 +1,179 @@
+{
+  "file": "out/ep04-full-preview.mp4",
+  "bytes": 3886654,
+  "codec": "h264",
+  "resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "frames": 1830,
+  "videoDurationSeconds": 61.0,
+  "containerDurationSeconds": 61.0,
+  "voiceDurationSeconds": 59.424,
+  "previewSha256": "d4cc244ebe08cc978d9dd29dea15b222f29b803046075b8f4ca2dcacf10544b1",
+  "voiceSourceSha256": "f171a82acf07b780bc2d6b12d245071e5a5d38e8f1bf903513a7214dbacddd13",
+  "latestVoiceFileUnmodified": true,
+  "originalCharacterDesignPreserved": true,
+  "final1080pRendered": false,
+  "voiceSync": [
+    {
+      "windowSeconds": [
+        1,
+        7
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99904
+    },
+    {
+      "windowSeconds": [
+        30,
+        37
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99907
+    },
+    {
+      "windowSeconds": [
+        52,
+        59.1
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99946
+    }
+  ],
+  "audioSamplePeakDbFS": -1.65,
+  "integratedLoudnessLUFS": -16.0,
+  "truePeakDbTP": -1.6,
+  "fullDecode": "passed",
+  "blackFrames": "none detected",
+  "captionCues": 30,
+  "captionTranscript": "matches supplied script",
+  "captionAlignment": "Local Whisper-small phrase timestamps matched to measured speech/pause regions; no word/phoneme timing claim",
+  "identityReference": "Original EP01 source rig, typography and local font verified by SHA256",
+  "decodedVoiceDurationSeconds": 59.381,
+  "browserPlayback": {
+    "metadata": {
+      "duration": 61,
+      "width": 540,
+      "height": 960,
+      "canPlayMP4": "probably"
+    },
+    "seekPoints": [
+      0.5,
+      2.4,
+      5.6,
+      7.7,
+      11,
+      14,
+      16,
+      18.3,
+      20.6,
+      23.3,
+      25.2,
+      28.7,
+      31.4,
+      33.7,
+      35.8,
+      39.3,
+      42.8,
+      45.4,
+      49.4,
+      50.8,
+      52.5,
+      55.5,
+      58,
+      60.3
+    ],
+    "fullPlaybackAtNormalSpeed": {
+      "ended": true,
+      "currentTime": 61,
+      "error": null,
+      "quality": {
+        "total": 4549,
+        "dropped": 1
+      }
+    },
+    "errors": []
+  },
+  "browserDisplayDropNote": "One frame presentation drop was reported during the combined 24-seek/full-playback browser test; the encoded stream has all 1830 frames and decodes completely.",
+  "visualReview": {
+    "status": "passed",
+    "productionFingerprint": "5cb11b6de61ca1c0e9237f51cd02c389347408fb23ea02dc239241d0a9128bca",
+    "voiceSourceSha256": "f171a82acf07b780bc2d6b12d245071e5a5d38e8f1bf903513a7214dbacddd13",
+    "reviewer": "Codex visual inspection",
+    "notes": [
+      "Twelve representative moments inspected, including all six required story beats, font/reply reactions, family selection, spacing, send and EP05 ending.",
+      "Original EP01 comparison confirms same SVG rig, facial geometry, hair, colors, hoodie, trousers, shoes and proportions.",
+      "Mild-cold acting uses slight posture changes and a small desk tissue; no face/body redraw and no added breath/sniffle audio.",
+      "Poster artwork retains 3:4 proportions inside all monitor shots. The compact inspector is clear of the character.",
+      "The same poster demonstrates decorative/display/serif conflict, one-family correction, sizes/weights, spacing and a professional 50% offer.",
+      "The send state is only delivery to the client. Neutral client feedback and restrained frustration set up EP05.",
+      "Editorial fonts/subtitles remain Space Grotesk; decorative families are confined to the fictional poster. Text stays within safe areas."
+    ],
+    "frames": [
+      {
+        "file": "01-mild-cold.png",
+        "frame": 60,
+        "sha256": "14f0bf78fdb0b44215218f464f1908c83754a5d9dddccf8956876b9e4c50fe4b"
+      },
+      {
+        "file": "02-wedding-typography.png",
+        "frame": 270,
+        "sha256": "a32ea343148ecf5d53ae8ed1a95b11ac8e93944221aa1fc29aedcaa9ce6c40e1"
+      },
+      {
+        "file": "03-conflicting-fonts.png",
+        "frame": 630,
+        "sha256": "623f13e4bcc4ffb1022979055d7bc252a855c9087e300398238748a9971709d3"
+      },
+      {
+        "file": "04-typography-correction.png",
+        "frame": 1170,
+        "sha256": "12a0f200eecb10d2d3b35d31d3219d062958b024c002e2e2767e542dd89c27ad"
+      },
+      {
+        "file": "05-professional-poster.png",
+        "frame": 1425,
+        "sha256": "0ab059a15be2f1283a9ae4bd52cae64e1775dbaee3344fb037f3a2e1ca6df6e8"
+      },
+      {
+        "file": "06-client-revision.png",
+        "frame": 1665,
+        "sha256": "5d12445cb7df69cf704b5eff287a2e19e526224a771128ddcb77652e6955db22"
+      },
+      {
+        "file": "07-family-selection.png",
+        "frame": 1010,
+        "sha256": "f1923b1ed9357fd8f2ba8c724d1df527fc7bf8baeaf96d01893965b2823fe31f"
+      },
+      {
+        "file": "08-spacing-repair.png",
+        "frame": 1300,
+        "sha256": "9ea5055d0559ef788623aebbdc2d5b73a00137d324d102691faaf41659b5d525"
+      },
+      {
+        "file": "09-send-message.png",
+        "frame": 1485,
+        "sha256": "b193c2e9a2629bc2497bda82f40ba8c4edc11901b00138ef959e5b5569f9e730"
+      },
+      {
+        "file": "10-ep05-teaser.png",
+        "frame": 1800,
+        "sha256": "4cf98173fdd31a829a34fd818f164bcf4bafbae507f90ea9d1fa9c2dde5b798f"
+      },
+      {
+        "file": "11-font-reaction.png",
+        "frame": 222,
+        "sha256": "7ff6a6a8fc82d3fd4f25e769a53193e9afeb2c3e0cc51055649d1b273571fdc5"
+      },
+      {
+        "file": "12-reply-arrival.png",
+        "frame": 1512,
+        "sha256": "ff75a62478a40aa4f348f925ae3a495ae3fb766cfb4d2ec6c552c916f93f431a"
+      }
+    ]
+  },
+  "testedCompositionSourceCommit": "8dc124a5b5a7ed5e3176a65ba8f4cc5cd5a067d6",
+  "userApprovalForFinal": "pending"
+}
