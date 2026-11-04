@@ -14,7 +14,7 @@
   "wordTimingAvailable": false,
   "phonemeTimingAvailable": false,
   "humanPreviewReviewRecommended": true,
-  "visualSubsteps": "Color/font/layout transitions subdivide one measured continuous phrase; no word-level timestamp accuracy claimed. Archive mouths are original performances under recap narration, not new lip-sync.",
+  "visualSubsteps": "Color/font/layout use equal thirds of the measured continuous phrase, matching their visual clicks. These are editorial substeps, not word-level timestamps. Archive mouths are original performances under off-screen recap narration.",
   "orthographyCorrections": [
     "Phone -> font",
     "Pinternya sekabanyakan -> Pinterest kebanyakan",

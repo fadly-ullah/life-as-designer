@@ -28,7 +28,7 @@ Each scene has an authored Sequence node and its own connected composition regis
 
 The archive frame contains the genuine original character and old story actions, while the new narration recaps them off-screen. Those original mouth performances are not phoneme-matched to the recap. At no point is a new character model introduced.
 
-Reflection slows the editing and revisits the brief. The design-evolution scene reuses live SVG layers from the actual color/type/revision poster history, then resolves to the exact EP06 final state. The Season 01 completion stays within the original editorial brand. Season 02 topic cards enter at their spoken cues and remain neutral; none is automatically chosen.
+Reflection slows the editing and revisits the brief. Color/font/layout each receive a readable third of their measured continuous phrase; the short font crossfade avoids prolonged overprinted text. The design-evolution scene reuses live SVG layers from the actual color/type/revision poster history, then resolves to the exact EP06 final state. The Season 01 completion stays within the original editorial brand. Season 02 topic cards enter at their spoken cues and remain neutral; none is automatically chosen.
 
 ## Visual review gate
 
@@ -37,7 +37,7 @@ npm run typecheck
 npm run visual:check
 ```
 
-Seventeen checkpoint PNGs include all seven required story moments, every prior episode in the montage, approval/disbelief, the brief, client-feedback lesson and the final hold. Compare the current set with original EP01. Check character face/proportions/clothing, poster continuity, montage cropping, layout, typography, subtitles and safe areas.
+Nineteen checkpoint PNGs include all seven required story moments, every prior episode in the montage, approval/disbelief, the brief, client-feedback lesson and the final hold. Compare the current set with original EP01. Check character face/proportions/clothing, poster continuity, montage cropping, layout, typography, subtitles and safe areas.
 
 Record the actual inspection in `out/visual-check/review.json`:
 

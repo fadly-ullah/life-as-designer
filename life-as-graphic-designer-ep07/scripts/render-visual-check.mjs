@@ -7,7 +7,7 @@ import {productionFingerprint} from './production-fingerprint.mjs';
 const fingerprint=productionFingerprint();
 const serveUrl=await bundle({entryPoint:resolve('src/index.ts')});
 const browser=await openBrowser('chrome',{browserExecutable:process.env.REMOTION_BROWSER_EXECUTABLE||'/usr/bin/chromium'});
-const shots=[["01-nervous-opening", 151], ["02-client-approved", 338], ["03-flashback-montage", 616], ["04-reflection", 1188], ["05-poster-evolution", 1345], ["06-season-completed", 1607], ["07-season-two-teaser", 1910], ["08-approval-message", 222], ["09-disbelief", 284], ["10-archive-ep01", 520], ["11-archive-ep02", 561], ["12-archive-ep03", 596], ["13-archive-ep05", 702], ["14-archive-ep06", 760], ["15-original-brief", 1017], ["16-feedback-lesson", 1461], ["17-final-hold", 2020]];
+const shots=[["01-nervous-opening", 151], ["02-client-approved", 338], ["03-flashback-montage", 616], ["04-reflection", 1188], ["05-poster-evolution", 1345], ["06-season-completed", 1607], ["07-season-two-teaser", 1910], ["08-approval-message", 222], ["09-disbelief", 284], ["10-archive-ep01", 520], ["11-archive-ep02", 561], ["12-archive-ep03", 596], ["13-archive-ep05", 702], ["14-archive-ep06", 760], ["15-original-brief", 1017], ["16-feedback-lesson", 1461], ["17-final-hold", 2020], ["18-color-correction", 1280], ["19-type-correction", 1327]];
 try{
  const comps=await getCompositions(serveUrl,{puppeteerInstance:browser});
  const composition=comps.find(c=>c.id==='LifeAsGraphicDesignerEP07');
