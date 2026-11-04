@@ -1,0 +1,24 @@
+{
+  "name": "Life as a Graphic Designer EP07",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:5.2.5-22-bookworm",
+  "remoteUser": "node",
+  "forwardPorts": [
+    3013,
+    3014
+  ],
+  "portsAttributes": {
+    "3013": {
+      "label": "Remotion EP07 Studio",
+      "onAutoForward": "notify"
+    },
+    "3014": {
+      "label": "EP07 evaluation MP4",
+      "onAutoForward": "notify"
+    }
+  },
+  "containerEnv": {
+    "REMOTION_BROWSER_EXECUTABLE": "/usr/bin/chromium"
+  },
+  "postCreateCommand": "bash /workspaces/${localWorkspaceFolderBasename}/life-as-graphic-designer-ep07/.devcontainer/setup.sh",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}/life-as-graphic-designer-ep07"
+}

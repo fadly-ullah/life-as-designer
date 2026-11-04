@@ -1,0 +1,297 @@
+[
+  {
+    "startSeconds": 6.4,
+    "endSeconds": 12.9,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "desainya udah pas, terima kasih ha? diterima? alhamdulillah akhirnya",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " des",
+        "ain",
+        "ya",
+        " udah",
+        " pas",
+        ",",
+        " ter",
+        "ima",
+        " kasih",
+        " ha",
+        "?",
+        " d",
+        "iter",
+        "ima",
+        "?",
+        " al",
+        "ham",
+        "dul",
+        "illah",
+        " akhir",
+        "nya"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        2.0,
+        4.0
+      ],
+      "segment_durations": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "segment_texts": [
+        " desainya udah pas, terima kasih",
+        " ha? diterima?",
+        " alhamdulillah akhirnya"
+      ]
+    }
+  },
+  {
+    "startSeconds": 16.5,
+    "endSeconds": 22.2,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Briefnya bikin bingung, pinteras kebanyakan, warna berantakan, Phon malah jadi undangan nikahan.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Brief",
+        "nya",
+        " bik",
+        "in",
+        " b",
+        "ing",
+        "ung",
+        ",",
+        " pint",
+        "eras",
+        " ke",
+        "b",
+        "any",
+        "akan",
+        ",",
+        " war",
+        "na",
+        " ber",
+        "ant",
+        "akan",
+        ",",
+        " Ph",
+        "on",
+        " mal",
+        "ah",
+        " jadi",
+        " und",
+        "angan",
+        " nik",
+        "ahan",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.0
+      ],
+      "segment_durations": [
+        4.0,
+        0.0
+      ],
+      "segment_texts": [
+        " Briefnya bikin bingung, pinteras kebanyakan, warna berantakan,",
+        " Phon malah jadi undangan nikahan."
+      ]
+    }
+  },
+  {
+    "startSeconds": 26.5,
+    "endSeconds": 31.8,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "wangkap banget tenderitaannya tapi dari semua itu, gue belajar sesuatu",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " w",
+        "ang",
+        "kap",
+        " banget",
+        " t",
+        "ender",
+        "ita",
+        "annya",
+        " tapi",
+        " dari",
+        " semua",
+        " itu",
+        ",",
+        " gue",
+        " be",
+        "la",
+        "jar",
+        " ses",
+        "u",
+        "atu"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        2.0
+      ],
+      "segment_durations": [
+        2.0,
+        3.3
+      ],
+      "segment_texts": [
+        " wangkap banget tenderitaannya",
+        " tapi dari semua itu, gue belajar sesuatu"
+      ]
+    }
+  },
+  {
+    "startSeconds": 41.6,
+    "endSeconds": 49.6,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Warna, font, dan layout harus bantu menyampaikan pesan itu. Bahkan revisi pun bisa jadi pelajaran, kalau gue mau dengerin.",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " War",
+        "na",
+        ",",
+        " font",
+        ",",
+        " dan",
+        " layout",
+        " harus",
+        " b",
+        "antu",
+        " meny",
+        "ampa",
+        "ikan",
+        " pes",
+        "an",
+        " itu",
+        ".",
+        " Bah",
+        "kan",
+        " rev",
+        "isi",
+        " pun",
+        " bisa",
+        " jadi",
+        " pel",
+        "aj",
+        "aran",
+        ",",
+        " kalau",
+        " gue",
+        " mau",
+        " den",
+        "ger",
+        "in",
+        "."
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        4.0
+      ],
+      "segment_durations": [
+        4.0,
+        4.0
+      ],
+      "segment_texts": [
+        " Warna, font, dan layout harus bantu menyampaikan pesan itu.",
+        " Bahkan revisi pun bisa jadi pelajaran, kalau gue mau dengerin."
+      ]
+    }
+  },
+  {
+    "startSeconds": 57,
+    "endSeconds": 65.411,
+    "result": {
+      "lang": "id",
+      "emotion": "",
+      "event": "",
+      "text": "Season 2 enaknya bahas apa? Harga jasa, Portofolio, atau cari klien pertama? Tulis pilihan lo di komentar. Sampai ketemu di season 2!",
+      "timestamps": [],
+      "durations": [],
+      "tokens": [
+        " Season",
+        " 2",
+        " en",
+        "ak",
+        "nya",
+        " bah",
+        "as",
+        " apa",
+        "?",
+        " Har",
+        "ga",
+        " j",
+        "asa",
+        ",",
+        " Port",
+        "of",
+        "ol",
+        "io",
+        ",",
+        " atau",
+        " car",
+        "i",
+        " kl",
+        "ien",
+        " pertama",
+        "?",
+        " Tul",
+        "is",
+        " p",
+        "ili",
+        "han",
+        " lo",
+        " di",
+        " kom",
+        "entar",
+        ".",
+        " S",
+        "amp",
+        "ai",
+        " ket",
+        "emu",
+        " di",
+        " season",
+        " 2",
+        "!"
+      ],
+      "ys_log_probs": [],
+      "words": [],
+      "segment_timestamps": [
+        0.0,
+        5.06
+      ],
+      "segment_durations": [
+        5.06,
+        3.3
+      ],
+      "segment_texts": [
+        " Season 2 enaknya bahas apa? Harga jasa, Portofolio, atau cari klien pertama?",
+        " Tulis pilihan lo di komentar. Sampai ketemu di season 2!"
+      ]
+    }
+  }
+]

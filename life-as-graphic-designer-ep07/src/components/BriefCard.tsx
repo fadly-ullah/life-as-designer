@@ -1,0 +1,3 @@
+import React from 'react';
+import {E} from '../data/episodeColors';
+export const BriefCard:React.FC=()=> <div style={{position:'absolute',left:90,top:660,width:285,padding:'25px 24px',border:`2px solid ${E.line}`,borderRadius:18,background:E.white,boxShadow:'0 12px 0 #0B0C0A08'}}><div style={{fontSize:21,fontWeight:700,letterSpacing:2,color:E.darkOlive,marginBottom:23}}>BRIEF ASLI</div><div style={{fontSize:34,fontWeight:700,lineHeight:1.1,marginBottom:24}}>Poster<br/>promosi.</div><div style={{fontSize:26,lineHeight:1.45}}>Anak muda.<br/>Fokus diskon.<br/><strong style={{background:E.lime}}>50%.</strong></div></div>;

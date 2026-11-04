@@ -1,0 +1,31 @@
+{
+  "sourceSha256": "bf3d0990c7776f9a068c3d1da77eb8b62977f8fd3cfc2f65afdf46b1dadb382c",
+  "sourceDurationSeconds": 65.410563,
+  "method": "Native phrase timestamps from local multilingual Whisper-small, focused retries and FFmpeg measured speech/pause regions (-34dB/min70ms). Caption timing follows actual phrases, not uniform intervals.",
+  "sceneStartSeconds": [
+    0,
+    12.92,
+    28.62,
+    41.6,
+    49.58,
+    57.08
+  ],
+  "phraseCues": 38,
+  "wordTimingAvailable": false,
+  "phonemeTimingAvailable": false,
+  "humanPreviewReviewRecommended": true,
+  "visualSubsteps": "Color/font/layout transitions subdivide one measured continuous phrase; no word-level timestamp accuracy claimed. Archive mouths are original performances under recap narration, not new lip-sync.",
+  "orthographyCorrections": [
+    "Phone -> font",
+    "Pinternya sekabanyakan -> Pinterest kebanyakan",
+    "Wangkap banget teneritaannya -> Lengkap banget penderitaannya",
+    "audiencenya -> audiensnya",
+    "tesan -> pesan",
+    "designer -> desainer; Season 2 -> Season dua"
+  ],
+  "evidence": [
+    "transcription-segments.json",
+    "transcription-retries.json",
+    "measured-silences.json"
+  ]
+}

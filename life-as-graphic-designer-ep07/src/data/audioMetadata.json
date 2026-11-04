@@ -1,0 +1,15 @@
+{
+  "sourcePath": "public/audio/ep07-voiceover.mp3",
+  "staticSource": "audio/ep07-voiceover.mp3",
+  "audioDurationSeconds": 65.410563,
+  "decodedDurationSeconds": 65.410625,
+  "audioSamples": 3139710,
+  "sampleRate": 48000,
+  "sourceSampleRate": 44100,
+  "sourceSha256": "bf3d0990c7776f9a068c3d1da77eb8b62977f8fd3cfc2f65afdf46b1dadb382c",
+  "fps": 30,
+  "audioFrames": 1963,
+  "endingPaddingFrames": 77,
+  "durationInFrames": 2040,
+  "voiceGain": 0.82
+}

@@ -1,0 +1,152 @@
+[
+  [
+    {
+      "start": 0,
+      "end": 1.659025,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "start": 1.659025,
+      "end": 4.146621,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 4.146621,
+      "end": 6.569546,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 6.569546,
+      "end": 8.766372,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 8.766372,
+      "end": 10.239501,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 10.239501,
+      "end": 12.92,
+      "action": "happy",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 12.92,
+      "end": 16.747324,
+      "action": "happy",
+      "talk": true
+    },
+    {
+      "start": 16.747324,
+      "end": 26.759841,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 26.759841,
+      "end": 28.62,
+      "action": "frustrated",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 28.62,
+      "end": 30.075828,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 30.075828,
+      "end": 32.026372,
+      "action": "talking",
+      "talk": true
+    },
+    {
+      "start": 32.026372,
+      "end": 36.478571,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 36.478571,
+      "end": 37.899977,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 37.899977,
+      "end": 39.363832,
+      "action": "thinking",
+      "talk": true
+    },
+    {
+      "start": 39.363832,
+      "end": 41.6,
+      "action": "pointing",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 41.6,
+      "end": 45.935805,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 45.935805,
+      "end": 48.355828,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 48.355828,
+      "end": 49.58,
+      "action": "happy",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 49.58,
+      "end": 54.513039,
+      "action": "happy",
+      "talk": true
+    },
+    {
+      "start": 54.513039,
+      "end": 57.08,
+      "action": "breathing",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 57.08,
+      "end": 62.179751,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 62.179751,
+      "end": 65.218299,
+      "action": "happy",
+      "talk": true
+    },
+    {
+      "start": 65.218299,
+      "end": 68,
+      "action": "idle",
+      "talk": false
+    }
+  ]
+]

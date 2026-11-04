@@ -1,0 +1,15 @@
+node_modules/
+out/
+.remotion/
+*.log
+.venv/
+__pycache__/
+
+.venv-tools/
+.env
+.env.*
+*.pem
+*.key
+.cache/
+dist/
+.DS_Store

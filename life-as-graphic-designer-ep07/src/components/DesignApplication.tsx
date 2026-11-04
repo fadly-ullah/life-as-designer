@@ -1,0 +1,28 @@
+import React from 'react';
+import {interpolate,useCurrentFrame} from 'remotion';
+import {PixelComputer,Cursor} from './PixelComputer';
+import {RevisionPoster} from './RevisionPoster';
+import {E} from '../data/episodeColors';
+import {clamp} from '../utils/animations';
+export type AppState='editing'|'frozen'|'unsaved'|'restart'|'recovery'|'recovered'|'finalizing'|'exporting'|'exported';
+type Props={state:AppState;progress?:number;step?:number;clickFrames?:number[];style?:React.CSSProperties};
+/** Fictional design UI. A stuck cursor/spinner is drawn; no runtime is blocked. */
+export const DesignApplication:React.FC<Props>=({state,progress=0,step=0,clickFrames=[],style})=>{
+ const f=useCurrentFrame();const stuck=state==='frozen'||state==='unsaved';const restart=state==='restart';const recovery=state==='recovery';
+ const label=stuck?'Promo Akhir Pekan • Belum disimpan':restart?'Aplikasi cerita / Membuka ulang':'Promo Akhir Pekan / Final';
+ const cursor=stuck?{x:290,y:200}:{x:180+Math.sin(f/22)*55,y:245+Math.cos(f/31)*38};
+ const ringAngle=restart?f*9:214;
+ return <PixelComputer label={label} style={{left:430,top:650,width:550,height:665,...style}}>
+  <div style={{position:'absolute',inset:0,background:E.paper}}>
+   <div style={{position:'absolute',left:13,right:13,top:12,fontSize:16,fontWeight:600,letterSpacing:1,color:E.darkOlive,display:'flex',justifyContent:'space-between'}}><span>APLIKASI DESAIN / CERITA</span><span>{stuck?'● EDIT BELUM DISIMPAN':'1080 × 1440 px'}</span></div>
+   <div style={{position:'absolute',top:44,bottom:23,left:'12%',right:'12%',display:'flex',justifyContent:'center',opacity:restart?.12:1}}><div style={{height:'100%',aspectRatio:'3/4',position:'relative',boxShadow:'0 8px 18px #0B0C0A22'}}><RevisionPoster enlarge={1} contrast={1} cta={1}/>{state==='finalizing'&&<div style={{position:'absolute',left:'5%',right:'5%',top:step===0?'76%':step===1?'31%':step===2?'70%':'1%',height:step===0?'18%':step===1?'38%':step===2?'25%':'98%',border:`2px dashed ${E.lime}`,boxShadow:`0 0 0 2px ${E.charcoal}`}}/>}</div></div>
+   {!restart&&!recovery&&<Cursor {...cursor} scale={.65}/>}
+   {clickFrames.map((at,i)=>{const p=interpolate(f,[at,at+12],[0,1],clamp);return f>=at&&f<at+12?<div key={i} style={{position:'absolute',left:cursor.x-12-p*14,top:cursor.y-12-p*14,width:24+p*28,height:24+p*28,border:`3px solid ${E.lime}`,borderRadius:'50%',opacity:1-p}}/>:null;})}
+   {stuck&&<div style={{position:'absolute',left:'8%',right:'8%',top:'48%',padding:'22px 18px',background:E.white,border:`2px solid ${E.darkOlive}`,boxShadow:'0 8px 0 #0B0C0A14',borderRadius:10}}><div style={{display:'flex',alignItems:'center',gap:16}}><svg width="48" height="48" viewBox="0 0 48 48" style={{rotate:`${ringAngle}deg`}}><circle cx="24" cy="24" r="17" fill="none" stroke={E.line} strokeWidth="6"/><path d="M24 7A17 17 0 0 1 41 24" fill="none" stroke={E.olive} strokeWidth="6"/></svg><div style={{fontSize:27,fontWeight:700,lineHeight:1.12}}>Tidak merespons.<br/><span style={{fontSize:18,fontWeight:500,color:E.darkOlive}}>Kursor & indikator berhenti.</span></div></div>{state==='unsaved'&&<div style={{marginTop:18,paddingTop:14,borderTop:`1px solid ${E.line}`,fontSize:24,fontWeight:700}}>● Perubahan terakhir<br/>belum disimpan.</div>}</div>}
+   {restart&&<div style={{position:'absolute',inset:0,display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column',gap:24,background:`${E.paper}E8`}}><svg width="66" height="66" viewBox="0 0 48 48" style={{rotate:`${ringAngle}deg`}}><circle cx="24" cy="24" r="17" fill="none" stroke={E.line} strokeWidth="5"/><path d="M24 7A17 17 0 0 1 41 24" fill="none" stroke={E.olive} strokeWidth="5"/></svg><strong style={{fontSize:30}}>Membuka ulang...</strong><div style={{width:'62%',height:8,background:E.line}}><div style={{width:`${progress*100}%`,height:8,background:E.olive}}/></div></div>}
+   {recovery&&<div style={{position:'absolute',left:'7%',right:'7%',top:'18%',padding:25,background:E.white,border:`2px solid ${E.olive}`,boxShadow:'0 14px 0 #0B0C0A14',borderRadius:14}}><div style={{fontSize:19,letterSpacing:2,color:E.darkOlive,marginBottom:12}}>AUTO RECOVERY</div><div style={{fontSize:34,fontWeight:700,lineHeight:1.05}}>Versi pemulihan<br/>ditemukan.</div><div style={{display:'flex',gap:18,margin:'23px 0',alignItems:'center'}}><div style={{width:85,height:113,flexShrink:0}}><RevisionPoster enlarge={1} contrast={1} cta={1}/></div><div style={{fontSize:22,fontWeight:600}}>Promo Akhir Pekan<br/><span style={{fontSize:17,fontWeight:400,color:E.darkOlive}}>Versi pemulihan proyek ini.</span></div></div><div style={{padding:'12px 16px',background:E.lime,fontSize:23,fontWeight:700,textAlign:'center'}}>BUKA FILE</div></div>}
+   {state==='recovered'&&<div style={{position:'absolute',left:13,right:13,bottom:9,padding:'9px 16px',background:E.lime,color:E.charcoal,fontSize:22,fontWeight:700,textAlign:'center'}}>File pemulihan dibuka ✓</div>}
+   {(state==='exporting'||state==='exported')&&<div style={{position:'absolute',left:'8%',right:'8%',top:'46%',padding:24,background:E.white,border:`2px solid ${E.olive}`,borderRadius:12,boxShadow:'0 12px 0 #0B0C0A14'}}><div style={{fontSize:29,fontWeight:700,marginBottom:12}}>{state==='exported'?'FILE SIAP ✓':'Mengekspor PNG...'}</div><div style={{fontSize:18,color:E.darkOlive,marginBottom:17}}>promo-akhir-pekan-final.png</div><div style={{height:9,background:E.line}}><div style={{height:9,width:`${(state==='exported'?1:progress)*100}%`,background:E.olive}}/></div>{state==='exported'&&<div style={{fontSize:21,fontWeight:600,marginTop:15}}>1080 × 1440 px · PNG</div>}</div>}
+  </div>
+ </PixelComputer>;
+};

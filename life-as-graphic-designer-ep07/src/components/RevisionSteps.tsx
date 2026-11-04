@@ -1,0 +1,3 @@
+import React from 'react';
+import {E} from '../data/episodeColors';
+export const RevisionSteps:React.FC<{active:number}>=({active})=><div style={{position:'absolute',left:90,top:665,width:315}}>{[['ANGKA DISKON','Lebih besar.'],['KONTRAS','Lebih tegas.'],['TOMBOL AJAKAN','Dekat ke diskon.']].map(([title,note],i)=><div key={title} style={{padding:'22px 18px',marginBottom:16,border:`1px solid ${E.line}`,borderRadius:13,background:active===i?E.lime:E.white}}><div style={{fontSize:19,letterSpacing:2,color:E.darkOlive,marginBottom:9}}>0{i+1} / {title}</div><div style={{fontSize:30,fontWeight:700}}>{note}</div></div>)}</div>;

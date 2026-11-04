@@ -1,0 +1,125 @@
+{
+  "method": "Real animated excerpts from existing verified episode preview renders, cropped to remove old header/subtitles. No earlier narration retained.",
+  "clips": [
+    {
+      "episode": "ep01",
+      "file": "montage/ep01.mp4",
+      "description": "Brief: Simple aja, tapi harus WOW!",
+      "sourceProject": "life-as-graphic-designer-ep01",
+      "sourceBranch": "recovery/ep01-original-v2-2026-11-03",
+      "sourceRender": "LifeAsGraphicDesigner_EP01_preview.mp4",
+      "sourceRenderSha256": "2ee9fa4a8be4ac5d8c310139e5b9ffa6824eade3e3470c372264067f5bceb25a",
+      "sourceStartSeconds": 3.55,
+      "durationSeconds": 2.7,
+      "crop": {
+        "x": 0,
+        "y": 135,
+        "width": 540,
+        "height": 600
+      },
+      "fps": 30,
+      "audioPresent": false,
+      "sha256": "0a10c53b07428edbeaeaef0c675323c7f51919cbf8e1af2e2fae9746404b5900"
+    },
+    {
+      "episode": "ep02",
+      "file": "montage/ep02.mp4",
+      "description": "Terlalu banyak referensi",
+      "sourceProject": "life-as-graphic-designer-ep02",
+      "sourceBranch": "episode02/inspiration-overthinking",
+      "sourceRender": "ep02-full-preview.mp4",
+      "sourceRenderSha256": "f716e3cd2a065e51cb36ed9b4dc988149608bb0df3c63a74883ec4d42b0a240e",
+      "sourceStartSeconds": 12.2,
+      "durationSeconds": 3.6,
+      "crop": {
+        "x": 0,
+        "y": 135,
+        "width": 540,
+        "height": 600
+      },
+      "fps": 30,
+      "audioPresent": false,
+      "sha256": "47655bb90d071f937f64ba2bb722555b269637e0116e5e40501d97634b8ac971"
+    },
+    {
+      "episode": "ep03",
+      "file": "montage/ep03.mp4",
+      "description": "Warna berantakan",
+      "sourceProject": "life-as-graphic-designer-ep03",
+      "sourceBranch": "feature/ep03-color-story",
+      "sourceRender": "ep03-full-preview.mp4",
+      "sourceRenderSha256": "946d9a1460faa0ed15f2d6e036aa1ab492a0ce9a47118d9ec9a2bbeab6671e25",
+      "sourceStartSeconds": 12.4,
+      "durationSeconds": 4.0,
+      "crop": {
+        "x": 0,
+        "y": 135,
+        "width": 540,
+        "height": 600
+      },
+      "fps": 30,
+      "audioPresent": false,
+      "sha256": "bd6ad3d30f52631445e4156814532df4a656ff5e7c12905d07e93dff18d494c0"
+    },
+    {
+      "episode": "ep04",
+      "file": "montage/ep04.mp4",
+      "description": "Font seperti undangan nikahan",
+      "sourceProject": "life-as-graphic-designer-ep04",
+      "sourceBranch": "feature/ep04-typography-story",
+      "sourceRender": "ep04-full-preview.mp4",
+      "sourceRenderSha256": "d4cc244ebe08cc978d9dd29dea15b222f29b803046075b8f4ca2dcacf10544b1",
+      "sourceStartSeconds": 18.0,
+      "durationSeconds": 4.0,
+      "crop": {
+        "x": 0,
+        "y": 135,
+        "width": 540,
+        "height": 600
+      },
+      "fps": 30,
+      "audioPresent": false,
+      "sha256": "4124ba82dfbd7319a7a6fab55f76c59e0ab42053123377698a30194c369ede6a"
+    },
+    {
+      "episode": "ep05",
+      "file": "montage/ep05.mp4",
+      "description": "Kurang nendang",
+      "sourceProject": "life-as-graphic-designer-ep05",
+      "sourceBranch": "feature/ep05-client-revisions",
+      "sourceRender": "ep05-full-preview.mp4",
+      "sourceRenderSha256": "a13314493c1aa3e0d6b17a60b5311ef487f3ffa5234c7f2f3e14ec9976daeb37",
+      "sourceStartSeconds": 3.1,
+      "durationSeconds": 3.0,
+      "crop": {
+        "x": 0,
+        "y": 135,
+        "width": 540,
+        "height": 600
+      },
+      "fps": 30,
+      "audioPresent": false,
+      "sha256": "4e371de76035031cde47390943552fd473278f003609a4e6de814db428632466"
+    },
+    {
+      "episode": "ep06",
+      "file": "montage/ep06.mp4",
+      "description": "Freeze saat deadline",
+      "sourceProject": "life-as-graphic-designer-ep06",
+      "sourceBranch": "feature/ep06-deadline-crisis",
+      "sourceRender": "ep06-full-preview.mp4",
+      "sourceRenderSha256": "3a0bdc8b0e77b031b4543c891b8dfbf70ee2f03bbb56112bc1366f14a0cb7caf",
+      "sourceStartSeconds": 3.4,
+      "durationSeconds": 3.1,
+      "crop": {
+        "x": 0,
+        "y": 135,
+        "width": 540,
+        "height": 600
+      },
+      "fps": 30,
+      "audioPresent": false,
+      "sha256": "ec80252a33491b57d00731494be439406e3a42a9b09de71b93518e644334633e"
+    }
+  ]
+}
