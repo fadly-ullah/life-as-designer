@@ -1,0 +1,183 @@
+{
+  "file": "out/ep05-full-preview.mp4",
+  "bytes": 3832727,
+  "codec": "h264",
+  "resolution": [
+    540,
+    960
+  ],
+  "fps": 30,
+  "frames": 1680,
+  "videoDurationSeconds": 56.0,
+  "containerDurationSeconds": 56.0,
+  "voiceDurationSeconds": 53.090958,
+  "previewSha256": "a13314493c1aa3e0d6b17a60b5311ef487f3ffa5234c7f2f3e14ec9976daeb37",
+  "voiceSourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+  "latestVoiceFileUnmodified": true,
+  "originalCharacterDesignPreserved": true,
+  "final1080pRendered": false,
+  "voiceSync": [
+    {
+      "windowSeconds": [
+        0.3,
+        7
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99624
+    },
+    {
+      "windowSeconds": [
+        22,
+        29
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99769
+    },
+    {
+      "windowSeconds": [
+        46,
+        52.9
+      ],
+      "offsetMilliseconds": 0.0,
+      "correlation": 0.99688
+    }
+  ],
+  "audioSamplePeakDbFS": -3.76,
+  "integratedLoudnessLUFS": -16.0,
+  "truePeakDbTP": -2.3,
+  "fullDecode": "passed",
+  "blackFrames": "none detected",
+  "captionCues": 28,
+  "captionTranscript": "matches supplied script",
+  "captionAlignment": "Local Whisper-small phrase timestamps matched to measured speech/pause regions; no word/phoneme timing claim",
+  "identityReference": "Original EP01 source rig, typography and local font verified by SHA256",
+  "status": "ready-for-user-review",
+  "testedImplementationCommit": "618e7816326e002d4b1bbe1f48c91292540734a9",
+  "sourceBranch": "feature/ep05-client-revisions",
+  "previewBranch": "preview/episode05",
+  "protectedPreviousEpisodeFiles": 421,
+  "visualReview": {
+    "status": "passed",
+    "productionFingerprint": "5493de78349535358ee204f2a84e71528f1863c3d2e2ab75d7d8f08aa667e4f6",
+    "voiceSourceSha256": "f6303678c27cf098e27147846cb2a2f2c0e28d8ddb7235a625ce8fac7c81ff61",
+    "reviewer": "Codex visual inspection",
+    "notes": [
+      "Twelve current story moments inspected, including all six required shots and reality/contrast/CTA/approval/relief/EP06 checks.",
+      "Original EP01 frame compared alongside current character: same protected SVG geometry, face, hair, colors, clothing and proportions.",
+      "Almost-kick uses the original attached right-leg paths and shoe, stops short of the poster and is explicitly labeled imagination. No person is targeted.",
+      "Imagined clutter is labeled and returns to the untouched poster before actual edits.",
+      "Before/after visibly increases numeric discount size and contrast, and groups the CTA without visible element crossing.",
+      "Clarification and approval chats remain concise, readable, neutral and clear of the character. Deadline clock/timer and EP06 teaser fit safe areas.",
+      "Original WAV is the sole narration source. MP3 derivative exists only for compatibility; no substitute voice or timing stretch."
+    ],
+    "frames": [
+      {
+        "file": "01-client-feedback.png",
+        "frame": 130,
+        "sha256": "bdf22ce23b9e05e7aff961f9b2dbfd94bd90e4440ac6742f3a9097553b099d3a"
+      },
+      {
+        "file": "02-imagined-kick.png",
+        "frame": 259,
+        "sha256": "e12a3d67daeff1dd666328bc5d2bdd2ba80ca9abc63906ee718d7dd7716d0c73"
+      },
+      {
+        "file": "03-imagined-clutter.png",
+        "frame": 535,
+        "sha256": "d388c8612f02ac0c4ca300f192b0919416aab3c7843ec820e40dc1f3ac560e4f"
+      },
+      {
+        "file": "04-clarification.png",
+        "frame": 870,
+        "sha256": "b079f5e042bc6aa0819b9f6174d9ae804437a9aeab76c81f0f299eaf13a3ef05"
+      },
+      {
+        "file": "05-corrected-poster.png",
+        "frame": 1165,
+        "sha256": "34b49c4cd4215fd317705f137a44990e0bc93c8fe99dc969bbe19c744372bc68"
+      },
+      {
+        "file": "06-deadline-shock.png",
+        "frame": 1490,
+        "sha256": "3d9b8d771427631e0699c843effac5a594ee47b8438b05241ad88e8f37d72e16"
+      },
+      {
+        "file": "07-back-to-reality.png",
+        "frame": 600,
+        "sha256": "8fdfd8a84877d42b67e04598b4be25d79161498d21a802c36183ebd6fe5571a8"
+      },
+      {
+        "file": "08-contrast-revision.png",
+        "frame": 1020,
+        "sha256": "3467cf8041b8fe1f75b38bdb3102b524ec0ae8ca10a1a9b6fb9d45d2353e2412"
+      },
+      {
+        "file": "09-cta-revision.png",
+        "frame": 1080,
+        "sha256": "897ed669860d733f004d038cab91d8d7c7ad6a52d3a484f2dfbad9a89bfdd0e7"
+      },
+      {
+        "file": "10-client-approval.png",
+        "frame": 1295,
+        "sha256": "e40122317f5d387ea3d3710b9de307e350fe4bf49dfd39af06af07d04375d316"
+      },
+      {
+        "file": "11-relief.png",
+        "frame": 1340,
+        "sha256": "de4a56d582dbd6eab7da334349d5f903a3e4c19ba796cf713898e6169611d7f0"
+      },
+      {
+        "file": "12-ep06-teaser.png",
+        "frame": 1650,
+        "sha256": "29c999337834556d8ed341df699d2520a383bb78b880efaaf9268c6514d244b1"
+      }
+    ]
+  },
+  "browserPlayback": {
+    "metadata": {
+      "duration": 56,
+      "width": 540,
+      "height": 960,
+      "canPlayMP4": "probably"
+    },
+    "seekPoints": [
+      0.6,
+      2.2,
+      4,
+      6.5,
+      8.6,
+      10.2,
+      13.5,
+      15.2,
+      17.8,
+      20,
+      22,
+      25,
+      28.5,
+      31.1,
+      33,
+      34.1,
+      35.7,
+      38.3,
+      41.5,
+      43.1,
+      44.7,
+      46.5,
+      48.9,
+      52.2,
+      55
+    ],
+    "fullPlaybackAtNormalSpeed": {
+      "ended": true,
+      "currentTime": 56,
+      "error": null,
+      "quality": {
+        "total": 4534,
+        "dropped": 0
+      }
+    },
+    "errors": []
+  },
+  "userPreviewApproval": "pending",
+  "finalExportAuthorized": false
+}
