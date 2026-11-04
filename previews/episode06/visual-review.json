@@ -1,0 +1,82 @@
+{
+  "status": "passed",
+  "productionFingerprint": "4b8b5aefcbc7b3364b7ab538efebe2b3c43decfbbebf84b1dd37f13179991855",
+  "voiceSourceSha256": "9851ec7d6e87a5520b6c86676b88f5250c619176e7d1d303ce52dcc2d332b05b",
+  "reviewer": "Codex visual inspection",
+  "notes": [
+    "All 13 checkpoints inspected with original EP01 comparison. Original articulated SVG character geometry, face, hair, clothing, colors and proportions preserved.",
+    "Corrected unsaved-change headline to stay within two lines and separated repeated-click label from the monitor. Re-rendered and checked both corrections.",
+    "Same completed EP05 poster survives freeze, restart, recovery, export and upload with its original aspect and palette.",
+    "Frozen cursor/spinner are fictional deterministic drawing; browser stays responsive. Recovery panel and recovered poster are clearly distinct states.",
+    "Clock begins 22:00, emphasizes deadline 23:00, and successful sending shows <23:00. No exact delivery minute or morning hour invented.",
+    "Finalization checks, exported file and upload progress are readable. Caption safe area and character faces are clear.",
+    "Next-morning message remains unopened; no client decision is revealed. EP07 teaser fits original editorial style."
+  ],
+  "frames": [
+    {
+      "file": "01-frozen-application.png",
+      "frame": 127,
+      "sha256": "e4c6ff42aed302191edf283aa081dd3dc67fb727dd530cc18cc1b73c6a46a69b"
+    },
+    {
+      "file": "02-panicked-character.png",
+      "frame": 168,
+      "sha256": "e72f995639858c12feae089e23a01531e4ec207cf1c415c716e4a7f33384f410"
+    },
+    {
+      "file": "03-unsaved-changes.png",
+      "frame": 520,
+      "sha256": "e6129d8ca6c79ac157d865144a274924502d5637e9be73f3c3360641f75d1ea7"
+    },
+    {
+      "file": "04-auto-recovery.png",
+      "frame": 830,
+      "sha256": "ef1d2274f0e5c03b452aa63cb2f09db26ad689a9a30d4770daa361bd8624cff8"
+    },
+    {
+      "file": "05-finalization-montage.png",
+      "frame": 1075,
+      "sha256": "ef5c437a1a0a32e8a419f7913f0ace248d2b98acbc3460835b3a20da5a57aae9"
+    },
+    {
+      "file": "06-file-sent.png",
+      "frame": 1325,
+      "sha256": "da7ba4c1e75d30cdce9db801c8c39224cb0c4a3d1a20f210c1d9eac01f6a5fd9"
+    },
+    {
+      "file": "07-next-morning-cliffhanger.png",
+      "frame": 1690,
+      "sha256": "ed83fc1db0f523442f149d435dc16fe598e9eb7ff13bd3af8d1c1616c52d9232"
+    },
+    {
+      "file": "08-normal-editing.png",
+      "frame": 50,
+      "sha256": "fde1c5f3b2b83fed2ed9feaa95826b5f820c38980b43548ebb202ba8202b6469"
+    },
+    {
+      "file": "09-repeated-clicks.png",
+      "frame": 338,
+      "sha256": "5e18ce0aabe6eec01d8d568f53a5ba69252e5fcde8cc18405ebc09c4d74f8f88"
+    },
+    {
+      "file": "10-recovered-file.png",
+      "frame": 906,
+      "sha256": "08329b499fc4851385e665e23ed248640115ca66d37ad3f98bb27e452802e9a4"
+    },
+    {
+      "file": "11-export-ready.png",
+      "frame": 1180,
+      "sha256": "66e9a2a64beae56e3abd1ccc001f8356256c2192e978a0aa8c12b48b9fffb379"
+    },
+    {
+      "file": "12-upload-loading.png",
+      "frame": 1253,
+      "sha256": "564b307be254c24b400c9399f6f36561178eccf9b7650a3d6172ae5e400a1f01"
+    },
+    {
+      "file": "13-morning-notification.png",
+      "frame": 1520,
+      "sha256": "0623d011dd1dabc6a3dd6f305d3cf0117e957ee708d397f217c48d4e3a78de24"
+    }
+  ]
+}

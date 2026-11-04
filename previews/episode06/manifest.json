@@ -1,0 +1,124 @@
+{
+  "sourceBranch": "feature/ep06-deadline-crisis",
+  "sourceCommit": "4a03a9aecf218be6c1496786dee6266b02bc6884",
+  "previewBranch": "preview/episode06",
+  "previewDurationSeconds": 59,
+  "voiceDurationSeconds": 56.610958,
+  "voiceMaster": "public/audio/ep06-voiceover.wav",
+  "voiceSourceSha256": "9851ec7d6e87a5520b6c86676b88f5250c619176e7d1d303ce52dcc2d332b05b",
+  "previewSha256": "3a0bdc8b0e77b031b4543c891b8dfbf70ee2f03bbb56112bc1366f14a0cb7caf",
+  "final1080pRendered": false,
+  "userApproval": "pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3416,
+      "sha256": "60c85fca8e94da9326de48977c0bfb6b1a9f66de681ed058860e301bc0447746"
+    },
+    {
+      "path": "additional-story-checks.jpg",
+      "bytes": 273702,
+      "sha256": "079ffb22510d901975c55d9ce307c99c9de47bc76ee2863db9898e55780723b9"
+    },
+    {
+      "path": "encoded-timeline.jpg",
+      "bytes": 692825,
+      "sha256": "3b7b1de2585bb7ca19c2d308742eba957b11189a869e5792718a1ed1da9024d1"
+    },
+    {
+      "path": "ep01-ep06-comparison.jpg",
+      "bytes": 378420,
+      "sha256": "1e764f614d514c931141873f9d2e42f3d5d0a89be39229c32878a2b1e561a2eb"
+    },
+    {
+      "path": "ep06-full-preview.mp4",
+      "bytes": 3313326,
+      "sha256": "3a0bdc8b0e77b031b4543c891b8dfbf70ee2f03bbb56112bc1366f14a0cb7caf"
+    },
+    {
+      "path": "episode06-subtitles.srt",
+      "bytes": 1951,
+      "sha256": "ab05f37c9337e54fe5aafd66094f32a629196f7b31167ec18e34e101b084e79c"
+    },
+    {
+      "path": "player-verification.json",
+      "bytes": 737,
+      "sha256": "ec1ad4bf24549d5376f35c22e11643e226efcdc8a0c68481b9d522d8045e8568"
+    },
+    {
+      "path": "verification-preview.json",
+      "bytes": 1419,
+      "sha256": "789bd4665c40d8432e879b00c3748b44e6c594496c9395805528658ae8d1b371"
+    },
+    {
+      "path": "visual-check/01-frozen-application.png",
+      "bytes": 188624,
+      "sha256": "e4c6ff42aed302191edf283aa081dd3dc67fb727dd530cc18cc1b73c6a46a69b"
+    },
+    {
+      "path": "visual-check/02-panicked-character.png",
+      "bytes": 198361,
+      "sha256": "e72f995639858c12feae089e23a01531e4ec207cf1c415c716e4a7f33384f410"
+    },
+    {
+      "path": "visual-check/03-unsaved-changes.png",
+      "bytes": 217059,
+      "sha256": "e6129d8ca6c79ac157d865144a274924502d5637e9be73f3c3360641f75d1ea7"
+    },
+    {
+      "path": "visual-check/04-auto-recovery.png",
+      "bytes": 204029,
+      "sha256": "ef1d2274f0e5c03b452aa63cb2f09db26ad689a9a30d4770daa361bd8624cff8"
+    },
+    {
+      "path": "visual-check/05-finalization-montage.png",
+      "bytes": 226407,
+      "sha256": "ef5c437a1a0a32e8a419f7913f0ace248d2b98acbc3460835b3a20da5a57aae9"
+    },
+    {
+      "path": "visual-check/06-file-sent.png",
+      "bytes": 181453,
+      "sha256": "da7ba4c1e75d30cdce9db801c8c39224cb0c4a3d1a20f210c1d9eac01f6a5fd9"
+    },
+    {
+      "path": "visual-check/07-next-morning-cliffhanger.png",
+      "bytes": 164670,
+      "sha256": "ed83fc1db0f523442f149d435dc16fe598e9eb7ff13bd3af8d1c1616c52d9232"
+    },
+    {
+      "path": "visual-check/08-normal-editing.png",
+      "bytes": 173828,
+      "sha256": "fde1c5f3b2b83fed2ed9feaa95826b5f820c38980b43548ebb202ba8202b6469"
+    },
+    {
+      "path": "visual-check/09-repeated-clicks.png",
+      "bytes": 197082,
+      "sha256": "5e18ce0aabe6eec01d8d568f53a5ba69252e5fcde8cc18405ebc09c4d74f8f88"
+    },
+    {
+      "path": "visual-check/10-recovered-file.png",
+      "bytes": 205570,
+      "sha256": "08329b499fc4851385e665e23ed248640115ca66d37ad3f98bb27e452802e9a4"
+    },
+    {
+      "path": "visual-check/11-export-ready.png",
+      "bytes": 209413,
+      "sha256": "66e9a2a64beae56e3abd1ccc001f8356256c2192e978a0aa8c12b48b9fffb379"
+    },
+    {
+      "path": "visual-check/12-upload-loading.png",
+      "bytes": 176978,
+      "sha256": "564b307be254c24b400c9399f6f36561178eccf9b7650a3d6172ae5e400a1f01"
+    },
+    {
+      "path": "visual-check/13-morning-notification.png",
+      "bytes": 164302,
+      "sha256": "0623d011dd1dabc6a3dd6f305d3cf0117e957ee708d397f217c48d4e3a78de24"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 3331,
+      "sha256": "d0e1eca5d5320bbd596944667d34059127d76718a8260a9c45a9afdd405bbe00"
+    }
+  ]
+}
