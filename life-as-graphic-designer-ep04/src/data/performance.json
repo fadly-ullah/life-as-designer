@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "start": 0,
+      "end": 1.130021,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "start": 1.130021,
+      "end": 3.590042,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 3.590042,
+      "end": 4.913917,
+      "action": "idle",
+      "talk": true
+    },
+    {
+      "start": 4.913917,
+      "end": 7.1110105,
+      "action": "typing",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "start": 7.1110105,
+      "end": 7.311979,
+      "action": "happy",
+      "talk": false
+    },
+    {
+      "start": 7.311979,
+      "end": 8.1,
+      "action": "surprised",
+      "talk": false
+    },
+    {
+      "start": 8.1,
+      "end": 10.240021,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 10.240021,
+      "end": 13.040697999999999,
+      "action": "happy",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "start": 13.040697999999999,
+      "end": 15.207229,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 15.207229,
+      "end": 16.837229,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 16.837229,
+      "end": 19.07,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 19.07,
+      "end": 20.130063,
+      "action": "surprised",
+      "talk": true
+    },
+    {
+      "start": 20.130063,
+      "end": 22.829979,
+      "action": "confused",
+      "talk": true
+    },
+    {
+      "start": 22.829979,
+      "end": 24.619979,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 24.619979,
+      "end": 26.42,
+      "action": "frustrated",
+      "talk": false
+    },
+    {
+      "start": 26.42,
+      "end": 28.280021,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 28.280021,
+      "end": 29.9375625,
+      "action": "pointing",
+      "talk": true
+    }
+  ],
+  [
+    {
+      "start": 29.9375625,
+      "end": 30.96,
+      "action": "thinking",
+      "talk": false
+    },
+    {
+      "start": 30.96,
+      "end": 32.72,
+      "action": "idle",
+      "talk": true
+    },
+    {
+      "start": 32.72,
+      "end": 34.720062,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 34.720062,
+      "end": 36.990187,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 36.990187,
+      "end": 38.54,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 38.54,
+      "end": 40.200292,
+      "action": "typing",
+      "talk": false
+    },
+    {
+      "start": 40.200292,
+      "end": 41.850021,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 41.850021,
+      "end": 43.9999685,
+      "action": "typing",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "start": 43.9999685,
+      "end": 47.120125,
+      "action": "happy",
+      "talk": true
+    },
+    {
+      "start": 47.120125,
+      "end": 48.722812,
+      "action": "pointing",
+      "talk": true
+    },
+    {
+      "start": 48.722812,
+      "end": 50.120354000000006,
+      "action": "typing",
+      "talk": false
+    }
+  ],
+  [
+    {
+      "start": 50.120354000000006,
+      "end": 50.320708,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "start": 50.320708,
+      "end": 50.83,
+      "action": "surprised",
+      "talk": false
+    },
+    {
+      "start": 50.83,
+      "end": 51.900292,
+      "action": "reading",
+      "talk": false
+    },
+    {
+      "start": 51.900292,
+      "end": 53.982,
+      "action": "idle",
+      "talk": false
+    },
+    {
+      "start": 53.982,
+      "end": 54.3755,
+      "action": "confused",
+      "talk": false
+    },
+    {
+      "start": 54.3755,
+      "end": 61,
+      "action": "frustrated",
+      "talk": true
+    }
+  ]
+]

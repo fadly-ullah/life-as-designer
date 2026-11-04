@@ -1,0 +1,15 @@
+{
+  "sourcePath": "public/audio/ep04-voiceover.mp3",
+  "staticSource": "audio/ep04-voiceover.mp3",
+  "audioDurationSeconds": 59.424,
+  "decodedDurationSeconds": 59.381,
+  "audioSamples": 2850288,
+  "sampleRate": 48000,
+  "sourceSampleRate": 48000,
+  "sourceSha256": "f171a82acf07b780bc2d6b12d245071e5a5d38e8f1bf903513a7214dbacddd13",
+  "fps": 30,
+  "audioFrames": 1783,
+  "endingPaddingFrames": 47,
+  "durationInFrames": 1830,
+  "voiceGain": 0.82
+}

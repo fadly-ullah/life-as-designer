@@ -1,0 +1,597 @@
+{
+  "source": "life-as-graphic-designer-ep04/public/audio/ep04-voiceover.mp3",
+  "sourceSha256": "f171a82acf07b780bc2d6b12d245071e5a5d38e8f1bf903513a7214dbacddd13",
+  "durationSeconds": 59.381,
+  "engine": "sherpa-onnx 2.0.1 / sherpa-onnx-whisper-small multilingual CPU",
+  "language": "id",
+  "silences": [
+    [
+      0.0,
+      0.246521
+    ],
+    [
+      0.875458,
+      1.130021
+    ],
+    [
+      3.191688,
+      3.590042
+    ],
+    [
+      4.542708,
+      4.913917
+    ],
+    [
+      5.959125,
+      6.251562
+    ],
+    [
+      6.910042,
+      7.311979
+    ],
+    [
+      7.43,
+      7.830104
+    ],
+    [
+      9.842,
+      10.240021
+    ],
+    [
+      12.841375,
+      13.240021
+    ],
+    [
+      14.916354,
+      15.207229
+    ],
+    [
+      16.556562,
+      16.837229
+    ],
+    [
+      17.694146,
+      17.980542
+    ],
+    [
+      18.669687,
+      19.07
+    ],
+    [
+      19.732042,
+      20.130063
+    ],
+    [
+      22.431812,
+      22.829979
+    ],
+    [
+      24.220208,
+      24.619979
+    ],
+    [
+      26.021958,
+      26.42
+    ],
+    [
+      27.882479,
+      28.280021
+    ],
+    [
+      29.745125,
+      30.13
+    ],
+    [
+      30.642125,
+      30.96
+    ],
+    [
+      31.299958,
+      31.611458
+    ],
+    [
+      32.320042,
+      32.72
+    ],
+    [
+      34.321833,
+      34.720062
+    ],
+    [
+      36.590646,
+      36.990187
+    ],
+    [
+      38.139979,
+      38.54
+    ],
+    [
+      39.800021,
+      40.200292
+    ],
+    [
+      41.450042,
+      41.850021
+    ],
+    [
+      43.799937,
+      44.2
+    ],
+    [
+      44.709417,
+      44.968583
+    ],
+    [
+      46.721979,
+      47.120125
+    ],
+    [
+      48.320312,
+      48.722812
+    ],
+    [
+      49.065562,
+      49.290854
+    ],
+    [
+      49.92,
+      50.320708
+    ],
+    [
+      50.430021,
+      50.83
+    ],
+    [
+      51.500021,
+      51.900292
+    ],
+    [
+      52.540021,
+      52.94
+    ],
+    [
+      53.982,
+      54.3755
+    ],
+    [
+      55.017833,
+      55.3
+    ],
+    [
+      56.170313,
+      56.572708
+    ],
+    [
+      57.3615,
+      57.76
+    ],
+    [
+      59.106,
+      59.381
+    ]
+  ],
+  "chunks": [
+    {
+      "startSeconds": 0.0,
+      "endSeconds": 19.9310525,
+      "text": "Haaa, kayaknya gue mulai pilih nih. Tapi santai, warna udah beres, tinggal pilih font. Lah, kopos tergumalah kayak undangan ikan. Awalnya gue cuma pengen desainnya keliatan keren. Jodol pake font dekoratif, diskon pake font tebel, informasi kecil, beda font lagi. Buset.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Haaa, kayaknya gue mulai pilih nih. Tapi santai, warna udah beres, tinggal pilih font. Lah, kopos tergumalah kayak undangan ikan. Awalnya gue cuma pengen desainnya keliatan keren. Jodol pake font dekoratif, diskon pake font tebel, informasi kecil, beda font lagi. Buset.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Ha",
+          "aa",
+          ",",
+          " kayak",
+          "nya",
+          " gue",
+          " mul",
+          "ai",
+          " p",
+          "ili",
+          "h",
+          " nih",
+          ".",
+          " Tapi",
+          " sant",
+          "ai",
+          ",",
+          " war",
+          "na",
+          " udah",
+          " ber",
+          "es",
+          ",",
+          " ting",
+          "gal",
+          " p",
+          "ili",
+          "h",
+          " font",
+          ".",
+          " Lah",
+          ",",
+          " kop",
+          "os",
+          " ter",
+          "g",
+          "um",
+          "alah",
+          " kayak",
+          " und",
+          "angan",
+          " ik",
+          "an",
+          ".",
+          " Aw",
+          "alnya",
+          " gue",
+          " cuma",
+          " peng",
+          "en",
+          " des",
+          "ain",
+          "nya",
+          " ke",
+          "li",
+          "atan",
+          " k",
+          "eren",
+          ".",
+          " J",
+          "od",
+          "ol",
+          " p",
+          "ake",
+          " font",
+          " de",
+          "kor",
+          "atif",
+          ",",
+          " disk",
+          "on",
+          " p",
+          "ake",
+          " font",
+          " te",
+          "bel",
+          ",",
+          " inform",
+          "asi",
+          " ke",
+          "cil",
+          ",",
+          " bed",
+          "a",
+          " font",
+          " lagi",
+          ".",
+          " Bus",
+          "et",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          3.34,
+          7.08,
+          10.0,
+          13.0,
+          15.0,
+          18.8
+        ],
+        "segment_durations": [
+          3.34,
+          3.74,
+          2.92,
+          3.0,
+          2.0,
+          3.8,
+          1.0
+        ],
+        "segment_texts": [
+          " Haaa, kayaknya gue mulai pilih nih.",
+          " Tapi santai, warna udah beres, tinggal pilih font.",
+          " Lah, kopos tergumalah kayak undangan ikan.",
+          " Awalnya gue cuma pengen desainnya keliatan keren.",
+          " Jodol pake font dekoratif,",
+          " diskon pake font tebel, informasi kecil, beda font lagi.",
+          " Buset."
+        ]
+      }
+    },
+    {
+      "startSeconds": 19.9310525,
+      "endSeconds": 41.6500315,
+      "text": "Ini poster promo apareuni keluarga phone. Judulnya susah dibaca, diskonnya malah kalah mencolok. Udah kayak gondangan kondangan. Tinggal tambahin nama pengantinnya. Haa... Oke, fokus fokus. Gue pake satu keluarga phone, terus mainin ketebalan sama ukurannya. Judul harus tegas. Angka diskon paling besar. Info kecil tetap kebaca.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Ini poster promo apareuni keluarga phone. Judulnya susah dibaca, diskonnya malah kalah mencolok. Udah kayak gondangan kondangan. Tinggal tambahin nama pengantinnya. Haa... Oke, fokus fokus. Gue pake satu keluarga phone, terus mainin ketebalan sama ukurannya. Judul harus tegas. Angka diskon paling besar. Info kecil tetap kebaca.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Ini",
+          " poster",
+          " promo",
+          " ap",
+          "are",
+          "uni",
+          " keluar",
+          "ga",
+          " phone",
+          ".",
+          " Jud",
+          "ul",
+          "nya",
+          " sus",
+          "ah",
+          " dib",
+          "aca",
+          ",",
+          " disk",
+          "on",
+          "nya",
+          " mal",
+          "ah",
+          " kal",
+          "ah",
+          " men",
+          "col",
+          "ok",
+          ".",
+          " U",
+          "dah",
+          " kayak",
+          " g",
+          "ond",
+          "angan",
+          " k",
+          "ond",
+          "angan",
+          ".",
+          " Ting",
+          "gal",
+          " tamb",
+          "ah",
+          "in",
+          " n",
+          "ama",
+          " peng",
+          "ant",
+          "in",
+          "nya",
+          ".",
+          " Ha",
+          "a",
+          "...",
+          " Oke",
+          ",",
+          " f",
+          "okus",
+          " f",
+          "okus",
+          ".",
+          " Gue",
+          " p",
+          "ake",
+          " satu",
+          " keluar",
+          "ga",
+          " phone",
+          ",",
+          " terus",
+          " main",
+          "in",
+          " k",
+          "ete",
+          "bal",
+          "an",
+          " sama",
+          " uk",
+          "ur",
+          "annya",
+          ".",
+          " Jud",
+          "ul",
+          " harus",
+          " te",
+          "gas",
+          ".",
+          " Ang",
+          "ka",
+          " disk",
+          "on",
+          " paling",
+          " besar",
+          ".",
+          " Inf",
+          "o",
+          " ke",
+          "cil",
+          " tet",
+          "ap",
+          " ke",
+          "b",
+          "aca",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          2.7,
+          4.5,
+          6.3,
+          8.16,
+          10.0,
+          10.8,
+          12.6,
+          14.6,
+          16.9,
+          18.4,
+          20.1
+        ],
+        "segment_durations": [
+          2.7,
+          1.8,
+          1.8,
+          1.86,
+          1.84,
+          0.8,
+          1.8,
+          2.0,
+          2.3,
+          1.5,
+          1.7,
+          1.6
+        ],
+        "segment_texts": [
+          " Ini poster promo apareuni keluarga phone.",
+          " Judulnya susah dibaca,",
+          " diskonnya malah kalah mencolok.",
+          " Udah kayak gondangan kondangan.",
+          " Tinggal tambahin nama pengantinnya.",
+          " Haa...",
+          " Oke, fokus fokus.",
+          " Gue pake satu keluarga phone,",
+          " terus mainin ketebalan sama ukurannya.",
+          " Judul harus tegas.",
+          " Angka diskon paling besar.",
+          " Info kecil tetap kebaca."
+        ]
+      }
+    },
+    {
+      "startSeconds": 41.6500315,
+      "endSeconds": 59.381,
+      "text": "Gue rapihin jarak dan susunan tekstnya. Nah, sekarang posternya enak dilihat. Promonya langsung kelihatan. Oke, kirim seklian. Eh, langsung dibales? Bagus sih, tapi kurang nendang. Haduh, revisi lagi. Episode 5, Perang sama revisi klien.",
+      "result": {
+        "lang": "id",
+        "emotion": "",
+        "event": "",
+        "text": "Gue rapihin jarak dan susunan tekstnya. Nah, sekarang posternya enak dilihat. Promonya langsung kelihatan. Oke, kirim seklian. Eh, langsung dibales? Bagus sih, tapi kurang nendang. Haduh, revisi lagi. Episode 5, Perang sama revisi klien.",
+        "timestamps": [],
+        "durations": [],
+        "tokens": [
+          " Gue",
+          " rap",
+          "ihin",
+          " jar",
+          "ak",
+          " dan",
+          " sus",
+          "un",
+          "an",
+          " tek",
+          "st",
+          "nya",
+          ".",
+          " Nah",
+          ",",
+          " sekarang",
+          " poster",
+          "nya",
+          " en",
+          "ak",
+          " d",
+          "ili",
+          "hat",
+          ".",
+          " Prom",
+          "onya",
+          " lang",
+          "sung",
+          " ke",
+          "li",
+          "hat",
+          "an",
+          ".",
+          " Oke",
+          ",",
+          " kir",
+          "im",
+          " se",
+          "kl",
+          "ian",
+          ".",
+          " Eh",
+          ",",
+          " lang",
+          "sung",
+          " dib",
+          "ales",
+          "?",
+          " Bag",
+          "us",
+          " sih",
+          ",",
+          " tapi",
+          " kur",
+          "ang",
+          " n",
+          "end",
+          "ang",
+          ".",
+          " Had",
+          "uh",
+          ",",
+          " rev",
+          "isi",
+          " lagi",
+          ".",
+          " Episode",
+          " 5",
+          ",",
+          " Per",
+          "ang",
+          " sama",
+          " rev",
+          "isi",
+          " kl",
+          "ien",
+          "."
+        ],
+        "ys_log_probs": [],
+        "words": [],
+        "segment_timestamps": [
+          0.0,
+          2.34,
+          5.26,
+          6.88,
+          8.46,
+          10.06,
+          12.5,
+          14.7
+        ],
+        "segment_durations": [
+          2.34,
+          2.92,
+          1.62,
+          1.58,
+          1.6,
+          2.44,
+          2.2,
+          3.0
+        ],
+        "segment_texts": [
+          " Gue rapihin jarak dan susunan tekstnya.",
+          " Nah, sekarang posternya enak dilihat.",
+          " Promonya langsung kelihatan.",
+          " Oke, kirim seklian.",
+          " Eh, langsung dibales?",
+          " Bagus sih, tapi kurang nendang.",
+          " Haduh, revisi lagi.",
+          " Episode 5, Perang sama revisi klien."
+        ]
+      }
+    }
+  ],
+  "reviewRequired": true
+}

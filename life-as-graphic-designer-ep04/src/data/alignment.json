@@ -1,0 +1,175 @@
+{
+  "sourceSha256": "f171a82acf07b780bc2d6b12d245071e5a5d38e8f1bf903513a7214dbacddd13",
+  "method": "Local Whisper-small native phrase timestamps, matched to measured FFmpeg silencedetect -33dB / 70ms pause boundaries. Scene cuts use measured inter-phrase pause midpoints.",
+  "sceneStartSeconds": [
+    0,
+    7.1110105,
+    13.040697999999999,
+    29.9375625,
+    43.9999685,
+    50.120354000000006
+  ],
+  "speechRegions": [
+    {
+      "start": 0.246521,
+      "end": 0.875458,
+      "text": "Hah..."
+    },
+    {
+      "start": 1.130021,
+      "end": 3.191688,
+      "text": "kayaknya gue mulai pilek nih."
+    },
+    {
+      "start": 3.590042,
+      "end": 4.542708,
+      "text": "Tapi santai."
+    },
+    {
+      "start": 4.913917,
+      "end": 6.910042,
+      "text": "Warna udah beres, tinggal pilih font."
+    },
+    {
+      "start": 7.311979,
+      "end": 9.842,
+      "text": "Lah, kok poster gue malah kayak undangan nikahan?"
+    },
+    {
+      "start": 10.240021,
+      "end": 12.841375,
+      "text": "Awalnya gue cuma pengen desainnya kelihatan keren."
+    },
+    {
+      "start": 13.240021,
+      "end": 14.916354,
+      "text": "Judul pakai font dekoratif,"
+    },
+    {
+      "start": 15.207229,
+      "end": 16.556562,
+      "text": "diskon pakai font tebel,"
+    },
+    {
+      "start": 16.837229,
+      "end": 18.669687,
+      "text": "informasi kecil beda font lagi."
+    },
+    {
+      "start": 19.07,
+      "end": 19.732042,
+      "text": "Buset."
+    },
+    {
+      "start": 20.130063,
+      "end": 22.431812,
+      "text": "Ini poster promo apa reuni keluarga font?"
+    },
+    {
+      "start": 22.829979,
+      "end": 24.220208,
+      "text": "Judulnya susah dibaca."
+    },
+    {
+      "start": 24.619979,
+      "end": 26.021958,
+      "text": "Diskonnya malah kalah mencolok."
+    },
+    {
+      "start": 26.42,
+      "end": 27.882479,
+      "text": "Udah kayak undangan kondangan,"
+    },
+    {
+      "start": 28.280021,
+      "end": 29.745125,
+      "text": "tinggal tambahin nama pengantinnya."
+    },
+    {
+      "start": 30.13,
+      "end": 30.642125,
+      "text": "Hah..."
+    },
+    {
+      "start": 30.96,
+      "end": 32.320042,
+      "text": "oke, fokus, fokus."
+    },
+    {
+      "start": 32.72,
+      "end": 34.321833,
+      "text": "Gue pakai satu keluarga font,"
+    },
+    {
+      "start": 34.720062,
+      "end": 36.590646,
+      "text": "terus mainin ketebalan sama ukurannya."
+    },
+    {
+      "start": 36.990187,
+      "end": 38.139979,
+      "text": "Judul harus tegas."
+    },
+    {
+      "start": 38.54,
+      "end": 39.800021,
+      "text": "Angka diskon paling besar."
+    },
+    {
+      "start": 40.200292,
+      "end": 41.450042,
+      "text": "Info kecil tetap kebaca."
+    },
+    {
+      "start": 41.850021,
+      "end": 43.799937,
+      "text": "Gue rapihin jarak dan susunan teksnya."
+    },
+    {
+      "start": 44.2,
+      "end": 46.721979,
+      "text": "Nah, sekarang posternya enak dilihat."
+    },
+    {
+      "start": 47.120125,
+      "end": 48.320312,
+      "text": "Promonya langsung kelihatan."
+    },
+    {
+      "start": 48.722812,
+      "end": 49.92,
+      "text": "Oke, kirim ke klien."
+    },
+    {
+      "start": 50.320708,
+      "end": 51.500021,
+      "text": "Eh, langsung dibales?"
+    },
+    {
+      "start": 51.900292,
+      "end": 53.982,
+      "text": "Bagus sih, tapi kurang nendang."
+    },
+    {
+      "start": 54.3755,
+      "end": 56.170313,
+      "text": "Haduh, revisi lagi."
+    },
+    {
+      "start": 56.572708,
+      "end": 59.106,
+      "text": "Episode lima, perang sama revisi klien."
+    }
+  ],
+  "orthographyCorrections": [
+    "pilih -> pilek (nasal speech/context)",
+    "phone -> font",
+    "undangan ikan -> undangan nikahan",
+    "seklian -> ke klien",
+    "gondangan kondangan -> undangan kondangan"
+  ],
+  "wordTimingAvailable": false,
+  "phonemeTimingAvailable": false,
+  "voProcessing": "No nasal filter, no speech regeneration, no pitch/time changes. Recorded breaths preserved; no additional sniffles.",
+  "humanPreviewReviewRecommended": true
+}
