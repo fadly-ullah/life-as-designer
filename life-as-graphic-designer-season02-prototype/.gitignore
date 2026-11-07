@@ -1,0 +1,10 @@
+node_modules/
+out/
+.remotion/
+.venv*/
+*.log
+.env
+.env.*
+*.key
+*.pem
+__pycache__/

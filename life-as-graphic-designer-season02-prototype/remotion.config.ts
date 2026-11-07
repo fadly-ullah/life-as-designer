@@ -1,0 +1,10 @@
+import {Config} from '@remotion/cli/config';
+import {existsSync} from 'node:fs';
+Config.setCodec('h264');
+Config.setPixelFormat('yuv420p');
+Config.setCrf(18);
+Config.setVideoImageFormat('jpeg');
+Config.setJpegQuality(95);
+Config.setConcurrency(2);
+const browser=process.env.REMOTION_BROWSER_EXECUTABLE||(existsSync('/usr/bin/chromium')?'/usr/bin/chromium':undefined);
+if(browser)Config.setBrowserExecutable(browser);
