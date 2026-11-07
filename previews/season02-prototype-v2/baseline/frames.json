@@ -1,0 +1,47 @@
+{
+  "composition": "Season02Foundation",
+  "basis": "New adaptation of original Season 01 components, not a recovered previous S02 prototype",
+  "durationSeconds": 15,
+  "durationInFrames": 450,
+  "fps": 30,
+  "resolution": [
+    540,
+    960
+  ],
+  "productionFingerprint": "cf77472f1e0f2aba6299065f22be67b9fe36ff6830038bb3ee77f90e68d65707",
+  "shots": [
+    {
+      "file": "01-opening-notification.png",
+      "frame": 75,
+      "seconds": 2.5,
+      "sha256": "4036cf5018eadb328595a345e7af57e317e26bc62107352462d1a33c67aac4c1"
+    },
+    {
+      "file": "02-character-reaction.png",
+      "frame": 182,
+      "seconds": 6.066666666666666,
+      "sha256": "302f0027ac95b28b629f394db35bdc49619bdf2bb3d187b4b32bcbff1117d76e"
+    },
+    {
+      "file": "03-video-analysis.png",
+      "frame": 300,
+      "seconds": 10,
+      "sha256": "ee8525a6939ea84ea8539d5fefd98b019a9ade2332c68bbd7146ac55f2a9fe2f"
+    },
+    {
+      "file": "04-editing-transition.png",
+      "frame": 386,
+      "seconds": 12.866666666666667,
+      "sha256": "a8a492ab583a547c469ac088f7f8eae018505cf2adb38d233f521a093f04dfd3"
+    },
+    {
+      "file": "05-ending-title.png",
+      "frame": 438,
+      "seconds": 14.6,
+      "sha256": "01ad06cf4bb05cdbc798c2dfd48aa22259fa3563834506c22886235040c56aa2"
+    }
+  ],
+  "concurrency": 1,
+  "audioRendered": false,
+  "mp4Rendered": false
+}

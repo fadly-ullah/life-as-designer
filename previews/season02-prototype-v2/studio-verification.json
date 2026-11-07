@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "composition": "Season02PrototypeV2",
+  "durationSeconds": 15,
+  "frames": 450,
+  "fps": 30,
+  "all450FrameStatesChecked": true,
+  "maxCameraPixelsPerFrame": 2.9671984126444926,
+  "maxScaleChangePerFrame": 0.003089999999999815,
+  "maxHeadDegreesPerFrame": 1.0943608203298543,
+  "originalRigLayersAligned": true,
+  "phoneHandoffScreenPixels": 0.5726079460080483,
+  "placedPhoneMovementScreenPixels": 0,
+  "clientProblemVisibleBySeconds": 1.5,
+  "introFractionBefore": 0.62,
+  "introFractionAfter": 0.07,
+  "fullStudioPlayback": {
+    "elapsedMs": 15431.900000000373,
+    "maxFrame": 447,
+    "errors": []
+  },
+  "audioElements": 0,
+  "videoElements": 0,
+  "mp4Rendered": false,
+  "externalReferenceCompared": false,
+  "oldPrototypeCompared": false
+}

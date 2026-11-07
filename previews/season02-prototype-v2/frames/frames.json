@@ -1,0 +1,47 @@
+{
+  "composition": "Season02PrototypeV2",
+  "basis": "Refinement of the documented adaptation baseline",
+  "durationSeconds": 15,
+  "durationInFrames": 450,
+  "fps": 30,
+  "resolution": [
+    540,
+    960
+  ],
+  "productionFingerprint": "f7ffcaa537898118c092435d2491e68e76822f0c718bccb2b8c621bd0ceae529",
+  "shots": [
+    {
+      "file": "01-opening-notification.png",
+      "frame": 75,
+      "seconds": 2.5,
+      "sha256": "e85b2c81f52c5f736a43dfa1e0d689c20ad0430313c6197c8e4d5f6d406553da"
+    },
+    {
+      "file": "02-character-reaction.png",
+      "frame": 182,
+      "seconds": 6.066666666666666,
+      "sha256": "01db2bfcaece1557f47e4928724f2eafb46d58507efe923b9dde84ba49e7f8d0"
+    },
+    {
+      "file": "03-video-analysis.png",
+      "frame": 300,
+      "seconds": 10,
+      "sha256": "4884628885bc378f815079d511928eb0aa1abdc5d998a5a5f74c23885e86422d"
+    },
+    {
+      "file": "04-editing-transition.png",
+      "frame": 386,
+      "seconds": 12.866666666666667,
+      "sha256": "ce4bc15c4d48c94c92ea33c5e481e5b3072e7df062d61608c9e2fdf99b5bd3a7"
+    },
+    {
+      "file": "05-ending-title.png",
+      "frame": 438,
+      "seconds": 14.6,
+      "sha256": "a9517d38364b73e4b8fe61b8b22a4095f7c0a744a5b5b27e74a8100319465dfd"
+    }
+  ],
+  "concurrency": 1,
+  "audioRendered": false,
+  "mp4Rendered": false
+}

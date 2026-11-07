@@ -1,0 +1,133 @@
+{
+  "sourceBranch": "feature/season02-prototype-visual-v2",
+  "sourceCommit": "a5c420f08a75ad9be07fe5d2401cfec9cf657320",
+  "publicationBranch": "preview/season02-prototype-v2",
+  "composition": "Season02PrototypeV2",
+  "durationSeconds": 15,
+  "fps": 30,
+  "frames": 450,
+  "evaluationResolution": [
+    540,
+    960
+  ],
+  "originalRigReused": true,
+  "oldPrototypeRecovered": false,
+  "oldPrototypeCompared": false,
+  "externalReferenceCompared": false,
+  "comparisonBasis": "New adaptation foundation and available EP01 original render",
+  "audioRendered": false,
+  "mp4Rendered": false,
+  "userReview": "pending",
+  "files": [
+    {
+      "path": "BASELINE-ASSESSMENT.md",
+      "bytes": 1839,
+      "sha256": "7d3f66aa9eb48a9284c71bb1a30b2c6151a5c6d2fc7af8249119cbc76aeff611"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3242,
+      "sha256": "c7d20b23a917301c08c6ee9ea0b2bcea3636f6dfe5aa727ba50fc4d382926e3b"
+    },
+    {
+      "path": "VISUAL-REVIEW.md",
+      "bytes": 5128,
+      "sha256": "ed5ae55bec949a113581761408cfaa620fc0549fc1b60f34d8b30f2cf0400ef6"
+    },
+    {
+      "path": "baseline/01-opening-notification.png",
+      "bytes": 54242,
+      "sha256": "4036cf5018eadb328595a345e7af57e317e26bc62107352462d1a33c67aac4c1"
+    },
+    {
+      "path": "baseline/02-character-reaction.png",
+      "bytes": 44747,
+      "sha256": "302f0027ac95b28b629f394db35bdc49619bdf2bb3d187b4b32bcbff1117d76e"
+    },
+    {
+      "path": "baseline/03-video-analysis.png",
+      "bytes": 47469,
+      "sha256": "ee8525a6939ea84ea8539d5fefd98b019a9ade2332c68bbd7146ac55f2a9fe2f"
+    },
+    {
+      "path": "baseline/04-editing-transition.png",
+      "bytes": 49546,
+      "sha256": "a8a492ab583a547c469ac088f7f8eae018505cf2adb38d233f521a093f04dfd3"
+    },
+    {
+      "path": "baseline/05-ending-title.png",
+      "bytes": 49525,
+      "sha256": "01ad06cf4bb05cdbc798c2dfd48aa22259fa3563834506c22886235040c56aa2"
+    },
+    {
+      "path": "baseline/contact-sheet.jpg",
+      "bytes": 132244,
+      "sha256": "c019a9c2add8f7df9e3a12d678789633be6f25603649ee3be4eecf120f3ed7f5"
+    },
+    {
+      "path": "baseline/frames.json",
+      "bytes": 1356,
+      "sha256": "5070aab7ba490bd5d660e6377fc5c863dfab9cef27869c189471fc873e205a00"
+    },
+    {
+      "path": "frame-audit.json",
+      "bytes": 230016,
+      "sha256": "bbcef6b017ca3679e98ad85e341d09af86f76724245ef140a932416e466d44a6"
+    },
+    {
+      "path": "frames/01-opening-notification.png",
+      "bytes": 69457,
+      "sha256": "e85b2c81f52c5f736a43dfa1e0d689c20ad0430313c6197c8e4d5f6d406553da"
+    },
+    {
+      "path": "frames/02-character-reaction.png",
+      "bytes": 59345,
+      "sha256": "01db2bfcaece1557f47e4928724f2eafb46d58507efe923b9dde84ba49e7f8d0"
+    },
+    {
+      "path": "frames/03-video-analysis.png",
+      "bytes": 64681,
+      "sha256": "4884628885bc378f815079d511928eb0aa1abdc5d998a5a5f74c23885e86422d"
+    },
+    {
+      "path": "frames/04-editing-transition.png",
+      "bytes": 67754,
+      "sha256": "ce4bc15c4d48c94c92ea33c5e481e5b3072e7df062d61608c9e2fdf99b5bd3a7"
+    },
+    {
+      "path": "frames/05-ending-title.png",
+      "bytes": 63477,
+      "sha256": "a9517d38364b73e4b8fe61b8b22a4095f7c0a744a5b5b27e74a8100319465dfd"
+    },
+    {
+      "path": "frames/baseline-v2-comparison.jpg",
+      "bytes": 272501,
+      "sha256": "523043a1e8d83373de89ee84855d872448686b57544c6cd6258f90ad7f85e801"
+    },
+    {
+      "path": "frames/contact-sheet.jpg",
+      "bytes": 143915,
+      "sha256": "b2bbc692bb57e8fc7714af4682fdbcbfd0a6aaed167a5904f493af83fb447251"
+    },
+    {
+      "path": "frames/ep01-identity-comparison.jpg",
+      "bytes": 106828,
+      "sha256": "2fd822eb8154595a5a327e1387961270a7e4447919dbb287991f70806ac2a9ca"
+    },
+    {
+      "path": "frames/frames.json",
+      "bytes": 1318,
+      "sha256": "75cf83ab8d31e54f1e3107decc01f4c65a4fd37c786723cff6ebe2f3604623d8"
+    },
+    {
+      "path": "frames/review.json",
+      "bytes": 3516,
+      "sha256": "ce3701e9c647638b9f341b73c590d18b50c31aa6a276c88c8e90f925ff7dd28f"
+    },
+    {
+      "path": "studio-verification.json",
+      "bytes": 775,
+      "sha256": "635df83e9611a9b21abb363ea252700b894b15b69b03532e652e25e7db5f14ad"
+    }
+  ]
+}
