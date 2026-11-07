@@ -4063,5 +4063,142 @@
       "bytes": 413,
       "sha256": "5dbb31a9c4edad9f1f44dd9ff6268fb059d9fd6df1c5d28af2d2dafe8b1398fc"
     }
+  ],
+  "protectedRepositoryFiles": [
+    {
+      "path": ".devcontainer/ep01-v2/devcontainer.json",
+      "bytes": 623,
+      "sha256": "da37574da651f841e43efff1db58c5225c39f11084c06c4a6c6b86c52eb7ff60"
+    },
+    {
+      "path": ".devcontainer/ep02/devcontainer.json",
+      "bytes": 719,
+      "sha256": "2aae9e92d9618547227428a2eac7b295ef27f8d332ae10140d044139d7dac7d5"
+    },
+    {
+      "path": ".devcontainer/ep03/devcontainer.json",
+      "bytes": 719,
+      "sha256": "6f76fc7e238a2bea867f8c034f0cb2feac5ab46debc0445122cfa7d1bf544c2d"
+    },
+    {
+      "path": ".devcontainer/ep04/devcontainer.json",
+      "bytes": 712,
+      "sha256": "d4ea4338093df82ddc836868201c1129f9aa492960299c746ed7bd27ba4bfffe"
+    },
+    {
+      "path": ".devcontainer/ep05/devcontainer.json",
+      "bytes": 712,
+      "sha256": "0cd1485eae0aa8084135a63e25c3de1d12cf676fee3831582b4c24871491bca3"
+    },
+    {
+      "path": ".devcontainer/ep06/devcontainer.json",
+      "bytes": 712,
+      "sha256": "f6e0f1fe479115c0148334adb7c0908f83a871cb055f9918bed97e061fa0c310"
+    },
+    {
+      "path": ".devcontainer/ep07/devcontainer.json",
+      "bytes": 712,
+      "sha256": "5104de7314e622acf5ee5c09031e6c7ce4c406f693e1713e8769abf398b5fe96"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 210,
+      "sha256": "7fa0a090e2a7c961e12d09d1e60b530de465419696f40892233bea9656aef466"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3013,
+      "sha256": "897c4fde504205527dbad733648adb3b09298e257862ae405a278f5def12f38f"
+    },
+    {
+      "path": "RECOVERY_MANIFEST.json",
+      "bytes": 35635,
+      "sha256": "4502abe337ec7c8107008a93cbb6ec54f026a8885248caf572fd24bc91bedab2"
+    },
+    {
+      "path": "recovery/RECOVERY_NOTES.json",
+      "bytes": 810,
+      "sha256": "8577642797d9206b539c1de71259b85b815eaefc2965e0bcfa61895dd38204a8"
+    },
+    {
+      "path": "recovery/checkpoint/v2/baseline-comparison.json",
+      "bytes": 218,
+      "sha256": "390ef726d7501c9b6914ab343fd28e73d1d3bab48dbfc36ec78bdf69165cf3d0"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Hook-WOW-comparison.jpg",
+      "bytes": 187489,
+      "sha256": "f05934d03b786955b272ea84805ea0672d959025e6831e05d0971957a2ad4ff4"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Hook-WOW-original.png",
+      "bytes": 191995,
+      "sha256": "528a28f0b977f85e88f68941e753da03cc196d2549919c933020847d484aeab1"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Hook-WOW-v2.png",
+      "bytes": 191809,
+      "sha256": "55bfb79756ab1f4273eb64dfdcd4770fa596c2b92a181490490481dba657cd0a"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Moodboard-comparison.jpg",
+      "bytes": 208069,
+      "sha256": "f1e603176a595700ed3f034781878457db5be838fea44021246f75c468c2ee59"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Moodboard-original.png",
+      "bytes": 225404,
+      "sha256": "48a65d57ef86764bd7096786602d7d5945964ade7d4c31dba8e11527ef0ff960"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Moodboard-v2.png",
+      "bytes": 224259,
+      "sha256": "d4de90ec5973890adf0bc0903704ae4684fdc0d3bd54317d95663849b532d632"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Questions-comparison.jpg",
+      "bytes": 188813,
+      "sha256": "b266b9a7e5ce7bccbe00d4a0f22ab4f3f2005d09693594006610b8865fd04034"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Questions-original.png",
+      "bytes": 167397,
+      "sha256": "9ba2faf1935d3cc1c9153b386f5f3e9e6b38669c69944905cdf1bec62372bf75"
+    },
+    {
+      "path": "recovery/checkpoint/v2/comparison/Questions-v2.png",
+      "bytes": 164747,
+      "sha256": "e4b8bf201fb93ec7776944c0548ea9eacb6e6192278f764608c4f6c8df6ecc33"
+    },
+    {
+      "path": "recovery/checkpoint/v2/identity-report.json",
+      "bytes": 827,
+      "sha256": "80bb4b692a8c4c2eb166a71137cbb609e6695821679c68ab9ab7d6259eb3ba62"
+    },
+    {
+      "path": "recovery/checkpoint/v2/new-voice-measurement.json",
+      "bytes": 322,
+      "sha256": "089d9eed85be7867cdf5a5af1bebc8d36842028d1d62240288d35e6cfdf38e59"
+    },
+    {
+      "path": "recovery/checkpoint/v2/visual-comparison.json",
+      "bytes": 972,
+      "sha256": "7b1de2d5289bcf0a4bd0ef68820a0b5c3ed6b2a8017fb1b45750750854972d70"
+    },
+    {
+      "path": "recovery/checkpoint/v2/voice-transcription-small.json",
+      "bytes": 10351,
+      "sha256": "c2e303e0d7c19e91c3fd3303e49bed4fcfc4be7dfcf26a04cee1ae41f429394a"
+    },
+    {
+      "path": "recovery/checkpoint/v2/voice-transcription.json",
+      "bytes": 10409,
+      "sha256": "2bc7e7ef4d44d57d8cd54ed48ccb9dec6be8c1bece6582eb14e905b565e447b7"
+    },
+    {
+      "path": "recovery/source-paths.json",
+      "bytes": 10787,
+      "sha256": "2126d56a7acc6cb7a8a4c70228fbdab02ae1dfe81ca66f720ec38ef161564547"
+    }
   ]
 }
