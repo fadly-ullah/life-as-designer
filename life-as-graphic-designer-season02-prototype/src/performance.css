@@ -1,0 +1,8 @@
+.performance-rig .rig-body,.performance-rig .rig-head{position:absolute;inset:0}
+.performance-rig .rig-body svg>g>g>g:last-child{visibility:hidden}
+.performance-rig .rig-head svg{visibility:hidden}
+.performance-rig .rig-head svg>g>g>g:last-child,.performance-rig .rig-head svg>g>g>g:last-child *{visibility:visible}
+.performance-rig .rig-head svg>g>g>g:last-child{rotate:var(--head-turn);transform-origin:80px 86px;transform-box:view-box}
+.performance-rig .rig-head svg>g>g>g:last-child>rect[x="59"],.performance-rig .rig-head svg>g>g>g:last-child>rect[x="94"]{translate:var(--eye-x) var(--eye-y)}
+.desk-apron svg{visibility:hidden}
+.desk-apron svg>path:nth-of-type(2){visibility:visible}

@@ -1,0 +1,17 @@
+import React from 'react';
+import {E} from '../data/episodeColors';
+import {PixelDesk} from './PixelDesk';
+import {rigClock} from '../utils/motion';
+export const RoomSurfaces:React.FC<{cameraX:number;cameraY:number}>=({cameraX,cameraY})=><>
+ <div style={{position:'absolute',left:94,top:648,width:895,height:640,background:E.paper,opacity:.4,borderRadius:3,translate:`${-cameraX*.68}px ${-cameraY*.68}px`,boxShadow:'inset 20px 0 45px #0B0C0A03'}}><div style={{position:'absolute',left:95,top:0,bottom:0,width:1,background:E.line,opacity:.75}}/><div style={{position:'absolute',left:0,right:0,bottom:60,height:1,background:E.line,opacity:.7}}/></div>
+ <svg width="1080" height="1920" viewBox="0 0 1080 1920" style={{position:'absolute',inset:0}} aria-hidden="true"><path d="M176 1262H932L1002 1400H86Z" fill={E.paper} opacity=".65"/><path d="M144 1324H912L970 1344H103Z" fill={E.charcoal} opacity=".045"/><ellipse cx="152" cy="1323" rx="40" ry="9" fill={E.charcoal} opacity=".06"/><ellipse cx="917" cy="1323" rx="40" ry="9" fill={E.charcoal} opacity=".06"/><path d="M627 784L424 1030L492 1113L791 1060Z" fill={E.lime} opacity=".035"/></svg>
+ <div style={{position:'absolute',left:545,top:756,width:410,height:350,boxShadow:`0 0 44px ${E.lime}0B`,borderRadius:30}}/>
+</>;
+export const Chair:React.FC=()=> <svg width="1080" height="1920" viewBox="0 0 1080 1920" style={{position:'absolute',inset:0}} aria-label="Kursi dan tumpuan kaki menyatu dengan karakter"><rect x="239" y="952" width="222" height="187" rx="24" fill={E.olive} opacity=".24"/><rect x="252" y="1141" width="220" height="22" rx="8" fill={E.darkOlive}/><path d="M352 1162V1303M266 1328L352 1303L440 1328M317 1275H486" fill="none" stroke={E.darkOlive} strokeWidth="8" strokeLinejoin="round"/><rect x="253" y="1325" width="25" height="10" rx="5" fill={E.charcoal}/><rect x="428" y="1325" width="25" height="10" rx="5" fill={E.charcoal}/></svg>;
+export const DeskBack:React.FC=()=> <><PixelDesk style={{top:1095}}/><div style={{position:'absolute',left:94,top:1115,width:880,height:25,background:E.white,opacity:.14,clipPath:'polygon(1.2% 0,98% 0,100% 100%,0 100%)'}}/><div style={{position:'absolute',left:657,top:1113,width:180,height:7,background:E.charcoal,opacity:.09,borderRadius:'50%',filter:'blur(2px)'}}/></>;
+export const DeskFront:React.FC=()=> <div className="desk-apron"><PixelDesk style={{top:1095}}/></div>;
+export const Keyboard:React.FC<{frame:number}>=({frame})=>{
+ const active=frame>=374,side=1-Math.floor(rigClock(frame)/3)%2;
+ return <svg data-keyboard-side={active?side:'none'} viewBox="0 0 292 40" width="292" height="40" style={{position:'absolute',left:292,top:1116}} aria-label="Keyboard di bawah tangan asli yang mengetik"><path d="M10 2H277L290 31L285 39H4L0 31Z" fill={E.darkOlive}/><path d="M11 4H276L287 30H3Z" fill={E.white} stroke={E.line} strokeWidth="2"/>{Array.from({length:16},(_,i)=>{const row=Math.floor(i/8),col=i%8;return <rect key={i} x={13+col*33-row*4} y={7+row*11} width="25" height="7" rx="1" fill={active&&((col<4?0:1)===side)?E.lime:E.line}/>;})}<path d="M81 29H217" stroke={E.beige} strokeWidth="4"/></svg>;
+};
+export const PhoneStand:React.FC=()=> <svg viewBox="0 0 80 24" width="80" height="24" style={{position:'absolute',left:355,top:1109}} aria-hidden="true"><path d="M12 10H60L69 20H2Z" fill={E.darkOlive}/><path d="M17 8H59V12H11Z" fill={E.olive}/><path d="M2 20H69" stroke={E.charcoal} strokeWidth="2" opacity=".2"/></svg>;
