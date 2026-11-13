@@ -1,0 +1,65 @@
+{
+  "status": "revised-modeling-review-not-final",
+  "approved": false,
+  "originalModelAndRendersUnchanged": true,
+  "earlierTrackedFilesUnchanged": true,
+  "renderEngine": "Cycles CPU",
+  "renderSamples": 96,
+  "renderConcurrency": 1,
+  "renderThreads": 2,
+  "fourViewsManuallyInspected": true,
+  "exactApprovedConceptComparisonCreated": false,
+  "comparisonBlocker": "Approved reference image is visible in conversation but binary PNG/JPG unavailable in workspace. Exact reference cannot be composited without that file.",
+  "alternativeSheet": "Actual Model 01 front vs actual Model 02 front and four revised views with change notes; clearly labeled, not represented as approved-concept comparison.",
+  "riggingPerformed": false,
+  "GLBExported": false,
+  "animationPerformed": false,
+  "artifacts": {
+    "evaluation/front.png": {
+      "dimensions": [
+        960,
+        1200
+      ],
+      "sha256": "02a8b7e2e0573463fc9dfdea899a7dccd8cd6b769731e77faabf9244b7469dcf"
+    },
+    "evaluation/side.png": {
+      "dimensions": [
+        960,
+        1200
+      ],
+      "sha256": "db33e2b03dee93d798ae3c1bfa99c9b75ac4662b44222a667e0e95d7a748d465"
+    },
+    "evaluation/three-quarter.png": {
+      "dimensions": [
+        960,
+        1200
+      ],
+      "sha256": "670c69a422d2b9d59015db311368aa65aec86f2c9c8e2a45e1c4cf1cf27b1dec"
+    },
+    "evaluation/back.png": {
+      "dimensions": [
+        960,
+        1200
+      ],
+      "sha256": "200b01e3183a31d64890c6ef3040ea1fea310841cd895c8bb23ba0d41207b273"
+    },
+    "evaluation/four-views-native.png": {
+      "dimensions": [
+        3840,
+        1300
+      ],
+      "sha256": "4fdb001dccabe17e46e67869adcb8edacd8baf70bbeb5218bfe9db689ef18f98"
+    },
+    "evaluation/revision-review-sheet.png": {
+      "dimensions": [
+        2560,
+        1940
+      ],
+      "sha256": "4f7a26760e7174e477a67d8166a32a5c51e4c5946d1ca69efc3ef22a01d50b67"
+    },
+    "source/s02-character-modeling-02.blend": {
+      "bytes": 1779892,
+      "sha256": "5612d491671012ebb8f2190fb5aa7b75a06cf3d8bfcc647960a67e4e5f1ad52a"
+    }
+  }
+}

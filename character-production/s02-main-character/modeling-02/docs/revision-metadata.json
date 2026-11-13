@@ -1,0 +1,21 @@
+{
+  "stage": "modeling revision 02 / awaiting visual review",
+  "approved": false,
+  "rigged": false,
+  "GLBExported": false,
+  "headCountDefinition": "floor-to-crown height / crown-to-chin height",
+  "headCount": 3.65,
+  "height": 4.270499782791138,
+  "headHeight": 1.1699999404907226,
+  "headScaleUniform": 0.78,
+  "bodyVerticalScale": 1.2182710578783555,
+  "materialPaletteChanged": false,
+  "baseSource": "modeling-01/source/s02-character-modeling-01.blend",
+  "blender": "4.3.2",
+  "renderResolution": [
+    960,
+    1200
+  ],
+  "camera": "orthographic, same framing scale across all four views",
+  "conceptBinaryAvailable": false
+}

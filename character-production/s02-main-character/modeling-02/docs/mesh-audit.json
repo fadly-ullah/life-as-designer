@@ -1,0 +1,38 @@
+{
+  "meshCount": 117,
+  "dimensionsXYZ": [
+    1.596,
+    1.179,
+    4.2705
+  ],
+  "baseMeshVertices": 3090,
+  "baseMeshFaces": 2269,
+  "negativeSignedVolumes": [],
+  "nonManifoldBaseMeshes": [],
+  "armatureCount": 0,
+  "animationActionCount": 0,
+  "shapeKeys": 0,
+  "materials": [
+    "Black hair | reference 1A140F",
+    "Charcoal trousers | reference 2B2B2B",
+    "Cheek | muted D69A77",
+    "Cord cotton",
+    "Cream hoodie | reference F5EBDD",
+    "Cream seams and ribbing",
+    "Ear and thumb shade",
+    "Espresso eye",
+    "Hair lit facets",
+    "Hair shadow facets",
+    "Hood lining",
+    "Lime cord ends | reference B4CE43",
+    "Mouth line",
+    "Olive outsole",
+    "Olive shoe upper",
+    "Olive toe panel",
+    "Skin | reference F2C8A0",
+    "Trouser fold facets",
+    "Trouser seam",
+    "Warm eye whites"
+  ],
+  "note": "A closed static mesh is not proof of deformation-ready topology, visual fidelity or rig quality."
+}

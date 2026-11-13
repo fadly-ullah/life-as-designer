@@ -1,0 +1,12 @@
+{
+  "measuredHeadCount": 3.6500001241763607,
+  "measurementDefinition": "mesh floor-to-crown bounding height / crown-to-lowest-jaw bounding height",
+  "height": 4.270499553531408,
+  "headHeight": 1.1699998378753662,
+  "materialColorsAndFinishIdenticalToModel01": true,
+  "comparedMaterialCount": 20,
+  "armatureCount": 0,
+  "actions": 0,
+  "visualFidelityApproved": false,
+  "productionReadinessApproved": false
+}
