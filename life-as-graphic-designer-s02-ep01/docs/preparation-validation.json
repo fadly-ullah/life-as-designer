@@ -1,0 +1,19 @@
+{
+  "typecheck": "pass",
+  "dependencyTree": "pass",
+  "remotionVersion": "4.0.540",
+  "threeVersion": "0.187.0",
+  "reactVersion": "19.2.0",
+  "fiberVersion": "9.8.2",
+  "render": "environment-only PNG 540x960 at frame 60, inspected manually",
+  "environmentQuality": "scaffolding only; no character, expressions, interaction or episode validation",
+  "renderSha256": "7f24e87379d1e9daae38c8f1847966fc08d7f1cb528b4733481ebca9286d8d08",
+  "voSha256": "0d91c427c4cf1ba2c6b7d8e39d6e9aed30779d268da26d6d20219e35104ccee9",
+  "voPeakDbfs": -1.1,
+  "voMeanDbfs": -18.4,
+  "audioAlignment": "not performed",
+  "assetGate": "expected exit 2",
+  "maximumConcurrency": 2,
+  "episodePreview": "not rendered",
+  "originalFiles": "no tracked modifications outside new directory"
+}

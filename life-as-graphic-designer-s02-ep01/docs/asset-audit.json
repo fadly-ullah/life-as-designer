@@ -1,0 +1,39 @@
+{
+  "status": "blocked-approved-character-missing",
+  "approvedCharacter": null,
+  "productionPack": null,
+  "concept": "Approved user-message image visually reviewed; not present as a local binary asset",
+  "sourceBranch": "feature/season02-prototype-visual-v2",
+  "sourceCommit": "a5c420f08a75ad9be07fe5d2401cfec9cf657320",
+  "identityBranch": "recovery/ep01-original-v2-2026-11-03",
+  "identityCommit": "3c31073c8a7c83065eaf0bbb794ea3b75d63a95f",
+  "voiceover": {
+    "file": "s02-ep01-voiceover.wav",
+    "durationSeconds": 45.170958,
+    "sampleRate": 24000,
+    "channels": 1,
+    "synchronization": "not-yet-aligned"
+  },
+  "reference": {
+    "file": "referensi.MOV",
+    "width": 720,
+    "height": 1280,
+    "durationSeconds": 42.106667,
+    "inspection": "six sampled frames; not full playback"
+  },
+  "referenceDirection": [
+    "voxel scene inserts",
+    "lime editorial emphasis",
+    "physical depth",
+    "purposeful visual changes"
+  ],
+  "excludedReferenceElements": [
+    "persistent large title",
+    "bottom CTA",
+    "unique reference characters and scenes",
+    "neon grid"
+  ],
+  "modelSearch": "All named remote branch trees scanned for .glb .gltf .fbx .blend; none found",
+  "episodePreviewRendered": false,
+  "environmentOnlyRender": true
+}
