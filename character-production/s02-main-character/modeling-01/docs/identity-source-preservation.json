@@ -1,0 +1,20 @@
+{
+  "referenceBranch": "recovery/ep01-original-v2-2026-11-03",
+  "files": [
+    {
+      "path": "life-as-graphic-designer-ep01/src/characters/PixelCharacter.tsx",
+      "sha256": "8c3a74fb84e033f24e123e54bbe60eec9198ddecc2d507bbd3acc21336f823dc",
+      "matchesProtectedReference": true
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/characters/CharacterExpressions.ts",
+      "sha256": "ed0a3aa46b9eb6d569b286f383950f0322999aad11d8e3da2b042d4defaac26b",
+      "matchesProtectedReference": true
+    },
+    {
+      "path": "life-as-graphic-designer-ep01/src/data/colors.ts",
+      "sha256": "e0e6f177b4d622f4136352a80bdf6f4673ad9482eb0b4aa21037acad9243fa1d",
+      "matchesProtectedReference": true
+    }
+  ]
+}

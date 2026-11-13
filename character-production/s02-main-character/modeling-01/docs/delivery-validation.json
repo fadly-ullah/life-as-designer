@@ -1,0 +1,50 @@
+{
+  "status": "static-modeling-evaluation-delivered-not-approved",
+  "blender": "4.3.2",
+  "engine": "Cycles CPU",
+  "samples": 96,
+  "denoising": false,
+  "renderConcurrency": 1,
+  "renderThreads": 2,
+  "viewsManuallyInspected": true,
+  "conceptComparison": "manual visual review against approved image in chat; no pixel registration",
+  "previousTrackedFilesUnchanged": true,
+  "riggingPerformed": false,
+  "productionGLBExported": false,
+  "threeJsRigTestPerformed": false,
+  "episodeAnimationPerformed": false,
+  "artifacts": {
+    "evaluation/front.png": {
+      "size": [
+        960,
+        1200
+      ],
+      "sha256": "85c7bf81451874076185907cb6e176d3825caf170fb51e2031cbaf79560cc7b0"
+    },
+    "evaluation/side.png": {
+      "size": [
+        960,
+        1200
+      ],
+      "sha256": "793d56982df7694fb7f0d67f4cea553555d5150122acca56b9cac147af54e914"
+    },
+    "evaluation/three-quarter.png": {
+      "size": [
+        960,
+        1200
+      ],
+      "sha256": "4f88714b35633887608caad2d72c61fa8496c73d340384f4ca7ea4a999df339a"
+    },
+    "evaluation/character-review-board.png": {
+      "size": [
+        2160,
+        1250
+      ],
+      "sha256": "e7b3b2ee3d23b285262f97453fec24fdd58ae1cdc9cbe88a937199471b071c40"
+    },
+    "source/s02-character-modeling-01.blend": {
+      "bytes": 1537236,
+      "sha256": "3441960c5a7be3a8971f1dd2f4b9a413f385c679d53bf03a7f9e36da90a8c56f"
+    }
+  }
+}
