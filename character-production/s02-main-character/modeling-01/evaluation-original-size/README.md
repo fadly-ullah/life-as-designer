@@ -1,0 +1,1 @@
+Tiga render asli 960 x 1200 disusun 1:1 tanpa crop atau resampling. Ini lembar tiga sudut, bukan comparison sheet dengan concept art. Semua PNG asli dan source Blender diverifikasi tidak berubah terhadap checksum commit b20f247. File biner concept art belum tersedia di workspace.
