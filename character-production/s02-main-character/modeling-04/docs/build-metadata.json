@@ -1,0 +1,13 @@
+{
+  "baseCommit": "50e9b4ad13eb88d729d74732666c72d4a4ba6d88",
+  "baseSHA256": "f63668c75ca695be0430c7467042ef750a3be342411dc330bed57e26b5658110",
+  "headHeightRatio": 3.5210046579648533,
+  "headRangePass": true,
+  "height": 4.064999904483557,
+  "headHeight": 1.1545000076293945,
+  "approved": false,
+  "status": "UNAPPROVED",
+  "materialsChanged": false,
+  "buildBlender": "4.3.2",
+  "renders": []
+}

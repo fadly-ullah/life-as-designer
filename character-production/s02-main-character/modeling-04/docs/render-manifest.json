@@ -1,0 +1,149 @@
+{
+  "fixedTarget": [
+    0,
+    0,
+    2.1125000286847353
+  ],
+  "orthoScale": 4.9444499015808105,
+  "source": "Model03 bounds and original Model03 cameras, used identically for both models",
+  "render": {
+    "resolution": [
+      640,
+      800
+    ],
+    "samples": 48,
+    "denoise": false,
+    "threads": 2,
+    "engine": "Cycles CPU"
+  },
+  "renders": [
+    {
+      "model": "model03",
+      "view": "front",
+      "path": "evaluation/model03-matched/front.png",
+      "location": [
+        0.0,
+        -10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -0.0,
+        0.0
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model03",
+      "view": "side",
+      "path": "evaluation/model03-matched/side.png",
+      "location": [
+        10.0,
+        0.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -3.0853883004056115e-08,
+        1.570796251296997
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model03",
+      "view": "three-quarter",
+      "path": "evaluation/model03-matched/three-quarter.png",
+      "location": [
+        -6.5,
+        -9.0,
+        3.4125001430511475
+      ],
+      "rotation": [
+        1.4542291164398193,
+        -6.801009533319302e-09,
+        -0.6254850625991821
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model03",
+      "view": "back",
+      "path": "evaluation/model03-matched/back.png",
+      "location": [
+        0.0,
+        10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989204406738281,
+        8.719705135717959e-08,
+        3.1415927410125732
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model04",
+      "view": "front",
+      "path": "evaluation/front.png",
+      "location": [
+        0.0,
+        -10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -0.0,
+        0.0
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model04",
+      "view": "side",
+      "path": "evaluation/side.png",
+      "location": [
+        10.0,
+        0.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -3.0853883004056115e-08,
+        1.570796251296997
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model04",
+      "view": "three-quarter",
+      "path": "evaluation/three-quarter.png",
+      "location": [
+        -6.5,
+        -9.0,
+        3.4125001430511475
+      ],
+      "rotation": [
+        1.4542291164398193,
+        -6.801009533319302e-09,
+        -0.6254850625991821
+      ],
+      "orthoScale": 4.9444499015808105
+    },
+    {
+      "model": "model04",
+      "view": "back",
+      "path": "evaluation/back.png",
+      "location": [
+        0.0,
+        10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989204406738281,
+        8.719705135717959e-08,
+        3.1415927410125732
+      ],
+      "orthoScale": 4.9444499015808105
+    }
+  ]
+}

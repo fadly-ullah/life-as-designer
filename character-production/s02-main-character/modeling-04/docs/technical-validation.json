@@ -1,0 +1,1104 @@
+{
+  "status": "UNAPPROVED",
+  "baseCommit": "50e9b4ad13eb88d729d74732666c72d4a4ba6d88",
+  "blender": "4.3.2",
+  "reopenedSuccessfully": true,
+  "materialNodeInputsAndLinksUnchanged": true,
+  "retainedObjectMaterialSlotsUnchanged": true,
+  "lightingWorldColorManagementUnchanged": true,
+  "allFourMatchedCameras": {
+    "front": true,
+    "side": true,
+    "three-quarter": true,
+    "back": true
+  },
+  "metrics": {
+    "model03": {
+      "height": 4.155000057071447,
+      "headHeight": 1.1545002460479736,
+      "headHeightRatio": 3.598959871420237,
+      "hairWidth": 1.4102399349212646,
+      "skullWidth": 1.033500075340271,
+      "garmentWidthAcrossSleeves": 1.5959999561309814,
+      "torsoWidth": 0.949999988079071,
+      "ankleToHem": 1.1910362434387207,
+      "headToGarmentWidth": 0.8836090060678725
+    },
+    "model04": {
+      "height": 4.064999904483557,
+      "headHeight": 1.1545000076293945,
+      "headHeightRatio": 3.5210046579648533,
+      "hairWidth": 1.6169999837875366,
+      "skullWidth": 1.157520055770874,
+      "garmentWidthAcrossSleeves": 1.7396399974822998,
+      "torsoWidth": 1.0735000371932983,
+      "ankleToHem": 1.1010362100601196,
+      "headToGarmentWidth": 0.9295026477476637
+    }
+  },
+  "headRangePass": true,
+  "facialFeatures": {
+    "Blush.L": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Blush.R": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Brow.L": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 7.450580596923828e-09,
+      "vertexCountPreserved": true
+    },
+    "Brow.R": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Eye glint.L": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Eye glint.R": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 9.934107481068821e-09,
+      "vertexCountPreserved": true
+    },
+    "Eye white.L": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 2.7755575615628914e-17,
+      "vertexCountPreserved": true
+    },
+    "Eye white.R": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 2.7755575615628914e-17,
+      "vertexCountPreserved": true
+    },
+    "Neutral mouth | original minimal line": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Nose | small faceted bridge": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Pupil.L": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Pupil.R": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 0.0,
+      "vertexCountPreserved": true
+    },
+    "Upper eyelid.L": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 2.7755575615628914e-17,
+      "vertexCountPreserved": true
+    },
+    "Upper eyelid.R": {
+      "shapePreserved": true,
+      "maxCenteredVertexError": 2.7755575615628914e-17,
+      "vertexCountPreserved": true
+    }
+  },
+  "allFacialFeatureShapesPreserved": true,
+  "shoeSoleContact": {
+    "L": {
+      "soleTop": 0.11473582684993744,
+      "upperBottom": 0.11227700114250183,
+      "noOpenVerticalGap": true
+    },
+    "R": {
+      "soleTop": 0.11473582684993744,
+      "upperBottom": 0.11227700114250183,
+      "noOpenVerticalGap": true
+    }
+  },
+  "armatures": 0,
+  "actions": 0,
+  "nonManifoldEdgesTotal": 0,
+  "degenerateFacesTotal": 0,
+  "meshAudit": [
+    {
+      "object": "Trousers.L",
+      "vertices": 40,
+      "faces": 34,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Charcoal trousers | reference 2B2B2B"
+      ]
+    },
+    {
+      "object": "Hem fold.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Trouser fold facets"
+      ]
+    },
+    {
+      "object": "Outsole.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive outsole"
+      ]
+    },
+    {
+      "object": "Shoe upper.L",
+      "vertices": 24,
+      "faces": 18,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive shoe upper"
+      ]
+    },
+    {
+      "object": "Toe panel.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive toe panel"
+      ]
+    },
+    {
+      "object": "Ankle collar.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive shoe upper"
+      ]
+    },
+    {
+      "object": "Tongue.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive toe panel"
+      ]
+    },
+    {
+      "object": "Trousers.R",
+      "vertices": 40,
+      "faces": 34,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Charcoal trousers | reference 2B2B2B"
+      ]
+    },
+    {
+      "object": "Hem fold.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Trouser fold facets"
+      ]
+    },
+    {
+      "object": "Outsole.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive outsole"
+      ]
+    },
+    {
+      "object": "Shoe upper.R",
+      "vertices": 24,
+      "faces": 18,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive shoe upper"
+      ]
+    },
+    {
+      "object": "Toe panel.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive toe panel"
+      ]
+    },
+    {
+      "object": "Ankle collar.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive shoe upper"
+      ]
+    },
+    {
+      "object": "Tongue.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Olive toe panel"
+      ]
+    },
+    {
+      "object": "Neck",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Palm.L",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Thumb.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Finger crease.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Ear and thumb shade"
+      ]
+    },
+    {
+      "object": "Palm.R",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Thumb.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Finger crease.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Ear and thumb shade"
+      ]
+    },
+    {
+      "object": "Ear.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Ear inner.L",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Ear and thumb shade"
+      ]
+    },
+    {
+      "object": "Ear.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Ear inner.R",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Ear and thumb shade"
+      ]
+    },
+    {
+      "object": "Head | refined cheek-jaw planes",
+      "vertices": 84,
+      "faces": 74,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Eye white.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Warm eye whites"
+      ]
+    },
+    {
+      "object": "Pupil.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Espresso eye"
+      ]
+    },
+    {
+      "object": "Eye glint.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Warm eye whites"
+      ]
+    },
+    {
+      "object": "Upper eyelid.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Brow.L",
+      "vertices": 8,
+      "faces": 6,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Blush.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cheek | muted D69A77"
+      ]
+    },
+    {
+      "object": "Eye white.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Warm eye whites"
+      ]
+    },
+    {
+      "object": "Pupil.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Espresso eye"
+      ]
+    },
+    {
+      "object": "Eye glint.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Warm eye whites"
+      ]
+    },
+    {
+      "object": "Upper eyelid.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Brow.R",
+      "vertices": 8,
+      "faces": 6,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Blush.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cheek | muted D69A77"
+      ]
+    },
+    {
+      "object": "Neutral mouth | original minimal line",
+      "vertices": 8,
+      "faces": 6,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Mouth line"
+      ]
+    },
+    {
+      "object": "Nose | small faceted bridge",
+      "vertices": 6,
+      "faces": 5,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Skin | reference F2C8A0"
+      ]
+    },
+    {
+      "object": "Hair | fitted dark foundation",
+      "vertices": 60,
+      "faces": 50,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair shadow facets"
+      ]
+    },
+    {
+      "object": "Hair | parted right ridge",
+      "vertices": 32,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair lit facets"
+      ]
+    },
+    {
+      "object": "Hair | rear crown fan",
+      "vertices": 40,
+      "faces": 34,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | L sideburn",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | L low-side",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair lit facets"
+      ]
+    },
+    {
+      "object": "Hair | L rear-low",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair lit facets"
+      ]
+    },
+    {
+      "object": "Hair | R sideburn",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | R low-side",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair lit facets"
+      ]
+    },
+    {
+      "object": "Hair | R rear-low",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair lit facets"
+      ]
+    },
+    {
+      "object": "Hoodie torso | shoulder-chest-waist contour",
+      "vertices": 84,
+      "faces": 74,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Hoodie hem | rib band",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Hem seam | front",
+      "vertices": 18,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Hood | draped back shell",
+      "vertices": 48,
+      "faces": 38,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Hood back seam",
+      "vertices": 24,
+      "faces": 20,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Hood | front folded lip.L",
+      "vertices": 10,
+      "faces": 7,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cord eyelet.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hood lining"
+      ]
+    },
+    {
+      "object": "Cord cotton.L",
+      "vertices": 24,
+      "faces": 20,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cord cotton"
+      ]
+    },
+    {
+      "object": "Lime cord end.L",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Lime cord ends | reference B4CE43"
+      ]
+    },
+    {
+      "object": "Sleeve | continuous shaped elbow.L",
+      "vertices": 72,
+      "faces": 62,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff | shaped rib knit.L",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Cuff rib.L.0",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.L.1",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.L.2",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.L.3",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.L.4",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.L.5",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Shoulder seam.L",
+      "vertices": 18,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Trouser outer seam.L",
+      "vertices": 24,
+      "faces": 20,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Trouser seam"
+      ]
+    },
+    {
+      "object": "Hood | front folded lip.R",
+      "vertices": 10,
+      "faces": 7,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cord eyelet.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hood lining"
+      ]
+    },
+    {
+      "object": "Cord cotton.R",
+      "vertices": 24,
+      "faces": 20,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cord cotton"
+      ]
+    },
+    {
+      "object": "Lime cord end.R",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Lime cord ends | reference B4CE43"
+      ]
+    },
+    {
+      "object": "Sleeve | continuous shaped elbow.R",
+      "vertices": 72,
+      "faces": 62,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff | shaped rib knit.R",
+      "vertices": 36,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Cuff rib.R.0",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.R.1",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.R.2",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.R.3",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.R.4",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Cuff rib.R.5",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Shoulder seam.R",
+      "vertices": 18,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Trouser outer seam.R",
+      "vertices": 24,
+      "faces": 20,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Trouser seam"
+      ]
+    },
+    {
+      "object": "Hair | M03 crown step",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M03 rear lower",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M03 rear middle",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M03 rear upper",
+      "vertices": 16,
+      "faces": 10,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Kangaroo pouch | M03 rectangular",
+      "vertices": 12,
+      "faces": 8,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    },
+    {
+      "object": "Pouch opening stitch.M03.L",
+      "vertices": 18,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Pouch opening stitch.M03.R",
+      "vertices": 18,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream seams and ribbing"
+      ]
+    },
+    {
+      "object": "Hair | M04 stepped fringe",
+      "vertices": 28,
+      "faces": 16,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M04 connected upper layer",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Hair lit facets"
+      ]
+    },
+    {
+      "object": "Hair | M04 L upper side step",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M04 L lower side step",
+      "vertices": 20,
+      "faces": 12,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M04 R upper side step",
+      "vertices": 24,
+      "faces": 14,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hair | M04 R lower side step",
+      "vertices": 20,
+      "faces": 12,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Black hair | reference 1A140F"
+      ]
+    },
+    {
+      "object": "Hood | M04 open U rim",
+      "vertices": 28,
+      "faces": 26,
+      "nonManifoldEdges": 0,
+      "degenerateFaces": 0,
+      "materialSlots": [
+        "Cream hoodie | reference F5EBDD"
+      ]
+    }
+  ],
+  "meshScope": "Closed individual components only; separate overlapping garment and hair components remain. Not a deformation/rig-ready certification; no inter-object intersection or exhaustive self-intersection certification.",
+  "baseBlendSHA256": "f63668c75ca695be0430c7467042ef750a3be342411dc330bed57e26b5658110",
+  "model04BlendSHA256": "dd9959c2cf3d27a4f71f4c07862a5e734a5bfb16c99e2ad5603df3be90ce52cf",
+  "render": {
+    "resolution": [
+      640,
+      800
+    ],
+    "samples": 48,
+    "denoise": false,
+    "threads": 2,
+    "engine": "Cycles CPU"
+  }
+}
