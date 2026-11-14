@@ -1,0 +1,2232 @@
+{
+  "sourcePrepCommit": "6ebeb1604d8800c22c6bd1833700b17006b1d6e1",
+  "skeleton": [
+    {
+      "name": "root",
+      "parent": null,
+      "head": [
+        0.0,
+        0.0,
+        0.03500000014901161
+      ],
+      "tail": [
+        0.0,
+        0.0,
+        0.33500000834465027
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.03500000014901161
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "pelvis",
+      "parent": "root",
+      "head": [
+        0.0,
+        0.019999999552965164,
+        1.6110361814498901
+      ],
+      "tail": [
+        0.0,
+        0.029999999329447746,
+        2.0799999237060547
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.021318763494491577,
+          -0.9997727274894714,
+          0.019999999552965164
+        ],
+        [
+          0.0,
+          0.9997727870941162,
+          0.021318763494491577,
+          1.6110361814498901
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "spine",
+      "parent": "pelvis",
+      "head": [
+        0.0,
+        0.029999999329447746,
+        2.0799999237060547
+      ],
+      "tail": [
+        0.0,
+        0.03999999910593033,
+        2.597581386566162
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.01931702345609665,
+          -0.9998133778572083,
+          0.029999999329447746
+        ],
+        [
+          0.0,
+          0.9998134970664978,
+          0.01931702345609665,
+          2.0799999237060547
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "chest",
+      "parent": "spine",
+      "head": [
+        0.0,
+        0.03999999910593033,
+        2.597581386566162
+      ],
+      "tail": [
+        0.0,
+        0.019999999552965164,
+        2.8499999046325684
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -0.07898594439029694,
+          -0.9968757033348083,
+          0.03999999538064003
+        ],
+        [
+          0.0,
+          0.9968757033348083,
+          -0.07898594439029694,
+          2.597581386566162
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "neck",
+      "parent": "chest",
+      "head": [
+        0.0,
+        0.019999999552965164,
+        2.8499999046325684
+      ],
+      "tail": [
+        0.0,
+        0.019999999552965164,
+        2.945499897003174
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -0.9999999403953552,
+          0.019999995827674866
+        ],
+        [
+          0.0,
+          0.9999999403953552,
+          0.0,
+          2.8499999046325684
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "head",
+      "parent": "neck",
+      "head": [
+        0.0,
+        0.019999999552965164,
+        2.945499897003174
+      ],
+      "tail": [
+        0.0,
+        0.019999999552965164,
+        3.880000114440918
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -0.9999999403953552,
+          0.019999995827674866
+        ],
+        [
+          0.0,
+          0.9999998807907104,
+          0.0,
+          2.945499897003174
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "clavicle.L",
+      "parent": "chest",
+      "head": [
+        0.0,
+        0.03999999910593033,
+        2.597581386566162
+      ],
+      "tail": [
+        -0.5125725269317627,
+        0.04200000315904617,
+        2.6652979850769043
+      ],
+      "matrixLocal": [
+        [
+          0.020956002175807953,
+          -0.9913783073425293,
+          0.12934280931949615,
+          0.0
+        ],
+        [
+          0.9913783669471741,
+          0.003868245519697666,
+          -0.13097220659255981,
+          0.03999999910593033
+        ],
+        [
+          0.1293426901102066,
+          0.13097228109836578,
+          0.9829121232032776,
+          2.597581386566162
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "upperArm.L",
+      "parent": "clavicle.L",
+      "head": [
+        -0.5125725269317627,
+        0.04200000315904617,
+        2.6652979850769043
+      ],
+      "tail": [
+        -0.6326904892921448,
+        0.04515000432729721,
+        2.2236742973327637
+      ],
+      "matrixLocal": [
+        [
+          0.9315904378890991,
+          -0.26245033740997314,
+          -0.25151264667510986,
+          -0.5125724673271179
+        ],
+        [
+          0.26245036721229553,
+          0.006882563233375549,
+          0.9649207592010498,
+          0.041999999433755875
+        ],
+        [
+          -0.251512736082077,
+          -0.9649205803871155,
+          0.07529199123382568,
+          2.6652979850769043
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "forearm.L",
+      "parent": "upperArm.L",
+      "head": [
+        -0.6326904892921448,
+        0.04515000432729721,
+        2.2236742973327637
+      ],
+      "tail": [
+        -0.6730750203132629,
+        -0.026250004768371582,
+        1.6719497442245483
+      ],
+      "matrixLocal": [
+        [
+          0.9939883351325989,
+          -0.0724010318517685,
+          -0.08212648332118988,
+          -0.6326904296875
+        ],
+        [
+          0.07240119576454163,
+          -0.12800529599189758,
+          0.9891270995140076,
+          0.04515000432729721
+        ],
+        [
+          -0.08212646842002869,
+          -0.9891269207000732,
+          -0.12199380248785019,
+          2.2236742973327637
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "hand.L",
+      "parent": "forearm.L",
+      "head": [
+        -0.6730750203132629,
+        -0.026250004768371582,
+        1.6719497442245483
+      ],
+      "tail": [
+        -0.6730750203132629,
+        -0.046250004321336746,
+        1.4219497442245483
+      ],
+      "matrixLocal": [
+        [
+          0.9999996423721313,
+          -6.984919309616089e-09,
+          -7.450580596923828e-09,
+          -0.6730749607086182
+        ],
+        [
+          1.1920928955078125e-07,
+          -0.07974521815776825,
+          0.9968151450157166,
+          -0.026249997317790985
+        ],
+        [
+          -5.587935447692871e-09,
+          -0.9968151450157166,
+          -0.07974512875080109,
+          1.6719497442245483
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "clavicle.R",
+      "parent": "chest",
+      "head": [
+        0.0,
+        0.03999999910593033,
+        2.597581386566162
+      ],
+      "tail": [
+        0.5125725269317627,
+        0.04200000315904617,
+        2.6652979850769043
+      ],
+      "matrixLocal": [
+        [
+          0.020956002175807953,
+          0.9913783073425293,
+          -0.12934280931949615,
+          0.0
+        ],
+        [
+          -0.9913783669471741,
+          0.003868245519697666,
+          -0.13097220659255981,
+          0.03999999910593033
+        ],
+        [
+          -0.1293426901102066,
+          0.13097228109836578,
+          0.9829121232032776,
+          2.597581386566162
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "upperArm.R",
+      "parent": "clavicle.R",
+      "head": [
+        0.5125725269317627,
+        0.04200000315904617,
+        2.6652979850769043
+      ],
+      "tail": [
+        0.6326904892921448,
+        0.04515000432729721,
+        2.2236742973327637
+      ],
+      "matrixLocal": [
+        [
+          0.9315904378890991,
+          0.26245033740997314,
+          0.25151264667510986,
+          0.5125724673271179
+        ],
+        [
+          -0.26245036721229553,
+          0.006882563233375549,
+          0.9649207592010498,
+          0.041999999433755875
+        ],
+        [
+          0.251512736082077,
+          -0.9649205803871155,
+          0.07529199123382568,
+          2.6652979850769043
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "forearm.R",
+      "parent": "upperArm.R",
+      "head": [
+        0.6326904892921448,
+        0.04515000432729721,
+        2.2236742973327637
+      ],
+      "tail": [
+        0.6730750203132629,
+        -0.026250004768371582,
+        1.6719497442245483
+      ],
+      "matrixLocal": [
+        [
+          0.9939883351325989,
+          0.0724010318517685,
+          0.08212648332118988,
+          0.6326904296875
+        ],
+        [
+          -0.07240119576454163,
+          -0.12800529599189758,
+          0.9891270995140076,
+          0.04515000432729721
+        ],
+        [
+          0.08212646842002869,
+          -0.9891269207000732,
+          -0.12199380248785019,
+          2.2236742973327637
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "hand.R",
+      "parent": "forearm.R",
+      "head": [
+        0.6730750203132629,
+        -0.026250004768371582,
+        1.6719497442245483
+      ],
+      "tail": [
+        0.6730750203132629,
+        -0.046250004321336746,
+        1.4219497442245483
+      ],
+      "matrixLocal": [
+        [
+          0.9999996423721313,
+          6.984919309616089e-09,
+          7.450580596923828e-09,
+          0.6730749607086182
+        ],
+        [
+          -1.1920928955078125e-07,
+          -0.07974521815776825,
+          0.9968151450157166,
+          -0.026249997317790985
+        ],
+        [
+          5.587935447692871e-09,
+          -0.9968151450157166,
+          -0.07974512875080109,
+          1.6719497442245483
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "thigh.L",
+      "parent": "pelvis",
+      "head": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        1.5863151550292969
+      ],
+      "tail": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        1.0464439392089844
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.25435200333595276
+        ],
+        [
+          0.0,
+          1.862645149230957e-09,
+          1.0000001192092896,
+          0.029999999329447746
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          1.5863152742385864
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "shin.L",
+      "parent": "thigh.L",
+      "head": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        1.0464439392089844
+      ],
+      "tail": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        0.5065726637840271
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.25435200333595276
+        ],
+        [
+          0.0,
+          0.0,
+          1.0000001192092896,
+          0.030000001192092896
+        ],
+        [
+          0.0,
+          -1.0,
+          -1.8626449271863521e-09,
+          1.0464441776275635
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "foot.L",
+      "parent": "shin.L",
+      "head": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        0.5065726637840271
+      ],
+      "tail": [
+        -0.2543500065803528,
+        -0.42169997096061707,
+        0.1622769981622696
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          3.515696789690992e-06,
+          1.0411968105472624e-05,
+          -0.25435200333595276
+        ],
+        [
+          -3.5156972444383428e-06,
+          -0.7953101992607117,
+          0.6062029004096985,
+          0.030000001192092896
+        ],
+        [
+          1.0411968105472624e-05,
+          -0.6062029600143433,
+          -0.7953100800514221,
+          0.5065729022026062
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "thigh.R",
+      "parent": "pelvis",
+      "head": [
+        0.25435200333595276,
+        0.029999999329447746,
+        1.5863151550292969
+      ],
+      "tail": [
+        0.25435200333595276,
+        0.029999999329447746,
+        1.0464439392089844
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.25435200333595276
+        ],
+        [
+          0.0,
+          1.862645149230957e-09,
+          1.0000001192092896,
+          0.029999999329447746
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          1.5863152742385864
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "shin.R",
+      "parent": "thigh.R",
+      "head": [
+        0.25435200333595276,
+        0.029999999329447746,
+        1.0464439392089844
+      ],
+      "tail": [
+        0.25435200333595276,
+        0.029999999329447746,
+        0.5065726637840271
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.25435200333595276
+        ],
+        [
+          0.0,
+          0.0,
+          1.0000001192092896,
+          0.030000001192092896
+        ],
+        [
+          0.0,
+          -1.0,
+          -1.8626449271863521e-09,
+          1.0464441776275635
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "foot.R",
+      "parent": "shin.R",
+      "head": [
+        0.25435200333595276,
+        0.029999999329447746,
+        0.5065726637840271
+      ],
+      "tail": [
+        0.2543500065803528,
+        -0.42169997096061707,
+        0.1622769981622696
+      ],
+      "matrixLocal": [
+        [
+          1.0,
+          -3.515696789690992e-06,
+          -1.0411968105472624e-05,
+          0.25435200333595276
+        ],
+        [
+          3.5156972444383428e-06,
+          -0.7953101992607117,
+          0.6062029004096985,
+          0.030000001192092896
+        ],
+        [
+          -1.0411968105472624e-05,
+          -0.6062029600143433,
+          -0.7953100800514221,
+          0.5065729022026062
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "weights": [
+    {
+      "mesh": "Trousers.L",
+      "policy": "manual_trouser",
+      "bones": [
+        "pelvis",
+        "shin.L",
+        "thigh.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hem fold.L",
+      "policy": "rigid_hem",
+      "bones": [
+        "shin.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Outsole.L",
+      "policy": "rigid",
+      "bones": [
+        "foot.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Shoe upper.L",
+      "policy": "rigid",
+      "bones": [
+        "foot.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Toe panel.L",
+      "policy": "rigid",
+      "bones": [
+        "foot.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Ankle collar.L",
+      "policy": "rigid",
+      "bones": [
+        "foot.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Tongue.L",
+      "policy": "rigid",
+      "bones": [
+        "foot.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Trousers.R",
+      "policy": "manual_trouser",
+      "bones": [
+        "pelvis",
+        "shin.R",
+        "thigh.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hem fold.R",
+      "policy": "rigid_hem",
+      "bones": [
+        "shin.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Outsole.R",
+      "policy": "rigid",
+      "bones": [
+        "foot.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Shoe upper.R",
+      "policy": "rigid",
+      "bones": [
+        "foot.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Toe panel.R",
+      "policy": "rigid",
+      "bones": [
+        "foot.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Ankle collar.R",
+      "policy": "rigid",
+      "bones": [
+        "foot.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Tongue.R",
+      "policy": "rigid",
+      "bones": [
+        "foot.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Neck",
+      "policy": "manual_neck",
+      "bones": [
+        "head",
+        "neck"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Palm.L",
+      "policy": "rigid",
+      "bones": [
+        "hand.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Thumb.L",
+      "policy": "rigid",
+      "bones": [
+        "hand.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Finger crease.L",
+      "policy": "rigid",
+      "bones": [
+        "hand.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Palm.R",
+      "policy": "rigid",
+      "bones": [
+        "hand.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Thumb.R",
+      "policy": "rigid",
+      "bones": [
+        "hand.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Finger crease.R",
+      "policy": "rigid",
+      "bones": [
+        "hand.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Ear.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Ear inner.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Ear.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Ear inner.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Head | refined cheek-jaw planes",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Eye white.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Pupil.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Eye glint.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Upper eyelid.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Brow.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Blush.L",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Eye white.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Pupil.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Eye glint.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Upper eyelid.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Brow.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Blush.R",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Nose | small faceted bridge",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | fitted dark foundation",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | parted right ridge",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | rear crown fan",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | L sideburn",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | L low-side",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | L rear-low",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | R sideburn",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | R low-side",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | R rear-low",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hoodie torso | shoulder-chest-waist contour",
+      "policy": "manual_torso",
+      "bones": [
+        "chest",
+        "pelvis",
+        "spine"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hoodie hem | rib band",
+      "policy": "manual_torso",
+      "bones": [
+        "pelvis"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hem seam | front",
+      "policy": "manual_torso",
+      "bones": [
+        "pelvis"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hood | draped back shell",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hood back seam",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hood | front folded lip.L",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cord eyelet.L",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cord cotton.L",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Lime cord end.L",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Sleeve | continuous shaped elbow.L",
+      "policy": "manual_sleeve",
+      "bones": [
+        "clavicle.L",
+        "forearm.L",
+        "upperArm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff | shaped rib knit.L",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.L.0",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.L.1",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.L.2",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.L.3",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.L.4",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.L.5",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Shoulder seam.L",
+      "policy": "manual_sleeve",
+      "bones": [
+        "clavicle.L",
+        "upperArm.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Trouser outer seam.L",
+      "policy": "manual_trouser",
+      "bones": [
+        "pelvis",
+        "shin.L",
+        "thigh.L"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hood | front folded lip.R",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cord eyelet.R",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cord cotton.R",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Lime cord end.R",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Sleeve | continuous shaped elbow.R",
+      "policy": "manual_sleeve",
+      "bones": [
+        "clavicle.R",
+        "forearm.R",
+        "upperArm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff | shaped rib knit.R",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.R.0",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.R.1",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.R.2",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.R.3",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.R.4",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Cuff rib.R.5",
+      "policy": "rigid_cuff",
+      "bones": [
+        "forearm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Shoulder seam.R",
+      "policy": "manual_sleeve",
+      "bones": [
+        "clavicle.R",
+        "upperArm.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Trouser outer seam.R",
+      "policy": "manual_trouser",
+      "bones": [
+        "pelvis",
+        "shin.R",
+        "thigh.R"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M03 crown step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M03 rear lower",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M03 rear middle",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M03 rear upper",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Kangaroo pouch | M03 rectangular",
+      "policy": "manual_torso",
+      "bones": [
+        "chest",
+        "pelvis",
+        "spine"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Pouch opening stitch.M03.L",
+      "policy": "manual_torso",
+      "bones": [
+        "chest",
+        "pelvis",
+        "spine"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Pouch opening stitch.M03.R",
+      "policy": "manual_torso",
+      "bones": [
+        "chest",
+        "pelvis",
+        "spine"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M04 stepped fringe",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M04 connected upper layer",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M04 L upper side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M04 L lower side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M04 R upper side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | M04 R lower side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hood | M04 open U rim",
+      "policy": "rigid_chest_accessory",
+      "bones": [
+        "chest"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish L upper stagger",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish L temple step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish L center side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish L rear side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish R upper stagger",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish R temple step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish R center side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish R rear side step",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish rear lower sweep",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish rear left middle",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish rear central middle",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish rear right middle",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish rear upper left",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    },
+    {
+      "mesh": "Hair | Polish rear upper right",
+      "policy": "rigid",
+      "bones": [
+        "head"
+      ],
+      "automaticWeights": false
+    }
+  ],
+  "facial": [
+    {
+      "mesh": "Eye white.L",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye white.L",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye white.L",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Raise",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Lower",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Tiltpos",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browTiltL"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Tiltneg",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browTiltL"
+      }
+    },
+    {
+      "mesh": "Eye white.R",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye white.R",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye white.R",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Raise",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Lower",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Tiltpos",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browTiltR"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Tiltneg",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browTiltR"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Smile",
+      "driver": "s/max(1,s+o+t)",
+      "controlVariables": {
+        "s": "mouthSmile",
+        "o": "mouthOpenSmall",
+        "t": "mouthThought"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "OpenSmall",
+      "driver": "o/max(1,s+o+t)",
+      "controlVariables": {
+        "s": "mouthSmile",
+        "o": "mouthOpenSmall",
+        "t": "mouthThought"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Thought",
+      "driver": "t/max(1,s+o+t)",
+      "controlVariables": {
+        "s": "mouthSmile",
+        "o": "mouthOpenSmall",
+        "t": "mouthThought"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Offsetpos",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "mouthOffsetX"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Offsetneg",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "mouthOffsetX"
+      }
+    }
+  ],
+  "controlProperties": {
+    "blink": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "blinkL": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "blinkR": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "eyeDirectionX": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1
+    },
+    "eyeDirectionZ": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1
+    },
+    "eyeSquint": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "eyeWide": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "browRaise": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1
+    },
+    "browTiltL": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1
+    },
+    "browTiltR": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1
+    },
+    "mouthSmile": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "mouthOpenSmall": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "mouthThought": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1
+    },
+    "mouthOffsetX": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1
+    }
+  },
+  "topologyChanged": false,
+  "newMeshes": [],
+  "automaticWeightsUsed": false,
+  "exported": false
+}

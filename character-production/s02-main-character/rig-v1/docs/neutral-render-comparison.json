@@ -1,0 +1,14 @@
+{
+  "reference": "Approved polished Model04 neutral three-quarter",
+  "resolution": [
+    640,
+    800
+  ],
+  "samples": 48,
+  "maxChannelDifference": 14,
+  "changedPixels": 527,
+  "totalPixels": 512000,
+  "meanAbsoluteRGBDifference0to255": 0.0007688802083333333,
+  "pixelIdentical": false,
+  "interpretation": "Not pixel-identical. Raw approved mesh/Basis/materials unchanged; rest LBS world error <1e-5 and tiny sampling/edge differences quantified. No intentional neutral redesign."
+}

@@ -1,0 +1,555 @@
+{
+  "identityLocked": true,
+  "rigProductionApproved": false,
+  "sourceCommit": "aff455385918d8cb13d72123af824156bd771e6a",
+  "prepCommit": "6ebeb1604d8800c22c6bd1833700b17006b1d6e1",
+  "allOriginalRawMeshTopologyMaterialsMatricesUnchanged": true,
+  "perMeshRawUnchanged": {
+    "Trousers.L": true,
+    "Hem fold.L": true,
+    "Outsole.L": true,
+    "Shoe upper.L": true,
+    "Toe panel.L": true,
+    "Ankle collar.L": true,
+    "Tongue.L": true,
+    "Trousers.R": true,
+    "Hem fold.R": true,
+    "Outsole.R": true,
+    "Shoe upper.R": true,
+    "Toe panel.R": true,
+    "Ankle collar.R": true,
+    "Tongue.R": true,
+    "Neck": true,
+    "Palm.L": true,
+    "Thumb.L": true,
+    "Finger crease.L": true,
+    "Palm.R": true,
+    "Thumb.R": true,
+    "Finger crease.R": true,
+    "Ear.L": true,
+    "Ear inner.L": true,
+    "Ear.R": true,
+    "Ear inner.R": true,
+    "Head | refined cheek-jaw planes": true,
+    "Eye white.L": true,
+    "Pupil.L": true,
+    "Eye glint.L": true,
+    "Upper eyelid.L": true,
+    "Brow.L": true,
+    "Blush.L": true,
+    "Eye white.R": true,
+    "Pupil.R": true,
+    "Eye glint.R": true,
+    "Upper eyelid.R": true,
+    "Brow.R": true,
+    "Blush.R": true,
+    "Neutral mouth | original minimal line": true,
+    "Nose | small faceted bridge": true,
+    "Hair | fitted dark foundation": true,
+    "Hair | parted right ridge": true,
+    "Hair | rear crown fan": true,
+    "Hair | L sideburn": true,
+    "Hair | L low-side": true,
+    "Hair | L rear-low": true,
+    "Hair | R sideburn": true,
+    "Hair | R low-side": true,
+    "Hair | R rear-low": true,
+    "Hoodie torso | shoulder-chest-waist contour": true,
+    "Hoodie hem | rib band": true,
+    "Hem seam | front": true,
+    "Hood | draped back shell": true,
+    "Hood back seam": true,
+    "Hood | front folded lip.L": true,
+    "Cord eyelet.L": true,
+    "Cord cotton.L": true,
+    "Lime cord end.L": true,
+    "Sleeve | continuous shaped elbow.L": true,
+    "Cuff | shaped rib knit.L": true,
+    "Cuff rib.L.0": true,
+    "Cuff rib.L.1": true,
+    "Cuff rib.L.2": true,
+    "Cuff rib.L.3": true,
+    "Cuff rib.L.4": true,
+    "Cuff rib.L.5": true,
+    "Shoulder seam.L": true,
+    "Trouser outer seam.L": true,
+    "Hood | front folded lip.R": true,
+    "Cord eyelet.R": true,
+    "Cord cotton.R": true,
+    "Lime cord end.R": true,
+    "Sleeve | continuous shaped elbow.R": true,
+    "Cuff | shaped rib knit.R": true,
+    "Cuff rib.R.0": true,
+    "Cuff rib.R.1": true,
+    "Cuff rib.R.2": true,
+    "Cuff rib.R.3": true,
+    "Cuff rib.R.4": true,
+    "Cuff rib.R.5": true,
+    "Shoulder seam.R": true,
+    "Trouser outer seam.R": true,
+    "Hair | M03 crown step": true,
+    "Hair | M03 rear lower": true,
+    "Hair | M03 rear middle": true,
+    "Hair | M03 rear upper": true,
+    "Kangaroo pouch | M03 rectangular": true,
+    "Pouch opening stitch.M03.L": true,
+    "Pouch opening stitch.M03.R": true,
+    "Hair | M04 stepped fringe": true,
+    "Hair | M04 connected upper layer": true,
+    "Hair | M04 L upper side step": true,
+    "Hair | M04 L lower side step": true,
+    "Hair | M04 R upper side step": true,
+    "Hair | M04 R lower side step": true,
+    "Hood | M04 open U rim": true,
+    "Hair | Polish L upper stagger": true,
+    "Hair | Polish L temple step": true,
+    "Hair | Polish L center side step": true,
+    "Hair | Polish L rear side step": true,
+    "Hair | Polish R upper stagger": true,
+    "Hair | Polish R temple step": true,
+    "Hair | Polish R center side step": true,
+    "Hair | Polish R rear side step": true,
+    "Hair | Polish rear lower sweep": true,
+    "Hair | Polish rear left middle": true,
+    "Hair | Polish rear central middle": true,
+    "Hair | Polish rear right middle": true,
+    "Hair | Polish rear upper left": true,
+    "Hair | Polish rear upper right": true
+  },
+  "allMorphBasisExactlyLockedNeutral": true,
+  "morphBasisChecks": {
+    "Eye white.L": true,
+    "Pupil.L": true,
+    "Eye glint.L": true,
+    "Brow.L": true,
+    "Eye white.R": true,
+    "Pupil.R": true,
+    "Eye glint.R": true,
+    "Brow.R": true,
+    "Neutral mouth | original minimal line": true
+  },
+  "materialNodesLinksUnchanged": true,
+  "lightingWorldColorManagementUnchanged": true,
+  "faceControlTests": {
+    "blink:1.0": {
+      "activeMorphCount": 6,
+      "activeMorphs": [
+        [
+          "Eye white.L",
+          "Blink",
+          1.0
+        ],
+        [
+          "Pupil.L",
+          "Blink",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "Blink",
+          1.0
+        ],
+        [
+          "Eye white.R",
+          "Blink",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "Blink",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "Blink",
+          1.0
+        ]
+      ]
+    },
+    "blinkL:1.0": {
+      "activeMorphCount": 3,
+      "activeMorphs": [
+        [
+          "Eye white.L",
+          "Blink",
+          1.0
+        ],
+        [
+          "Pupil.L",
+          "Blink",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "Blink",
+          1.0
+        ]
+      ]
+    },
+    "blinkR:1.0": {
+      "activeMorphCount": 3,
+      "activeMorphs": [
+        [
+          "Eye white.R",
+          "Blink",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "Blink",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "Blink",
+          1.0
+        ]
+      ]
+    },
+    "eyeDirectionX:1.0": {
+      "activeMorphCount": 4,
+      "activeMorphs": [
+        [
+          "Pupil.L",
+          "GazeXpos",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "GazeXpos",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "GazeXpos",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "GazeXpos",
+          1.0
+        ]
+      ]
+    },
+    "eyeDirectionX:-1.0": {
+      "activeMorphCount": 4,
+      "activeMorphs": [
+        [
+          "Pupil.L",
+          "GazeXneg",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "GazeXneg",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "GazeXneg",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "GazeXneg",
+          1.0
+        ]
+      ]
+    },
+    "eyeDirectionZ:1.0": {
+      "activeMorphCount": 4,
+      "activeMorphs": [
+        [
+          "Pupil.L",
+          "GazeZpos",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "GazeZpos",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "GazeZpos",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "GazeZpos",
+          1.0
+        ]
+      ]
+    },
+    "eyeDirectionZ:-1.0": {
+      "activeMorphCount": 4,
+      "activeMorphs": [
+        [
+          "Pupil.L",
+          "GazeZneg",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "GazeZneg",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "GazeZneg",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "GazeZneg",
+          1.0
+        ]
+      ]
+    },
+    "eyeSquint:1.0": {
+      "activeMorphCount": 6,
+      "activeMorphs": [
+        [
+          "Eye white.L",
+          "Squint",
+          1.0
+        ],
+        [
+          "Pupil.L",
+          "Squint",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "Squint",
+          1.0
+        ],
+        [
+          "Eye white.R",
+          "Squint",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "Squint",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "Squint",
+          1.0
+        ]
+      ]
+    },
+    "eyeWide:1.0": {
+      "activeMorphCount": 6,
+      "activeMorphs": [
+        [
+          "Eye white.L",
+          "Wide",
+          1.0
+        ],
+        [
+          "Pupil.L",
+          "Wide",
+          1.0
+        ],
+        [
+          "Eye glint.L",
+          "Wide",
+          1.0
+        ],
+        [
+          "Eye white.R",
+          "Wide",
+          1.0
+        ],
+        [
+          "Pupil.R",
+          "Wide",
+          1.0
+        ],
+        [
+          "Eye glint.R",
+          "Wide",
+          1.0
+        ]
+      ]
+    },
+    "browRaise:1.0": {
+      "activeMorphCount": 2,
+      "activeMorphs": [
+        [
+          "Brow.L",
+          "Raise",
+          1.0
+        ],
+        [
+          "Brow.R",
+          "Raise",
+          1.0
+        ]
+      ]
+    },
+    "browRaise:-1.0": {
+      "activeMorphCount": 2,
+      "activeMorphs": [
+        [
+          "Brow.L",
+          "Lower",
+          1.0
+        ],
+        [
+          "Brow.R",
+          "Lower",
+          1.0
+        ]
+      ]
+    },
+    "browTiltL:1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Brow.L",
+          "Tiltpos",
+          1.0
+        ]
+      ]
+    },
+    "browTiltL:-1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Brow.L",
+          "Tiltneg",
+          1.0
+        ]
+      ]
+    },
+    "browTiltR:1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Brow.R",
+          "Tiltpos",
+          1.0
+        ]
+      ]
+    },
+    "browTiltR:-1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Brow.R",
+          "Tiltneg",
+          1.0
+        ]
+      ]
+    },
+    "mouthSmile:1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Neutral mouth | original minimal line",
+          "Smile",
+          1.0
+        ]
+      ]
+    },
+    "mouthOpenSmall:1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Neutral mouth | original minimal line",
+          "OpenSmall",
+          1.0
+        ]
+      ]
+    },
+    "mouthThought:1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Neutral mouth | original minimal line",
+          "Thought",
+          1.0
+        ]
+      ]
+    },
+    "mouthOffsetX:1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Neutral mouth | original minimal line",
+          "Offsetpos",
+          1.0
+        ]
+      ]
+    },
+    "mouthOffsetX:-1.0": {
+      "activeMorphCount": 1,
+      "activeMorphs": [
+        [
+          "Neutral mouth | original minimal line",
+          "Offsetneg",
+          1.0
+        ]
+      ]
+    }
+  },
+  "gazeBoundsTests": {
+    "eyeDirectionX:-1.0": {
+      "L": true,
+      "R": true
+    },
+    "eyeDirectionX:1.0": {
+      "L": true,
+      "R": true
+    },
+    "eyeDirectionZ:-1.0": {
+      "L": true,
+      "R": true
+    },
+    "eyeDirectionZ:1.0": {
+      "L": true,
+      "R": true
+    }
+  },
+  "positionalControlTests": {
+    "root": {
+      "boneLocationNonzero": true,
+      "poseHeadDisplacement": 0.02012461213081389
+    },
+    "foot.L": {
+      "boneLocationNonzero": true,
+      "poseHeadDisplacement": 0.020124676937692848
+    },
+    "foot.R": {
+      "boneLocationNonzero": true,
+      "poseHeadDisplacement": 0.020124688145555906
+    },
+    "hand.L": {
+      "boneLocationNonzero": true,
+      "poseHeadDisplacement": 0.020124655064264706
+    },
+    "hand.R": {
+      "boneLocationNonzero": true,
+      "poseHeadDisplacement": 0.020124566124130203
+    }
+  },
+  "boneCount": 20,
+  "armatures": 1,
+  "animationActions": 0,
+  "constraintCount": 0,
+  "driverCount": 47,
+  "allDriversValid": true,
+  "sourceSHA256": "207c65282e563de9bb5d13cd1d92b6d603f5664e52b6d6726a274010c31c26ef",
+  "rigSHA256": "804f5cfc93508f9aaca8026eff8b1a12a354fd6b3f38a1557a4c7a571ab28878",
+  "topologyChanges": [],
+  "technicalDeviations": [
+    "Armature modifiers and explicitly assigned vertex groups added in isolated copy.",
+    "Existing face meshes gain Basis and relative expression keys; no vertex/face change.",
+    "Neutral evaluated differences up to numerical LBS precision; RGB evidence reported separately."
+  ],
+  "exported": false
+}

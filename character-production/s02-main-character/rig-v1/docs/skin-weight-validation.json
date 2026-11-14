@@ -1,0 +1,669 @@
+{
+  "manualWeightsOnly": true,
+  "armature": "S02_RIG_V1",
+  "objects": [
+    {
+      "mesh": "Trousers.L",
+      "vertices": 40,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hem fold.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Outsole.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Shoe upper.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Toe panel.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Ankle collar.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Tongue.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Trousers.R",
+      "vertices": 40,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hem fold.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Outsole.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Shoe upper.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Toe panel.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Ankle collar.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Tongue.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Neck",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Palm.L",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Thumb.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Finger crease.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Palm.R",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Thumb.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Finger crease.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Ear.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Ear inner.L",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Ear.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Ear inner.R",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Head | refined cheek-jaw planes",
+      "vertices": 84,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Eye white.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Pupil.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Eye glint.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Upper eyelid.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Brow.L",
+      "vertices": 8,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Blush.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Eye white.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Pupil.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Eye glint.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Upper eyelid.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Brow.R",
+      "vertices": 8,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Blush.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "vertices": 8,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Nose | small faceted bridge",
+      "vertices": 6,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | fitted dark foundation",
+      "vertices": 60,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | parted right ridge",
+      "vertices": 32,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | rear crown fan",
+      "vertices": 40,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | L sideburn",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | L low-side",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | L rear-low",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | R sideburn",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | R low-side",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | R rear-low",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hoodie torso | shoulder-chest-waist contour",
+      "vertices": 84,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hoodie hem | rib band",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hem seam | front",
+      "vertices": 18,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hood | draped back shell",
+      "vertices": 48,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hood back seam",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hood | front folded lip.L",
+      "vertices": 10,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cord eyelet.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cord cotton.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Lime cord end.L",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Sleeve | continuous shaped elbow.L",
+      "vertices": 72,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff | shaped rib knit.L",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.L.0",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.L.1",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.L.2",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.L.3",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.L.4",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.L.5",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Shoulder seam.L",
+      "vertices": 18,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Trouser outer seam.L",
+      "vertices": 24,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hood | front folded lip.R",
+      "vertices": 10,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cord eyelet.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cord cotton.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Lime cord end.R",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Sleeve | continuous shaped elbow.R",
+      "vertices": 72,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff | shaped rib knit.R",
+      "vertices": 36,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.R.0",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.R.1",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.R.2",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.R.3",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.R.4",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Cuff rib.R.5",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Shoulder seam.R",
+      "vertices": 18,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Trouser outer seam.R",
+      "vertices": 24,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M03 crown step",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M03 rear lower",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M03 rear middle",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M03 rear upper",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Kangaroo pouch | M03 rectangular",
+      "vertices": 12,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Pouch opening stitch.M03.L",
+      "vertices": 18,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Pouch opening stitch.M03.R",
+      "vertices": 18,
+      "maxInfluences": 2,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M04 stepped fringe",
+      "vertices": 28,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M04 connected upper layer",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M04 L upper side step",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M04 L lower side step",
+      "vertices": 20,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M04 R upper side step",
+      "vertices": 24,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | M04 R lower side step",
+      "vertices": 20,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hood | M04 open U rim",
+      "vertices": 28,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish L upper stagger",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish L temple step",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish L center side step",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish L rear side step",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish R upper stagger",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish R temple step",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish R center side step",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish R rear side step",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish rear lower sweep",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish rear left middle",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish rear central middle",
+      "vertices": 16,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish rear right middle",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish rear upper left",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    },
+    {
+      "mesh": "Hair | Polish rear upper right",
+      "vertices": 12,
+      "maxInfluences": 1,
+      "invalidVertices": []
+    }
+  ],
+  "invalidVertexCount": 0,
+  "limit": 4,
+  "deform": "Linear blend skinning, no dual-quaternion-only dependence"
+}

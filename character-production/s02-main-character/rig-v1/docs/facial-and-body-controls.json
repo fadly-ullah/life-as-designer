@@ -1,0 +1,700 @@
+{
+  "status": "IMPLEMENTED IN BLENDER RIG V1; ENDPOINTS UNDER REVIEW",
+  "armature": "S02_RIG_V1",
+  "identitySourceCommit": "aff455385918d8cb13d72123af824156bd771e6a",
+  "bodyControls": {
+    "root": {
+      "rotation": "pose.bones[\"root\"].rotation_quaternion",
+      "position": "pose.bones[\"root\"].location",
+      "parent": null,
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "pelvis": {
+      "rotation": "pose.bones[\"pelvis\"].rotation_quaternion",
+      "position": "pose.bones[\"pelvis\"].location",
+      "parent": "root",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "spine": {
+      "rotation": "pose.bones[\"spine\"].rotation_quaternion",
+      "position": "pose.bones[\"spine\"].location",
+      "parent": "pelvis",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "chest": {
+      "rotation": "pose.bones[\"chest\"].rotation_quaternion",
+      "position": "pose.bones[\"chest\"].location",
+      "parent": "spine",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "neck": {
+      "rotation": "pose.bones[\"neck\"].rotation_quaternion",
+      "position": "pose.bones[\"neck\"].location",
+      "parent": "chest",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "head": {
+      "rotation": "pose.bones[\"head\"].rotation_quaternion",
+      "position": "pose.bones[\"head\"].location",
+      "parent": "neck",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "clavicle.L": {
+      "rotation": "pose.bones[\"clavicle.L\"].rotation_quaternion",
+      "position": "pose.bones[\"clavicle.L\"].location",
+      "parent": "chest",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "upperArm.L": {
+      "rotation": "pose.bones[\"upperArm.L\"].rotation_quaternion",
+      "position": "pose.bones[\"upperArm.L\"].location",
+      "parent": "clavicle.L",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "forearm.L": {
+      "rotation": "pose.bones[\"forearm.L\"].rotation_quaternion",
+      "position": "pose.bones[\"forearm.L\"].location",
+      "parent": "upperArm.L",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "hand.L": {
+      "rotation": "pose.bones[\"hand.L\"].rotation_quaternion",
+      "position": "pose.bones[\"hand.L\"].location",
+      "parent": "forearm.L",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "clavicle.R": {
+      "rotation": "pose.bones[\"clavicle.R\"].rotation_quaternion",
+      "position": "pose.bones[\"clavicle.R\"].location",
+      "parent": "chest",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "upperArm.R": {
+      "rotation": "pose.bones[\"upperArm.R\"].rotation_quaternion",
+      "position": "pose.bones[\"upperArm.R\"].location",
+      "parent": "clavicle.R",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "forearm.R": {
+      "rotation": "pose.bones[\"forearm.R\"].rotation_quaternion",
+      "position": "pose.bones[\"forearm.R\"].location",
+      "parent": "upperArm.R",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "hand.R": {
+      "rotation": "pose.bones[\"hand.R\"].rotation_quaternion",
+      "position": "pose.bones[\"hand.R\"].location",
+      "parent": "forearm.R",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "thigh.L": {
+      "rotation": "pose.bones[\"thigh.L\"].rotation_quaternion",
+      "position": "pose.bones[\"thigh.L\"].location",
+      "parent": "pelvis",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "shin.L": {
+      "rotation": "pose.bones[\"shin.L\"].rotation_quaternion",
+      "position": "pose.bones[\"shin.L\"].location",
+      "parent": "thigh.L",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "foot.L": {
+      "rotation": "pose.bones[\"foot.L\"].rotation_quaternion",
+      "position": "pose.bones[\"foot.L\"].location",
+      "parent": "shin.L",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "thigh.R": {
+      "rotation": "pose.bones[\"thigh.R\"].rotation_quaternion",
+      "position": "pose.bones[\"thigh.R\"].location",
+      "parent": "pelvis",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "shin.R": {
+      "rotation": "pose.bones[\"shin.R\"].rotation_quaternion",
+      "position": "pose.bones[\"shin.R\"].location",
+      "parent": "thigh.R",
+      "implementation": "FK bone; no IK or contact solve"
+    },
+    "foot.R": {
+      "rotation": "pose.bones[\"foot.R\"].rotation_quaternion",
+      "position": "pose.bones[\"foot.R\"].location",
+      "parent": "shin.R",
+      "implementation": "FK bone; no IK or contact solve"
+    }
+  },
+  "faceControls": {
+    "blink": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"blink\"]",
+      "implemented": true
+    },
+    "blinkL": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"blinkL\"]",
+      "implemented": true
+    },
+    "blinkR": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"blinkR\"]",
+      "implemented": true
+    },
+    "eyeDirectionX": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"eyeDirectionX\"]",
+      "implemented": true
+    },
+    "eyeDirectionZ": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"eyeDirectionZ\"]",
+      "implemented": true
+    },
+    "eyeSquint": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"eyeSquint\"]",
+      "implemented": true
+    },
+    "eyeWide": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"eyeWide\"]",
+      "implemented": true
+    },
+    "browRaise": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"browRaise\"]",
+      "implemented": true
+    },
+    "browTiltL": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"browTiltL\"]",
+      "implemented": true
+    },
+    "browTiltR": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"browTiltR\"]",
+      "implemented": true
+    },
+    "mouthSmile": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"mouthSmile\"]",
+      "implemented": true
+    },
+    "mouthOpenSmall": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"mouthOpenSmall\"]",
+      "implemented": true
+    },
+    "mouthThought": {
+      "neutral": 0,
+      "min": 0,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"mouthThought\"]",
+      "implemented": true
+    },
+    "mouthOffsetX": {
+      "neutral": 0,
+      "min": -1,
+      "max": 1,
+      "actualPath": "S02_RIG_V1[\"mouthOffsetX\"]",
+      "implemented": true
+    }
+  },
+  "presets": {
+    "neutral": {},
+    "senang": {
+      "mouthSmile": 0.75,
+      "eyeSquint": 0.35,
+      "browRaise": 0.12
+    },
+    "kaget": {
+      "browRaise": 0.65,
+      "eyeWide": 0.35,
+      "mouthOpenSmall": 0.9
+    },
+    "mikir": {
+      "browTiltL": 0.75,
+      "browTiltR": -0.35,
+      "mouthThought": 0.65
+    },
+    "semangat": {
+      "mouthSmile": 1.0,
+      "mouthOpenSmall": 0.3,
+      "browRaise": 0.3,
+      "eyeSquint": 0.12
+    }
+  },
+  "shapeKeyBindings": [
+    {
+      "mesh": "Eye white.L",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye white.L",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye white.L",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Pupil.L",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Eye glint.L",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkL"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Raise",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Lower",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Tiltpos",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browTiltL"
+      }
+    },
+    {
+      "mesh": "Brow.L",
+      "shapeKey": "Tiltneg",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browTiltL"
+      }
+    },
+    {
+      "mesh": "Eye white.R",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye white.R",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye white.R",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Pupil.R",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "Blink",
+      "driver": "max(b,s)",
+      "controlVariables": {
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "Squint",
+      "driver": "q*(1-max(b,s))",
+      "controlVariables": {
+        "q": "eyeSquint",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "Wide",
+      "driver": "w*(1-max(b,s))",
+      "controlVariables": {
+        "w": "eyeWide",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeXpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeXneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionX",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeZpos",
+      "driver": "max(g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Eye glint.R",
+      "shapeKey": "GazeZneg",
+      "driver": "max(-g,0)*(1-max(b,s))",
+      "controlVariables": {
+        "g": "eyeDirectionZ",
+        "b": "blink",
+        "s": "blinkR"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Raise",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Lower",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browRaise"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Tiltpos",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "browTiltR"
+      }
+    },
+    {
+      "mesh": "Brow.R",
+      "shapeKey": "Tiltneg",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "browTiltR"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Smile",
+      "driver": "s/max(1,s+o+t)",
+      "controlVariables": {
+        "s": "mouthSmile",
+        "o": "mouthOpenSmall",
+        "t": "mouthThought"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "OpenSmall",
+      "driver": "o/max(1,s+o+t)",
+      "controlVariables": {
+        "s": "mouthSmile",
+        "o": "mouthOpenSmall",
+        "t": "mouthThought"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Thought",
+      "driver": "t/max(1,s+o+t)",
+      "controlVariables": {
+        "s": "mouthSmile",
+        "o": "mouthOpenSmall",
+        "t": "mouthThought"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Offsetpos",
+      "driver": "max(v,0)",
+      "controlVariables": {
+        "v": "mouthOffsetX"
+      }
+    },
+    {
+      "mesh": "Neutral mouth | original minimal line",
+      "shapeKey": "Offsetneg",
+      "driver": "max(-v,0)",
+      "controlVariables": {
+        "v": "mouthOffsetX"
+      }
+    }
+  ],
+  "neutralReset": "Embedded rig_controls.py reset_rig() restores all body channels and 14 face values; validated exact rigged-neutral restoration.",
+  "BlenderDriverPortability": "Drivers work in this Blender source; must be baked/resolved to glTF channels on future export duplicate. No export/integration done.",
+  "productionApproved": false
+}
