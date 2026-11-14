@@ -1,0 +1,151 @@
+{
+  "baseCommit": "8a108a6a75420e11d9f1e603e3295188c7c5d9c5",
+  "target": [
+    0,
+    0,
+    2.1125000286847353
+  ],
+  "baseline": "Exact original Model04 PNGs copied read-only, camera evidence from Model04 render-manifest.json",
+  "render": {
+    "resolution": [
+      640,
+      800
+    ],
+    "samples": 48,
+    "denoise": false,
+    "threads": 2,
+    "engine": "Cycles CPU"
+  },
+  "baselineFrames": [
+    {
+      "model": "model04",
+      "view": "front",
+      "path": "evaluation/model04-reference/front.png",
+      "location": [
+        0.0,
+        -10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -0.0,
+        0.0
+      ],
+      "orthoScale": 4.9444499015808105,
+      "sha256": "52d6fda54df1317bebcfed6e1886ba60d62efdc832aa5e43a49ec36b84754926"
+    },
+    {
+      "model": "model04",
+      "view": "side",
+      "path": "evaluation/model04-reference/side.png",
+      "location": [
+        10.0,
+        0.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -3.0853883004056115e-08,
+        1.570796251296997
+      ],
+      "orthoScale": 4.9444499015808105,
+      "sha256": "bdd21948c07175c524defb29c6adc5563afae99ffd78c6501c650b529d4b797d"
+    },
+    {
+      "model": "model04",
+      "view": "three-quarter",
+      "path": "evaluation/model04-reference/three-quarter.png",
+      "location": [
+        -6.5,
+        -9.0,
+        3.4125001430511475
+      ],
+      "rotation": [
+        1.4542291164398193,
+        -6.801009533319302e-09,
+        -0.6254850625991821
+      ],
+      "orthoScale": 4.9444499015808105,
+      "sha256": "ebb674f055ee495dadf60af20cce0c92d64786d22cb80221722dadb678f443a6"
+    },
+    {
+      "model": "model04",
+      "view": "back",
+      "path": "evaluation/model04-reference/back.png",
+      "location": [
+        0.0,
+        10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989204406738281,
+        8.719705135717959e-08,
+        3.1415927410125732
+      ],
+      "orthoScale": 4.9444499015808105,
+      "sha256": "6b970b3dd016f562a6939d9f8e69bf109ba5e6be9bb196c4a4e399b15660f765"
+    }
+  ],
+  "polishedFrames": [
+    {
+      "view": "front",
+      "location": [
+        0.0,
+        -10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -0.0,
+        0.0
+      ],
+      "orthoScale": 4.9444499015808105,
+      "path": "evaluation/front.png"
+    },
+    {
+      "view": "side",
+      "location": [
+        10.0,
+        0.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989203214645386,
+        -3.0853883004056115e-08,
+        1.570796251296997
+      ],
+      "orthoScale": 4.9444499015808105,
+      "path": "evaluation/side.png"
+    },
+    {
+      "view": "three-quarter",
+      "location": [
+        -6.5,
+        -9.0,
+        3.4125001430511475
+      ],
+      "rotation": [
+        1.4542291164398193,
+        -6.801009533319302e-09,
+        -0.6254850625991821
+      ],
+      "orthoScale": 4.9444499015808105,
+      "path": "evaluation/three-quarter.png"
+    },
+    {
+      "view": "back",
+      "location": [
+        0.0,
+        10.0,
+        2.8324999809265137
+      ],
+      "rotation": [
+        1.4989204406738281,
+        8.719705135717959e-08,
+        3.1415927410125732
+      ],
+      "orthoScale": 4.9444499015808105,
+      "path": "evaluation/back.png"
+    }
+  ]
+}

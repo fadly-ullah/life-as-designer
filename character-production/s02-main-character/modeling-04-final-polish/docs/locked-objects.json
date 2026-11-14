@@ -1,0 +1,322 @@
+{
+  "Ankle collar.L": {
+    "unchanged": true,
+    "beforeSHA256": "de8e1c67171c6a49b33e66598c4a61d24663380268493bb02c17475c6690e2d0",
+    "afterSHA256": "de8e1c67171c6a49b33e66598c4a61d24663380268493bb02c17475c6690e2d0"
+  },
+  "Ankle collar.R": {
+    "unchanged": true,
+    "beforeSHA256": "c1718aa17776c63fef6a2f07edb7c4a3c28ed7e5b51d3635cd88b82ef14dafc1",
+    "afterSHA256": "c1718aa17776c63fef6a2f07edb7c4a3c28ed7e5b51d3635cd88b82ef14dafc1"
+  },
+  "Blush.L": {
+    "unchanged": true,
+    "beforeSHA256": "2c28238980bd63a1469a77120ba58acd77f2809706899be4f62779075cfb055f",
+    "afterSHA256": "2c28238980bd63a1469a77120ba58acd77f2809706899be4f62779075cfb055f"
+  },
+  "Blush.R": {
+    "unchanged": true,
+    "beforeSHA256": "82bda3e2caba3f74beb1c77fde920ccfe4068d469f40b78495d887bc4a63b36e",
+    "afterSHA256": "82bda3e2caba3f74beb1c77fde920ccfe4068d469f40b78495d887bc4a63b36e"
+  },
+  "Brow.L": {
+    "unchanged": true,
+    "beforeSHA256": "78c0022546ecc5c1b68145d6f8bade452cc2cd9917c75ea95dd1331edf25acec",
+    "afterSHA256": "78c0022546ecc5c1b68145d6f8bade452cc2cd9917c75ea95dd1331edf25acec"
+  },
+  "Brow.R": {
+    "unchanged": true,
+    "beforeSHA256": "f32810443af83d76b994d523bba11523950c544027909248cd2362b4803e86a4",
+    "afterSHA256": "f32810443af83d76b994d523bba11523950c544027909248cd2362b4803e86a4"
+  },
+  "Cord cotton.L": {
+    "unchanged": true,
+    "beforeSHA256": "f43e11e4bdfcc1d2d5b6fb8ba274c0ffd08df17c6e3b15c766b1c4a8b36e9cb1",
+    "afterSHA256": "f43e11e4bdfcc1d2d5b6fb8ba274c0ffd08df17c6e3b15c766b1c4a8b36e9cb1"
+  },
+  "Cord cotton.R": {
+    "unchanged": true,
+    "beforeSHA256": "bb1e6b27dc70800947b8ae5bf0d742fdb870aba806c247d07ba4debaa793254c",
+    "afterSHA256": "bb1e6b27dc70800947b8ae5bf0d742fdb870aba806c247d07ba4debaa793254c"
+  },
+  "Cord eyelet.L": {
+    "unchanged": true,
+    "beforeSHA256": "dd92f1992d16f3df855250c9fc7322f4a382fb045789cb993c1c38b839f8958c",
+    "afterSHA256": "dd92f1992d16f3df855250c9fc7322f4a382fb045789cb993c1c38b839f8958c"
+  },
+  "Cord eyelet.R": {
+    "unchanged": true,
+    "beforeSHA256": "97d00f034357d09dbfaccabac5111c176d9a44c1f5a004a9f00ad4906fae87c9",
+    "afterSHA256": "97d00f034357d09dbfaccabac5111c176d9a44c1f5a004a9f00ad4906fae87c9"
+  },
+  "Ear inner.L": {
+    "unchanged": true,
+    "beforeSHA256": "046344d0d46f077b1b5a2811583964112c192cb39d0c347499790470881fd6b6",
+    "afterSHA256": "046344d0d46f077b1b5a2811583964112c192cb39d0c347499790470881fd6b6"
+  },
+  "Ear inner.R": {
+    "unchanged": true,
+    "beforeSHA256": "3646f73b757ef454f0bd769b4db6968fd7b711c064cbf7304d1f5e261b6b5ce5",
+    "afterSHA256": "3646f73b757ef454f0bd769b4db6968fd7b711c064cbf7304d1f5e261b6b5ce5"
+  },
+  "Ear.L": {
+    "unchanged": true,
+    "beforeSHA256": "796664371d90c4ea5aea75f846c582cf5bfbb80e7610b23de63079cdd254a1c4",
+    "afterSHA256": "796664371d90c4ea5aea75f846c582cf5bfbb80e7610b23de63079cdd254a1c4"
+  },
+  "Ear.R": {
+    "unchanged": true,
+    "beforeSHA256": "ec100b0cff1b954336bc7e7d580c28430b79e5c02cab39914fe57c3414b4ce23",
+    "afterSHA256": "ec100b0cff1b954336bc7e7d580c28430b79e5c02cab39914fe57c3414b4ce23"
+  },
+  "Evaluation floor": {
+    "unchanged": true,
+    "beforeSHA256": "94bbac199ddd73417ef45b1537e1baafca4f18bc30dbd9478c3227ee21d4deb2",
+    "afterSHA256": "94bbac199ddd73417ef45b1537e1baafca4f18bc30dbd9478c3227ee21d4deb2"
+  },
+  "Finger crease.L": {
+    "unchanged": true,
+    "beforeSHA256": "c0fbe1bb00363f87f6aee1c82724ded5e9890ad38af0e712deac1353ba5a3cc1",
+    "afterSHA256": "c0fbe1bb00363f87f6aee1c82724ded5e9890ad38af0e712deac1353ba5a3cc1"
+  },
+  "Finger crease.R": {
+    "unchanged": true,
+    "beforeSHA256": "d96c9c4d2e4a571b1d8b56c2b2ec7a85ef381059ee927d5d9c94d994e4b38673",
+    "afterSHA256": "d96c9c4d2e4a571b1d8b56c2b2ec7a85ef381059ee927d5d9c94d994e4b38673"
+  },
+  "Hair | L low-side": {
+    "unchanged": true,
+    "beforeSHA256": "7cd0a84c64bac109da6450f9637d030655878f8a0cb9b484487771daa6f691fb",
+    "afterSHA256": "7cd0a84c64bac109da6450f9637d030655878f8a0cb9b484487771daa6f691fb"
+  },
+  "Hair | L rear-low": {
+    "unchanged": true,
+    "beforeSHA256": "8271338b93a90c6f0dfc7b26df396b62d873f20d39525ad802b6a71f0c44ebb5",
+    "afterSHA256": "8271338b93a90c6f0dfc7b26df396b62d873f20d39525ad802b6a71f0c44ebb5"
+  },
+  "Hair | L sideburn": {
+    "unchanged": true,
+    "beforeSHA256": "cd046d7a93fb59044f6e5a9d9f9b0cab3f5d58d45f694d2db6f0fc35a90075d5",
+    "afterSHA256": "cd046d7a93fb59044f6e5a9d9f9b0cab3f5d58d45f694d2db6f0fc35a90075d5"
+  },
+  "Hair | M03 crown step": {
+    "unchanged": true,
+    "beforeSHA256": "33886a61b1636fcafc178aa9db6e6ada212d00d08fba2abd14c8c52fbb4679a6",
+    "afterSHA256": "33886a61b1636fcafc178aa9db6e6ada212d00d08fba2abd14c8c52fbb4679a6"
+  },
+  "Hair | M04 connected upper layer": {
+    "unchanged": true,
+    "beforeSHA256": "9b3b83e07bf5d6e058549d354fe35f715bbc604a2a3ef9cd0629edd2206e4f1e",
+    "afterSHA256": "9b3b83e07bf5d6e058549d354fe35f715bbc604a2a3ef9cd0629edd2206e4f1e"
+  },
+  "Hair | M04 stepped fringe": {
+    "unchanged": true,
+    "beforeSHA256": "6ddd274e9349c136ac989951833c138630d65ea20ba12ab129b7d01b9fe5e5c4",
+    "afterSHA256": "6ddd274e9349c136ac989951833c138630d65ea20ba12ab129b7d01b9fe5e5c4"
+  },
+  "Hair | R low-side": {
+    "unchanged": true,
+    "beforeSHA256": "b5d58ba4c56f070128153022118687d766bb73139a641d29d9dfaf9d89a85039",
+    "afterSHA256": "b5d58ba4c56f070128153022118687d766bb73139a641d29d9dfaf9d89a85039"
+  },
+  "Hair | R rear-low": {
+    "unchanged": true,
+    "beforeSHA256": "a0f18289ff034245ee7678294e0674c89050ab50c13f502d23aab482064e64be",
+    "afterSHA256": "a0f18289ff034245ee7678294e0674c89050ab50c13f502d23aab482064e64be"
+  },
+  "Hair | R sideburn": {
+    "unchanged": true,
+    "beforeSHA256": "6a7fc3520acbc1d5c03a6e01708835f13213a54752cfa3d4e8d336aad7f54d98",
+    "afterSHA256": "6a7fc3520acbc1d5c03a6e01708835f13213a54752cfa3d4e8d336aad7f54d98"
+  },
+  "Hair | fitted dark foundation": {
+    "unchanged": true,
+    "beforeSHA256": "f1cf08209149d4e1b824f703a5ac07cb7fce84ed071eed33d2ae9d22b3ee1a79",
+    "afterSHA256": "f1cf08209149d4e1b824f703a5ac07cb7fce84ed071eed33d2ae9d22b3ee1a79"
+  },
+  "Hair | parted right ridge": {
+    "unchanged": true,
+    "beforeSHA256": "9761ff04363ecc11f040f4cd819b3b68b5bcdc23da30eb9dc564a90170e5ffdd",
+    "afterSHA256": "9761ff04363ecc11f040f4cd819b3b68b5bcdc23da30eb9dc564a90170e5ffdd"
+  },
+  "Hair | rear crown fan": {
+    "unchanged": true,
+    "beforeSHA256": "0a073b7d0ef839d0d34c50bc4ef416d893254c173f244c171712ba71aa570e71",
+    "afterSHA256": "0a073b7d0ef839d0d34c50bc4ef416d893254c173f244c171712ba71aa570e71"
+  },
+  "Head | refined cheek-jaw planes": {
+    "unchanged": true,
+    "beforeSHA256": "e5ad47ad3d6a94808143d0c511dcad2657c505765e1d97f1fa5ae9f1f65709bf",
+    "afterSHA256": "e5ad47ad3d6a94808143d0c511dcad2657c505765e1d97f1fa5ae9f1f65709bf"
+  },
+  "Hem fold.L": {
+    "unchanged": true,
+    "beforeSHA256": "751fca39be0c6f877197fc1c8c949db9a7df5029f55875696c4126418b027a37",
+    "afterSHA256": "751fca39be0c6f877197fc1c8c949db9a7df5029f55875696c4126418b027a37"
+  },
+  "Hem fold.R": {
+    "unchanged": true,
+    "beforeSHA256": "8d328de940710894a06243ab20ecdbb44cd3c535065963d5c281c3da65183a22",
+    "afterSHA256": "8d328de940710894a06243ab20ecdbb44cd3c535065963d5c281c3da65183a22"
+  },
+  "Hem seam | front": {
+    "unchanged": true,
+    "beforeSHA256": "5c4c271300f0c4e6f1168c3b35263e93f895c0b1d84828d9c371ccf12e8490d2",
+    "afterSHA256": "5c4c271300f0c4e6f1168c3b35263e93f895c0b1d84828d9c371ccf12e8490d2"
+  },
+  "Hood back seam": {
+    "unchanged": true,
+    "beforeSHA256": "af30653fd98b66d8dfa587e707b8339734a22a14eae2c6ec5c3980f8b0034285",
+    "afterSHA256": "af30653fd98b66d8dfa587e707b8339734a22a14eae2c6ec5c3980f8b0034285"
+  },
+  "Hood | M04 open U rim": {
+    "unchanged": true,
+    "beforeSHA256": "fd847e41930f4fd03374df95427b9356e1f3911f8380350f1d56bca31f992474",
+    "afterSHA256": "fd847e41930f4fd03374df95427b9356e1f3911f8380350f1d56bca31f992474"
+  },
+  "Hood | draped back shell": {
+    "unchanged": true,
+    "beforeSHA256": "ddf65c6587fc9748dd96fbc7ad99de24ad81cbd59b69b34c2cc35a7dbb80eb6e",
+    "afterSHA256": "ddf65c6587fc9748dd96fbc7ad99de24ad81cbd59b69b34c2cc35a7dbb80eb6e"
+  },
+  "Hood | front folded lip.L": {
+    "unchanged": true,
+    "beforeSHA256": "625759369c1252f10faa282012fc963c502b3eeae90e5b2fdc340cf82a6c1321",
+    "afterSHA256": "625759369c1252f10faa282012fc963c502b3eeae90e5b2fdc340cf82a6c1321"
+  },
+  "Hood | front folded lip.R": {
+    "unchanged": true,
+    "beforeSHA256": "847c68bb463898c9dfbe0c3dddb3833b317e558c0565515e132b79fc1a75d7b5",
+    "afterSHA256": "847c68bb463898c9dfbe0c3dddb3833b317e558c0565515e132b79fc1a75d7b5"
+  },
+  "Hoodie hem | rib band": {
+    "unchanged": true,
+    "beforeSHA256": "59244400dcc19379c456b0aaeeab8756a13c314762d6d14d59f901a1215d121d",
+    "afterSHA256": "59244400dcc19379c456b0aaeeab8756a13c314762d6d14d59f901a1215d121d"
+  },
+  "Hoodie torso | shoulder-chest-waist contour": {
+    "unchanged": true,
+    "beforeSHA256": "20c0e5f0a8bbc02a458637ba1e67bc526b39c369e63eaa11fe4005138a5dcaff",
+    "afterSHA256": "20c0e5f0a8bbc02a458637ba1e67bc526b39c369e63eaa11fe4005138a5dcaff"
+  },
+  "Kangaroo pouch | M03 rectangular": {
+    "unchanged": true,
+    "beforeSHA256": "6dcae54ee3a8037bdb88be662c0e91e12309fd4eeb60db8ecf73c64ea1e41198",
+    "afterSHA256": "6dcae54ee3a8037bdb88be662c0e91e12309fd4eeb60db8ecf73c64ea1e41198"
+  },
+  "Lime cord end.L": {
+    "unchanged": true,
+    "beforeSHA256": "786e0c20b6f0c4b1dc6e24fbb18be3976aa33bda5e6541c44ecf762fe1d151a7",
+    "afterSHA256": "786e0c20b6f0c4b1dc6e24fbb18be3976aa33bda5e6541c44ecf762fe1d151a7"
+  },
+  "Lime cord end.R": {
+    "unchanged": true,
+    "beforeSHA256": "a18978d7f343235fe65685862562a3d92f9367e864cc2a59ccc4793f41206887",
+    "afterSHA256": "a18978d7f343235fe65685862562a3d92f9367e864cc2a59ccc4793f41206887"
+  },
+  "Neck": {
+    "unchanged": true,
+    "beforeSHA256": "739c0170ed43bef60fde03f794d66435cbf3146823e72c6832e4998429edee34",
+    "afterSHA256": "739c0170ed43bef60fde03f794d66435cbf3146823e72c6832e4998429edee34"
+  },
+  "Neutral mouth | original minimal line": {
+    "unchanged": true,
+    "beforeSHA256": "33d44cf429305f4e5b53a7bf67a74ec5d0a4ac4ffa402a37fa198bbcbde85100",
+    "afterSHA256": "33d44cf429305f4e5b53a7bf67a74ec5d0a4ac4ffa402a37fa198bbcbde85100"
+  },
+  "Nose | small faceted bridge": {
+    "unchanged": true,
+    "beforeSHA256": "496ee2ade235bfee19fcc63f16fe5b6a75d8990dbb33965fe26c66847651b7fd",
+    "afterSHA256": "496ee2ade235bfee19fcc63f16fe5b6a75d8990dbb33965fe26c66847651b7fd"
+  },
+  "Outsole.L": {
+    "unchanged": true,
+    "beforeSHA256": "38bbf620443bafbb0d968b252d72dda2ab8c11e768a8ee3ffe50e25a8a77a2ea",
+    "afterSHA256": "38bbf620443bafbb0d968b252d72dda2ab8c11e768a8ee3ffe50e25a8a77a2ea"
+  },
+  "Outsole.R": {
+    "unchanged": true,
+    "beforeSHA256": "7a2c530f01cdda425e829478715b93e4402f65951e5cf64cb72545ebe1aa676e",
+    "afterSHA256": "7a2c530f01cdda425e829478715b93e4402f65951e5cf64cb72545ebe1aa676e"
+  },
+  "Palm.L": {
+    "unchanged": true,
+    "beforeSHA256": "afcbf58214093098376b42313c8ff1181b9527881be8af5e881eea94ebb63d72",
+    "afterSHA256": "afcbf58214093098376b42313c8ff1181b9527881be8af5e881eea94ebb63d72"
+  },
+  "Palm.R": {
+    "unchanged": true,
+    "beforeSHA256": "de91b64d5f83d4756c6b000cc0e40484322775a1c19b9243772f0eda71ac10a4",
+    "afterSHA256": "de91b64d5f83d4756c6b000cc0e40484322775a1c19b9243772f0eda71ac10a4"
+  },
+  "Pouch opening stitch.M03.L": {
+    "unchanged": true,
+    "beforeSHA256": "991cd4e683afeeba8a170413ede358916aa58558c71c57cf8cc6cda7a09a7f83",
+    "afterSHA256": "991cd4e683afeeba8a170413ede358916aa58558c71c57cf8cc6cda7a09a7f83"
+  },
+  "Pouch opening stitch.M03.R": {
+    "unchanged": true,
+    "beforeSHA256": "cd39b49e4f37fed492406e968f35b51fc5f720de09a43f409d31d2014286c9b2",
+    "afterSHA256": "cd39b49e4f37fed492406e968f35b51fc5f720de09a43f409d31d2014286c9b2"
+  },
+  "Shoe upper.L": {
+    "unchanged": true,
+    "beforeSHA256": "43acc4f5c81796d37125dbfd28afbd693fa2c8634b3a39b262ab66c86f8004f9",
+    "afterSHA256": "43acc4f5c81796d37125dbfd28afbd693fa2c8634b3a39b262ab66c86f8004f9"
+  },
+  "Shoe upper.R": {
+    "unchanged": true,
+    "beforeSHA256": "0285a66f3ea1e25746a9a5350d1f2a9859d6d28c49165bf95ca654b06b9b7349",
+    "afterSHA256": "0285a66f3ea1e25746a9a5350d1f2a9859d6d28c49165bf95ca654b06b9b7349"
+  },
+  "Thumb.L": {
+    "unchanged": true,
+    "beforeSHA256": "4440e9e8746cdbd08f1003b4f6cd1f2ffac7fbb472df641ed3dc5a60971fee7a",
+    "afterSHA256": "4440e9e8746cdbd08f1003b4f6cd1f2ffac7fbb472df641ed3dc5a60971fee7a"
+  },
+  "Thumb.R": {
+    "unchanged": true,
+    "beforeSHA256": "6d5e21ea488117da1aa215feaf5db2ba0ef584f1144065fef76858b22cd77b3d",
+    "afterSHA256": "6d5e21ea488117da1aa215feaf5db2ba0ef584f1144065fef76858b22cd77b3d"
+  },
+  "Toe panel.L": {
+    "unchanged": true,
+    "beforeSHA256": "410a1d307adb17ba2685ea463055fb03451d0ea618d796c05d89de1abcf6bc43",
+    "afterSHA256": "410a1d307adb17ba2685ea463055fb03451d0ea618d796c05d89de1abcf6bc43"
+  },
+  "Toe panel.R": {
+    "unchanged": true,
+    "beforeSHA256": "4bdc91db79e83ef0574396c4858c160382e3d95d044db939d08272034a6002e3",
+    "afterSHA256": "4bdc91db79e83ef0574396c4858c160382e3d95d044db939d08272034a6002e3"
+  },
+  "Tongue.L": {
+    "unchanged": true,
+    "beforeSHA256": "2afa066eb267fa461c402d1a93cdeb248d03712d0693693dbb4c9196ef72a168",
+    "afterSHA256": "2afa066eb267fa461c402d1a93cdeb248d03712d0693693dbb4c9196ef72a168"
+  },
+  "Tongue.R": {
+    "unchanged": true,
+    "beforeSHA256": "94d395b06387a327d091a0c10de6cf402a59dd0dbdca23961e869be9dd519b69",
+    "afterSHA256": "94d395b06387a327d091a0c10de6cf402a59dd0dbdca23961e869be9dd519b69"
+  },
+  "Trouser outer seam.L": {
+    "unchanged": true,
+    "beforeSHA256": "fe9a1f663431702e6d0d35ada6abca7e095042609fca34e602a71fb1fffccd7d",
+    "afterSHA256": "fe9a1f663431702e6d0d35ada6abca7e095042609fca34e602a71fb1fffccd7d"
+  },
+  "Trouser outer seam.R": {
+    "unchanged": true,
+    "beforeSHA256": "d1c43ac9c53a4bc867527eececb84890c214e7e41cce5250fe0165530e2148d6",
+    "afterSHA256": "d1c43ac9c53a4bc867527eececb84890c214e7e41cce5250fe0165530e2148d6"
+  },
+  "Trousers.L": {
+    "unchanged": true,
+    "beforeSHA256": "ed11b5c9e5fcb2f883fdbbab350eaad87fb23c2021e36e521d863484e702eae6",
+    "afterSHA256": "ed11b5c9e5fcb2f883fdbbab350eaad87fb23c2021e36e521d863484e702eae6"
+  },
+  "Trousers.R": {
+    "unchanged": true,
+    "beforeSHA256": "898d38480d91a5cb026d92af92ea7198ecd78b44fbd58e51f0e865d8cdf6290e",
+    "afterSHA256": "898d38480d91a5cb026d92af92ea7198ecd78b44fbd58e51f0e865d8cdf6290e"
+  }
+}
