@@ -1,0 +1,31 @@
+{
+  "baseCommit": "aff455385918d8cb13d72123af824156bd771e6a",
+  "priorSourceChecks": {
+    "character-production/s02-main-character/Season02_Approved_Character_Concept.png": {
+      "unchanged": true,
+      "sha256": "a7d32e54edf7e8e55949e395bb1260a76552758fcfc4500db67e65215addf37e"
+    },
+    "character-production/s02-main-character/modeling-01/source/s02-character-modeling-01.blend": {
+      "unchanged": true,
+      "sha256": "3441960c5a7be3a8971f1dd2f4b9a413f385c679d53bf03a7f9e36da90a8c56f"
+    },
+    "character-production/s02-main-character/modeling-02/source/s02-character-modeling-02.blend": {
+      "unchanged": true,
+      "sha256": "5612d491671012ebb8f2190fb5aa7b75a06cf3d8bfcc647960a67e4e5f1ad52a"
+    },
+    "character-production/s02-main-character/modeling-03/source/s02-character-modeling-03.blend": {
+      "unchanged": true,
+      "sha256": "f63668c75ca695be0430c7467042ef750a3be342411dc330bed57e26b5658110"
+    },
+    "character-production/s02-main-character/modeling-04/source/s02-character-modeling-04.blend": {
+      "unchanged": true,
+      "sha256": "dd9959c2cf3d27a4f71f4c07862a5e734a5bfb16c99e2ad5603df3be90ce52cf"
+    },
+    "character-production/s02-main-character/modeling-04-final-polish/source/s02-character-model04-final-polish.blend": {
+      "unchanged": true,
+      "sha256": "207c65282e563de9bb5d13cd1d92b6d603f5664e52b6d6726a274010c31c26ef"
+    }
+  },
+  "existingTrackedPathsChangedOutsideRiggingPrep": [],
+  "stage": "Only new rigging-prep directory may differ from approved commit; no changes to Season01 or Episode01 code."
+}

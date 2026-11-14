@@ -1,0 +1,16 @@
+{
+  "identityStatus": "APPROVED_LOCKED_BY_USER_TASK07",
+  "decisionSource": "Explicit user TASK07 decision in this conversation; this record does not approve rigging/export.",
+  "approvedSourceBranch": "feature/s02-character-model04-final-polish",
+  "approvedSourceCommit": "aff455385918d8cb13d72123af824156bd771e6a",
+  "approvedBlend": "modeling-04-final-polish/source/s02-character-model04-final-polish.blend",
+  "approvedBlendSHA256": "207c65282e563de9bb5d13cd1d92b6d603f5664e52b6d6726a274010c31c26ef",
+  "concept": "Season02_Approved_Character_Concept.png",
+  "conceptSHA256": "a7d32e54edf7e8e55949e395bb1260a76552758fcfc4500db67e65215addf37e",
+  "identityLocked": true,
+  "rigStatus": "NOT_BUILT_NOT_APPROVED",
+  "exportStatus": "NOT_EXPORTED_NOT_APPROVED",
+  "animationProductionStatus": "NOT_STARTED",
+  "nextGate": "Explicit user approval required before full rigging or GLB export.",
+  "historicalApprovalMetadata": "Older modeling files/reports retain their historical UNAPPROVED labels unchanged. This scoped TASK07 decision supersedes them for visual identity only."
+}

@@ -1,0 +1,14 @@
+{
+  "view": "three-quarter",
+  "resolution": [
+    640,
+    800
+  ],
+  "reference": "modeling-04-final-polish/evaluation/three-quarter.png",
+  "prepRender": "evaluation/neutral-three-quarter.png",
+  "maxRGBChannelDifference": 0,
+  "changedPixels": 0,
+  "meanAbsoluteRGBDifference": 0.0,
+  "pixelIdentical": true,
+  "scope": "One static neutral character view, not deformation/animation/Episode01. Exact all-mesh world/evaluated geometry and normals checked separately."
+}

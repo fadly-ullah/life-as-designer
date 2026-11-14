@@ -1,0 +1,1452 @@
+{
+  "groups": {
+    "HEAD": {
+      "name": "PREP_GROUP_HEAD",
+      "parent": "S02_MainCharacter_IDENTITY_LOCKED_RIG_PREP_NOT_RIGGED",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "FACE": {
+      "name": "PREP_GROUP_FACE",
+      "parent": "PREP_GROUP_HEAD",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "HAIR": {
+      "name": "PREP_GROUP_HAIR",
+      "parent": "PREP_GROUP_HEAD",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "TORSO": {
+      "name": "PREP_GROUP_TORSO",
+      "parent": "S02_MainCharacter_IDENTITY_LOCKED_RIG_PREP_NOT_RIGGED",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "ARM_L": {
+      "name": "PREP_GROUP_ARM_L",
+      "parent": "S02_MainCharacter_IDENTITY_LOCKED_RIG_PREP_NOT_RIGGED",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "HAND_L": {
+      "name": "PREP_GROUP_HAND_L",
+      "parent": "PREP_GROUP_ARM_L",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "ARM_R": {
+      "name": "PREP_GROUP_ARM_R",
+      "parent": "S02_MainCharacter_IDENTITY_LOCKED_RIG_PREP_NOT_RIGGED",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "HAND_R": {
+      "name": "PREP_GROUP_HAND_R",
+      "parent": "PREP_GROUP_ARM_R",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "LEG_L": {
+      "name": "PREP_GROUP_LEG_L",
+      "parent": "S02_MainCharacter_IDENTITY_LOCKED_RIG_PREP_NOT_RIGGED",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "FOOT_L": {
+      "name": "PREP_GROUP_FOOT_L",
+      "parent": "PREP_GROUP_LEG_L",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "LEG_R": {
+      "name": "PREP_GROUP_LEG_R",
+      "parent": "S02_MainCharacter_IDENTITY_LOCKED_RIG_PREP_NOT_RIGGED",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    },
+    "FOOT_R": {
+      "name": "PREP_GROUP_FOOT_R",
+      "parent": "PREP_GROUP_LEG_R",
+      "matrixBasis": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "type": "STATIC_ORGANIZATION_NOT_RIG_CONTROL"
+    }
+  },
+  "meshes": [
+    {
+      "object": "Trousers.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_LEG_L",
+      "futurePolicy": "trouser_skinning_candidate_hem_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hem fold.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_LEG_L",
+      "futurePolicy": "trouser_skinning_candidate_hem_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Outsole.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_L",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Shoe upper.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_L",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Toe panel.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_L",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Ankle collar.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_L",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Tongue.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_L",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Trousers.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_LEG_R",
+      "futurePolicy": "trouser_skinning_candidate_hem_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hem fold.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_LEG_R",
+      "futurePolicy": "trouser_skinning_candidate_hem_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Outsole.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_R",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Shoe upper.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_R",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Toe panel.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_R",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Ankle collar.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_R",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Tongue.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FOOT_R",
+      "futurePolicy": "rigid_foot",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Neck",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Palm.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAND_L",
+      "futurePolicy": "rigid_hand_with_optional_thumb",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Thumb.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAND_L",
+      "futurePolicy": "rigid_hand_with_optional_thumb",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Finger crease.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAND_L",
+      "futurePolicy": "rigid_hand_with_optional_thumb",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Palm.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAND_R",
+      "futurePolicy": "rigid_hand_with_optional_thumb",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Thumb.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAND_R",
+      "futurePolicy": "rigid_hand_with_optional_thumb",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Finger crease.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAND_R",
+      "futurePolicy": "rigid_hand_with_optional_thumb",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Ear.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HEAD",
+      "futurePolicy": "rigid_head",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Ear inner.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HEAD",
+      "futurePolicy": "rigid_head",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Ear.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HEAD",
+      "futurePolicy": "rigid_head",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Ear inner.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HEAD",
+      "futurePolicy": "rigid_head",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Head | refined cheek-jaw planes",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HEAD",
+      "futurePolicy": "rigid_head",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Eye white.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Pupil.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Eye glint.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Upper eyelid.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Brow.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Blush.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Eye white.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Pupil.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Eye glint.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Upper eyelid.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Brow.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Blush.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Neutral mouth | original minimal line",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Nose | small faceted bridge",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_FACE",
+      "futurePolicy": "planned_facial_nodes_or_morphs",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | fitted dark foundation",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | parted right ridge",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | rear crown fan",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | L sideburn",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | L low-side",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | L rear-low",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | R sideburn",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | R low-side",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | R rear-low",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hoodie torso | shoulder-chest-waist contour",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hoodie hem | rib band",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hem seam | front",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hood | draped back shell",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hood back seam",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hood | front folded lip.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cord eyelet.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cord cotton.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Lime cord end.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Sleeve | continuous shaped elbow.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff | shaped rib knit.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.L.0",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.L.1",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.L.2",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.L.3",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.L.4",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.L.5",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Shoulder seam.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_L",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Trouser outer seam.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_LEG_L",
+      "futurePolicy": "trouser_skinning_candidate_hem_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hood | front folded lip.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cord eyelet.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cord cotton.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Lime cord end.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Sleeve | continuous shaped elbow.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff | shaped rib knit.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.R.0",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.R.1",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.R.2",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.R.3",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.R.4",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Cuff rib.R.5",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Shoulder seam.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_ARM_R",
+      "futurePolicy": "sleeve_skinning_candidate_cuff_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Trouser outer seam.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_LEG_R",
+      "futurePolicy": "trouser_skinning_candidate_hem_rigid",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M03 crown step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M03 rear lower",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M03 rear middle",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M03 rear upper",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Kangaroo pouch | M03 rectangular",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Pouch opening stitch.M03.L",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Pouch opening stitch.M03.R",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M04 stepped fringe",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M04 connected upper layer",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M04 L upper side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M04 L lower side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M04 R upper side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | M04 R lower side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hood | M04 open U rim",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_TORSO",
+      "futurePolicy": "torso_or_garment_follow_candidate",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish L upper stagger",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish L temple step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish L center side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish L rear side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish R upper stagger",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish R temple step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish R center side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish R rear side step",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish rear lower sweep",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish rear left middle",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish rear central middle",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish rear right middle",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish rear upper left",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    },
+    {
+      "object": "Hair | Polish rear upper right",
+      "oldParent": "S02_MainCharacter_MODEL04_FINAL_POLISH_UNAPPROVED_UNRIGGED",
+      "prepGroup": "PREP_GROUP_HAIR",
+      "futurePolicy": "rigid_head_attachment",
+      "actualBoneBinding": null,
+      "weightsCreated": false
+    }
+  ],
+  "landmarks": {
+    "HEAD_BASE": {
+      "object": "PREP_LANDMARK_HEAD_BASE",
+      "position": [
+        0,
+        0.02,
+        2.945499897003174
+      ],
+      "basis": "Approved jaw minimum Z; neck/head pivot candidate",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "PELVIS": {
+      "object": "PREP_LANDMARK_PELVIS",
+      "position": [
+        0,
+        0.02,
+        1.6110362100601197
+      ],
+      "basis": "Hoodie hem vicinity; pelvis pivot requires anatomical fit review",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "CHEST": {
+      "object": "PREP_LANDMARK_CHEST",
+      "position": [
+        0,
+        0.04,
+        2.5975814151763914
+      ],
+      "basis": "Upper torso extent; coarse chest reference",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "SHOULDER_L": {
+      "object": "PREP_LANDMARK_SHOULDER_L",
+      "position": [
+        -0.5125725269317627,
+        0.04200000315904617,
+        2.6652979850769043
+      ],
+      "basis": "Center of highest sleeve loft ring",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "ELBOW_L": {
+      "object": "PREP_LANDMARK_ELBOW_L",
+      "position": [
+        -0.6326904892921448,
+        0.04515000432729721,
+        2.2236742973327637
+      ],
+      "basis": "Mid sleeve loft-ring centers; not a validated hinge axis",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "WRIST_L": {
+      "object": "PREP_LANDMARK_WRIST_L",
+      "position": [
+        -0.6730750054121017,
+        -0.026250004768371582,
+        1.6719497728347779
+      ],
+      "basis": "Cuff lower edge and hand junction vicinity",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "HIP_L": {
+      "object": "PREP_LANDMARK_HIP_L",
+      "position": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        1.5863151550292969
+      ],
+      "basis": "Upper trouser bounds; provisional joint center",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "KNEE_L": {
+      "object": "PREP_LANDMARK_KNEE_L",
+      "position": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        1.0464439392089844
+      ],
+      "basis": "Mid hip-to-ankle reference; bend axis untested",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "ANKLE_L": {
+      "object": "PREP_LANDMARK_ANKLE_L",
+      "position": [
+        -0.25435200333595276,
+        0.029999999329447746,
+        0.5065726637840271
+      ],
+      "basis": "Lower trouser/ankle vicinity",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "FOOT_L": {
+      "object": "PREP_LANDMARK_FOOT_L",
+      "position": [
+        -0.25435001589357853,
+        -0.1109749972820282,
+        0.19227700114250185
+      ],
+      "basis": "Shoe bounds; rigid foot origin candidate",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "TOE_L": {
+      "object": "PREP_LANDMARK_TOE_L",
+      "position": [
+        -0.25435001589357853,
+        -0.42169998288154603,
+        0.16227700114250182
+      ],
+      "basis": "Shoe forward -Y extent; optional foot-roll reference",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "SHOULDER_R": {
+      "object": "PREP_LANDMARK_SHOULDER_R",
+      "position": [
+        0.5125725269317627,
+        0.04200000315904617,
+        2.6652979850769043
+      ],
+      "basis": "Center of highest sleeve loft ring",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "ELBOW_R": {
+      "object": "PREP_LANDMARK_ELBOW_R",
+      "position": [
+        0.6326904892921448,
+        0.04515000432729721,
+        2.2236742973327637
+      ],
+      "basis": "Mid sleeve loft-ring centers; not a validated hinge axis",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "WRIST_R": {
+      "object": "PREP_LANDMARK_WRIST_R",
+      "position": [
+        0.6730750054121017,
+        -0.026250004768371582,
+        1.6719497728347779
+      ],
+      "basis": "Cuff lower edge and hand junction vicinity",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "HIP_R": {
+      "object": "PREP_LANDMARK_HIP_R",
+      "position": [
+        0.25435200333595276,
+        0.029999999329447746,
+        1.5863151550292969
+      ],
+      "basis": "Upper trouser bounds; provisional joint center",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "KNEE_R": {
+      "object": "PREP_LANDMARK_KNEE_R",
+      "position": [
+        0.25435200333595276,
+        0.029999999329447746,
+        1.0464439392089844
+      ],
+      "basis": "Mid hip-to-ankle reference; bend axis untested",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "ANKLE_R": {
+      "object": "PREP_LANDMARK_ANKLE_R",
+      "position": [
+        0.25435200333595276,
+        0.029999999329447746,
+        0.5065726637840271
+      ],
+      "basis": "Lower trouser/ankle vicinity",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "FOOT_R": {
+      "object": "PREP_LANDMARK_FOOT_R",
+      "position": [
+        0.25435001589357853,
+        -0.1109749972820282,
+        0.19227700114250185
+      ],
+      "basis": "Shoe bounds; rigid foot origin candidate",
+      "status": "CANDIDATE_NOT_BOUND"
+    },
+    "TOE_R": {
+      "object": "PREP_LANDMARK_TOE_R",
+      "position": [
+        0.25435001589357853,
+        -0.42169998288154603,
+        0.16227700114250182
+      ],
+      "basis": "Shoe forward -Y extent; optional foot-roll reference",
+      "status": "CANDIDATE_NOT_BOUND"
+    }
+  },
+  "rigCreated": false,
+  "skinWeightsCreated": false
+}

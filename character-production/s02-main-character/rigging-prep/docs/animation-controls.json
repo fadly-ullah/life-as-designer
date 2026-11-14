@@ -1,0 +1,468 @@
+{
+  "schemaVersion": "s02-rig-prep-recommendation-v1",
+  "identitySourceCommit": "aff455385918d8cb13d72123af824156bd771e6a",
+  "status": "PLANNED_UNBOUND_NOT_ANIMATION",
+  "actualBoneBindings": {},
+  "actualMorphBindings": {},
+  "controls": [
+    {
+      "name": "blink",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Bilateral eyelid closure; 0=approved neutral open, 1=closed. Overrides eye-wide and hides pupil/glint leakage.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "blinkL",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Optional independent left blink, combined with global closure using max.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "blinkR",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Optional independent right blink, combined with global closure using max.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "eyeDirectionX",
+      "group": "face",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Head-local horizontal gaze. Translate pupil/glint together inside measured white bounds.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "eyeDirectionZ",
+      "group": "face",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Head-local vertical gaze (Blender Z; map local axis once on glTF import).",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "eyeSquint",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Small upper/lower lid/white change, no neutral face replacement.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "eyeWide",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Conservative eye opening, neutral Basis unchanged; endpoint requires review.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "browRaise",
+      "group": "face",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Small symmetric brow raise/lower with original brow geometry.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "browTiltL",
+      "group": "face",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Restrained left brow angle for thinking/interest.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "browTiltR",
+      "group": "face",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Restrained right brow angle for thinking/interest.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "mouthSmile",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Subtle smile morph; neutral original line is exact Basis.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "mouthOpenSmall",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Small open shape for kaget/semangat; target art/topology not implemented.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "mouthThought",
+      "group": "face",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Restrained asymmetric/thoughtful mouth variant derived from approved sheet.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "mouthOffsetX",
+      "group": "face",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Subtle lateral minimal-mouth adjustment; no speech-viseme system.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "headPitch",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Normalized planned head nod; range in radians determined after clearance tests.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "headYaw",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Normalized planned head turn; no hard-coded anatomical limit yet.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "headRoll",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Restrained tilt; optional support for mikir/semangat.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "torsoLean",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Small chest/spine lean after weighting validation.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "breath",
+      "group": "body",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Subtle deterministic chest motion; not mesh inflation or physics.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "shoulderFK.L",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "elbowFK.L",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "wristFK.L",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "hipFK.L",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "kneeFK.L",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "footFK.L",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "handGrip.L",
+      "group": "body",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "shoulderFK.R",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "elbowFK.R",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "wristFK.R",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "hipFK.R",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "kneeFK.R",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "footFK.R",
+      "group": "body",
+      "range": [
+        -1,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    },
+    {
+      "name": "handGrip.R",
+      "group": "body",
+      "range": [
+        0,
+        1
+      ],
+      "neutralDefault": 0,
+      "description": "Planned logical control; actual joint axes/limits or thumb scope must be validated.",
+      "implementationStatus": "PLANNED_ONLY",
+      "binding": null
+    }
+  ],
+  "expressionPresets": {
+    "neutral": {
+      "label": "Netral",
+      "weights": {},
+      "intent": "Exact approved neutral; all controls reset to their neutral defaults."
+    },
+    "senang": {
+      "label": "Senang",
+      "weights": {
+        "mouthSmile": 0.4,
+        "eyeSquint": 0.12,
+        "browRaise": 0.08
+      },
+      "intent": "Restrained happy expression, original identity unchanged."
+    },
+    "kaget": {
+      "label": "Kaget",
+      "weights": {
+        "browRaise": 0.55,
+        "eyeWide": 0.2,
+        "mouthOpenSmall": 0.5
+      },
+      "intent": "Small surprise, not exaggerated replacement eyes/mouth."
+    },
+    "mikir": {
+      "label": "Mikir",
+      "weights": {
+        "browTiltL": 0.2,
+        "browTiltR": -0.1,
+        "mouthThought": 0.25
+      },
+      "intent": "Restrained asymmetric interest; optional head/hand gesture is future posing only."
+    },
+    "semangat": {
+      "label": "Semangat",
+      "weights": {
+        "mouthSmile": 0.65,
+        "mouthOpenSmall": 0.15,
+        "eyeSquint": 0.12,
+        "browRaise": 0.15
+      },
+      "intent": "Energetic but recognizable; endpoint needs visual approval."
+    }
+  },
+  "presetValuesAre": "Proposed normalized starting weights only; not implemented or visually approved performance endpoints.",
+  "neutralReset": "Reset every driven transform/morph to approved rest before sampling absolute frame state. Neutral preset leaves all values at defaults.",
+  "combinationRules": [
+    "Interpolate expression weights from neutral; keep morph weights bounded 0..1.",
+    "Normalize competing mouthSmile/mouthOpenSmall/mouthThought budgets to avoid uncontrolled combined expansion.",
+    "Blink overrides eyeWide; independent closure=max(globalBlink, sideBlink).",
+    "Eye direction is independent from emotion presets; pupils and glints travel together.",
+    "Never move or recolor approved jaw/blush/face skin to fake an expression."
+  ],
+  "gazeSafety": "Derive separate left/right/up/down margins from actual pupil+glint and eye-white local bounds. Limit travel to ~80% of each available directional margin; do not assume symmetric travel or let glints escape white.",
+  "exportImplementation": "Planned head-attached transform nodes for gaze/brows, fixed-topology morphs for lids/mouth; no Blender-only drivers at runtime. Bake only after approval.",
+  "futurePerformanceAcceptance": [
+    "neutral round-trip exact",
+    "all five expression endpoints reviewed against concept",
+    "blink fully closes without white/glint leakage",
+    "gaze remains within eye whites",
+    "small mouth motion stays on face plane without z-fighting",
+    "same frame identical after arbitrary seeking"
+  ]
+}

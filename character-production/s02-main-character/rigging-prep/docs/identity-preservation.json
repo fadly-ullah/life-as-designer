@@ -1,0 +1,904 @@
+{
+  "identityApprovalScope": "Visual identity approved by explicit TASK07 user decision; rig/export NOT approved.",
+  "sourceCommit": "aff455385918d8cb13d72123af824156bd771e6a",
+  "sourceSHA256": "207c65282e563de9bb5d13cd1d92b6d603f5664e52b6d6726a274010c31c26ef",
+  "prepSHA256": "2295255c64ffaf9c6687b66566fa6bfb1bc9861d7544a517385e8dfd88f94e6e",
+  "meshObjectsAdded": [],
+  "meshObjectsRemoved": [],
+  "meshChecks": {
+    "Ankle collar.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "f7adc5f8009bc9ce5a0287d01626da8589025ec48c3a413d2a1e92fadb882327",
+      "prepRawSHA256": "f7adc5f8009bc9ce5a0287d01626da8589025ec48c3a413d2a1e92fadb882327",
+      "sourceEvaluatedSHA256": "895b36ee1ac1a52363c314b6bb3c1da8ac4fddc9a1017b219c45bd94722766d0",
+      "prepEvaluatedSHA256": "895b36ee1ac1a52363c314b6bb3c1da8ac4fddc9a1017b219c45bd94722766d0"
+    },
+    "Ankle collar.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "d483c334e2386064b2f959c5529cf9d6bd891e645a0fbf265ad740cc49d8897e",
+      "prepRawSHA256": "d483c334e2386064b2f959c5529cf9d6bd891e645a0fbf265ad740cc49d8897e",
+      "sourceEvaluatedSHA256": "6d898155ec1022ef2aecbec112ce76bf85fbe419a87d08941c6f3100a524cf23",
+      "prepEvaluatedSHA256": "6d898155ec1022ef2aecbec112ce76bf85fbe419a87d08941c6f3100a524cf23"
+    },
+    "Blush.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "2e39151cf0400bddbfcf00120368d44541f7479bfe8f422f9202312dbcc24eb8",
+      "prepRawSHA256": "2e39151cf0400bddbfcf00120368d44541f7479bfe8f422f9202312dbcc24eb8",
+      "sourceEvaluatedSHA256": "70b20d5bdba055a59afa2448d446f84fea3f6da66747d31567a112dd683efce1",
+      "prepEvaluatedSHA256": "70b20d5bdba055a59afa2448d446f84fea3f6da66747d31567a112dd683efce1"
+    },
+    "Blush.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "6c1cb33199c311f579cb8208c0bb8a128b98a49e62bdc082090dc194d59c647e",
+      "prepRawSHA256": "6c1cb33199c311f579cb8208c0bb8a128b98a49e62bdc082090dc194d59c647e",
+      "sourceEvaluatedSHA256": "5ce666fd391e09365f79a7d22f14b0c5e23535ae42c369290785ff86816f2bf2",
+      "prepEvaluatedSHA256": "5ce666fd391e09365f79a7d22f14b0c5e23535ae42c369290785ff86816f2bf2"
+    },
+    "Brow.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "c780daa2ac671d5b374f0a5f6c6a2cd30a7756310e6b43634d723ddfcb3937bd",
+      "prepRawSHA256": "c780daa2ac671d5b374f0a5f6c6a2cd30a7756310e6b43634d723ddfcb3937bd",
+      "sourceEvaluatedSHA256": "72d491d644a2a9a411ca329de7b76c1f599140040591a96aa6a3dd0b72bbddbf",
+      "prepEvaluatedSHA256": "72d491d644a2a9a411ca329de7b76c1f599140040591a96aa6a3dd0b72bbddbf"
+    },
+    "Brow.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "0d955cc0e7b025e7db5e10ec60b9a15dbee4d3a7ca61498b84a2ea500ae48552",
+      "prepRawSHA256": "0d955cc0e7b025e7db5e10ec60b9a15dbee4d3a7ca61498b84a2ea500ae48552",
+      "sourceEvaluatedSHA256": "42eca73e712c91cf5c6a21a2dc901f3d9b7c7a0ef0641dd25e5612de0a1ba000",
+      "prepEvaluatedSHA256": "42eca73e712c91cf5c6a21a2dc901f3d9b7c7a0ef0641dd25e5612de0a1ba000"
+    },
+    "Cord cotton.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "cf92dfb54763c7b27bfc593e39b141cd702bb0ce9cfff7625c0930ffbd312d07",
+      "prepRawSHA256": "cf92dfb54763c7b27bfc593e39b141cd702bb0ce9cfff7625c0930ffbd312d07",
+      "sourceEvaluatedSHA256": "374cbc239ab140e7111b3ecc4a4795cb321fbd85b10e750d03a9b7e070c69185",
+      "prepEvaluatedSHA256": "374cbc239ab140e7111b3ecc4a4795cb321fbd85b10e750d03a9b7e070c69185"
+    },
+    "Cord cotton.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "5c954cf484001a90a95fa82b14afa0235f0c5cd0c467fdcad65f301f2b151ca2",
+      "prepRawSHA256": "5c954cf484001a90a95fa82b14afa0235f0c5cd0c467fdcad65f301f2b151ca2",
+      "sourceEvaluatedSHA256": "0d8153d73d44b3e9ddef37315994149d8034a2c660fddc57742b81e4aad2faaf",
+      "prepEvaluatedSHA256": "0d8153d73d44b3e9ddef37315994149d8034a2c660fddc57742b81e4aad2faaf"
+    },
+    "Cord eyelet.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "da019728756949fc9c6bf5884df0213225d1cf66b9b6d8df79f38e62fcddf12e",
+      "prepRawSHA256": "da019728756949fc9c6bf5884df0213225d1cf66b9b6d8df79f38e62fcddf12e",
+      "sourceEvaluatedSHA256": "97923f4cb6bc684e103101452013acb2a993a94b290f21e16bb18dd3872bfa34",
+      "prepEvaluatedSHA256": "97923f4cb6bc684e103101452013acb2a993a94b290f21e16bb18dd3872bfa34"
+    },
+    "Cord eyelet.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "97dc83387d3232c0ef1ea523bec2a262a16a00a83e8d092f3d84d936a0936966",
+      "prepRawSHA256": "97dc83387d3232c0ef1ea523bec2a262a16a00a83e8d092f3d84d936a0936966",
+      "sourceEvaluatedSHA256": "68b6f555a6f6492fc98dbccf52183c56e57c91641bca25f58f1e30d4491502c8",
+      "prepEvaluatedSHA256": "68b6f555a6f6492fc98dbccf52183c56e57c91641bca25f58f1e30d4491502c8"
+    },
+    "Cuff rib.L.0": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "2c56dd30584d1e956b01343347350b81a51092bffe74aa8380e5933b922f150e",
+      "prepRawSHA256": "2c56dd30584d1e956b01343347350b81a51092bffe74aa8380e5933b922f150e",
+      "sourceEvaluatedSHA256": "50b15e3b4f1a1dab22f77ea1b3b501221627fff51b191de93ac6f4a538e749d9",
+      "prepEvaluatedSHA256": "50b15e3b4f1a1dab22f77ea1b3b501221627fff51b191de93ac6f4a538e749d9"
+    },
+    "Cuff rib.L.1": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "ae9604851e19a830fe8586993a2d3b15b737da8e9fc1640dce42efea627457d7",
+      "prepRawSHA256": "ae9604851e19a830fe8586993a2d3b15b737da8e9fc1640dce42efea627457d7",
+      "sourceEvaluatedSHA256": "7308293e567d7d281a25c9a7c1c13c9fb6b8f5d2ff77789f94ee4faf276b9491",
+      "prepEvaluatedSHA256": "7308293e567d7d281a25c9a7c1c13c9fb6b8f5d2ff77789f94ee4faf276b9491"
+    },
+    "Cuff rib.L.2": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "401819fb761915aa03f7b15ff623a679c5ae4c3f7d85e14113df004a2e07a6aa",
+      "prepRawSHA256": "401819fb761915aa03f7b15ff623a679c5ae4c3f7d85e14113df004a2e07a6aa",
+      "sourceEvaluatedSHA256": "509691d96541a0a4cb85d90252de3cc84612853e14d90fc4e3daed62d073b150",
+      "prepEvaluatedSHA256": "509691d96541a0a4cb85d90252de3cc84612853e14d90fc4e3daed62d073b150"
+    },
+    "Cuff rib.L.3": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "726612dfbf7c992395d9da4b8a7a0d6911fbb5e37947240191009bda3d3034ad",
+      "prepRawSHA256": "726612dfbf7c992395d9da4b8a7a0d6911fbb5e37947240191009bda3d3034ad",
+      "sourceEvaluatedSHA256": "ecd499ede1cf2eca69da1f219405df8f707f83b64c27f7eda393f3cf7a511007",
+      "prepEvaluatedSHA256": "ecd499ede1cf2eca69da1f219405df8f707f83b64c27f7eda393f3cf7a511007"
+    },
+    "Cuff rib.L.4": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "34a663c356f5404cf1e52a2890401b9f7d4172e91d4150f9ecbc9bdf618753b1",
+      "prepRawSHA256": "34a663c356f5404cf1e52a2890401b9f7d4172e91d4150f9ecbc9bdf618753b1",
+      "sourceEvaluatedSHA256": "67275c172fd678c67687814ccd848ead29c22215957a9fa53b5ab124bfbc2ada",
+      "prepEvaluatedSHA256": "67275c172fd678c67687814ccd848ead29c22215957a9fa53b5ab124bfbc2ada"
+    },
+    "Cuff rib.L.5": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "bf1c2d0b848a4ad2811dd1cf41fbbacea99bbf4ea44eba16676fb9ca153489f5",
+      "prepRawSHA256": "bf1c2d0b848a4ad2811dd1cf41fbbacea99bbf4ea44eba16676fb9ca153489f5",
+      "sourceEvaluatedSHA256": "6fd083644f97799971d75566a4fa4b8998110a9a48fa740c475194a83009810e",
+      "prepEvaluatedSHA256": "6fd083644f97799971d75566a4fa4b8998110a9a48fa740c475194a83009810e"
+    },
+    "Cuff rib.R.0": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "601826e3747a6072d37a9ecd40511c1528bc1f0c3131c38f9640f4db9ffe4a75",
+      "prepRawSHA256": "601826e3747a6072d37a9ecd40511c1528bc1f0c3131c38f9640f4db9ffe4a75",
+      "sourceEvaluatedSHA256": "f9b0ed27c887b8712f859e4ba7b299cbdbe8de3f7d505fca5394c1f94abd0762",
+      "prepEvaluatedSHA256": "f9b0ed27c887b8712f859e4ba7b299cbdbe8de3f7d505fca5394c1f94abd0762"
+    },
+    "Cuff rib.R.1": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "1f0ccd74106e0b2ed34ec5e3909fb7693ae9dd4185b0067873ea07292ba0200e",
+      "prepRawSHA256": "1f0ccd74106e0b2ed34ec5e3909fb7693ae9dd4185b0067873ea07292ba0200e",
+      "sourceEvaluatedSHA256": "36a060901b21597407661b3e67e59a3d16b3ed303c21f3561030442b0d43f3e5",
+      "prepEvaluatedSHA256": "36a060901b21597407661b3e67e59a3d16b3ed303c21f3561030442b0d43f3e5"
+    },
+    "Cuff rib.R.2": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "e8b5701ae938cefc7a86a3c33af3a3760e627c0860072c23335585a4fdad2418",
+      "prepRawSHA256": "e8b5701ae938cefc7a86a3c33af3a3760e627c0860072c23335585a4fdad2418",
+      "sourceEvaluatedSHA256": "b688f342789a6cc8e39289355537a67b400c807ada5fccee1fffd130b8d9d8cb",
+      "prepEvaluatedSHA256": "b688f342789a6cc8e39289355537a67b400c807ada5fccee1fffd130b8d9d8cb"
+    },
+    "Cuff rib.R.3": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "53429fe84bcec200eb3b4ebebb0140a076641fa825d5aa56f8486ff2520bbf5d",
+      "prepRawSHA256": "53429fe84bcec200eb3b4ebebb0140a076641fa825d5aa56f8486ff2520bbf5d",
+      "sourceEvaluatedSHA256": "e94d9d21844184fac5cbe7929edf7c92b72aaf0c86c6370e2686a3dedf6c75c9",
+      "prepEvaluatedSHA256": "e94d9d21844184fac5cbe7929edf7c92b72aaf0c86c6370e2686a3dedf6c75c9"
+    },
+    "Cuff rib.R.4": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "3fdae4a45220ad90db7ca8f6e25afa2fc115313235059f3e064fea5c1e8a8c00",
+      "prepRawSHA256": "3fdae4a45220ad90db7ca8f6e25afa2fc115313235059f3e064fea5c1e8a8c00",
+      "sourceEvaluatedSHA256": "8f596fe4a1652a4928368d33141cff97cce64d4255a7b0d00cb25671ba939cd8",
+      "prepEvaluatedSHA256": "8f596fe4a1652a4928368d33141cff97cce64d4255a7b0d00cb25671ba939cd8"
+    },
+    "Cuff rib.R.5": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "0affc564d2fa814b1146705fae6c78380574bf6d66e7c449327df28fec181aa3",
+      "prepRawSHA256": "0affc564d2fa814b1146705fae6c78380574bf6d66e7c449327df28fec181aa3",
+      "sourceEvaluatedSHA256": "2a30025aa8467ba5e757a1e24cc7e595f42a96a0c7540146abe66ddcbdc39cc8",
+      "prepEvaluatedSHA256": "2a30025aa8467ba5e757a1e24cc7e595f42a96a0c7540146abe66ddcbdc39cc8"
+    },
+    "Cuff | shaped rib knit.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "3680101e5c1bcb0f8cc3ef4112bb5e628ffb19d02e886feec7518ba54a745a15",
+      "prepRawSHA256": "3680101e5c1bcb0f8cc3ef4112bb5e628ffb19d02e886feec7518ba54a745a15",
+      "sourceEvaluatedSHA256": "940885e742e73b86d2c23e15d7eed3ef0efe86cb9157f9cd9b7b5c95f7b00a6f",
+      "prepEvaluatedSHA256": "940885e742e73b86d2c23e15d7eed3ef0efe86cb9157f9cd9b7b5c95f7b00a6f"
+    },
+    "Cuff | shaped rib knit.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "c5db9b6eecb1c3d8083c53b273a2a58f5a4cc37bb9ddd7d83ba8336bce9c1b84",
+      "prepRawSHA256": "c5db9b6eecb1c3d8083c53b273a2a58f5a4cc37bb9ddd7d83ba8336bce9c1b84",
+      "sourceEvaluatedSHA256": "9b54c2c1267873bbb03f0c6f429b8605ee07ca3af4398f9cda523ca040430caa",
+      "prepEvaluatedSHA256": "9b54c2c1267873bbb03f0c6f429b8605ee07ca3af4398f9cda523ca040430caa"
+    },
+    "Ear inner.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "336fb3aab1fe7d7cd25221799e81b1a6e4bf887173dc0f900d62b98a8293ec20",
+      "prepRawSHA256": "336fb3aab1fe7d7cd25221799e81b1a6e4bf887173dc0f900d62b98a8293ec20",
+      "sourceEvaluatedSHA256": "023b1b494114b1b07edbceb1183cb9944d7ac318ee193e4ea4fe998848f4ae24",
+      "prepEvaluatedSHA256": "023b1b494114b1b07edbceb1183cb9944d7ac318ee193e4ea4fe998848f4ae24"
+    },
+    "Ear inner.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "d27a7fa42656cea06e9a043a473df7688aedbc8b9070d1c56d47093c3e2a6c83",
+      "prepRawSHA256": "d27a7fa42656cea06e9a043a473df7688aedbc8b9070d1c56d47093c3e2a6c83",
+      "sourceEvaluatedSHA256": "7f87eb989911f40092dab025de3e85d9e4d1d6b67f175ed90ceab05afadb98f7",
+      "prepEvaluatedSHA256": "7f87eb989911f40092dab025de3e85d9e4d1d6b67f175ed90ceab05afadb98f7"
+    },
+    "Ear.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "5e53bb552653387c50f67a46dd05bd457083059adb76233bfbe92a402eb7f13c",
+      "prepRawSHA256": "5e53bb552653387c50f67a46dd05bd457083059adb76233bfbe92a402eb7f13c",
+      "sourceEvaluatedSHA256": "e3d755a87b205d96704d5de14054182d53b83d4d4dace0e580ede987f05dc7e5",
+      "prepEvaluatedSHA256": "e3d755a87b205d96704d5de14054182d53b83d4d4dace0e580ede987f05dc7e5"
+    },
+    "Ear.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "653122af0a42e5a7739b502e7860a8458d6caa8c7ed7e83cef20e20ca50d230b",
+      "prepRawSHA256": "653122af0a42e5a7739b502e7860a8458d6caa8c7ed7e83cef20e20ca50d230b",
+      "sourceEvaluatedSHA256": "291d9ae0dd2ad65a6229789db43fef911ab9be1ac82cf6b03a6e6da95aeddc81",
+      "prepEvaluatedSHA256": "291d9ae0dd2ad65a6229789db43fef911ab9be1ac82cf6b03a6e6da95aeddc81"
+    },
+    "Evaluation floor": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "9c6b39654a2f21f554409c92e7fc719ad169b70a015dc5c34516942e292425b9",
+      "prepRawSHA256": "9c6b39654a2f21f554409c92e7fc719ad169b70a015dc5c34516942e292425b9",
+      "sourceEvaluatedSHA256": "94d0fe0d4af4fd95cd6576b4bace8e8aeea38fb79b6cae0aeab35fe4677a6cc0",
+      "prepEvaluatedSHA256": "94d0fe0d4af4fd95cd6576b4bace8e8aeea38fb79b6cae0aeab35fe4677a6cc0"
+    },
+    "Eye glint.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "2b5af5ab0258e35e9f074cb1389b01e334b4f965c93ca7c4f05df42474dce2e9",
+      "prepRawSHA256": "2b5af5ab0258e35e9f074cb1389b01e334b4f965c93ca7c4f05df42474dce2e9",
+      "sourceEvaluatedSHA256": "44d02c127853f0b82c1d55ab988bf38470da751fa603f6f3737ab4d635e22918",
+      "prepEvaluatedSHA256": "44d02c127853f0b82c1d55ab988bf38470da751fa603f6f3737ab4d635e22918"
+    },
+    "Eye glint.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "80fd065ce183eab235344146749b83da11c3c99edf4722d9e2444e4bfd702b58",
+      "prepRawSHA256": "80fd065ce183eab235344146749b83da11c3c99edf4722d9e2444e4bfd702b58",
+      "sourceEvaluatedSHA256": "7e5c0b7b91018974ee63e54594588aabf3b4bdc17c07b3c6ba9021bc3f011694",
+      "prepEvaluatedSHA256": "7e5c0b7b91018974ee63e54594588aabf3b4bdc17c07b3c6ba9021bc3f011694"
+    },
+    "Eye white.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "64f3e79ed17903f6de3a8dae554c860b11067c2c3a851d2b7a745b8ef4029863",
+      "prepRawSHA256": "64f3e79ed17903f6de3a8dae554c860b11067c2c3a851d2b7a745b8ef4029863",
+      "sourceEvaluatedSHA256": "3e40c18a18ced4ec6e4d21282af2ee558c59dd328c89ea9fcd08d758705931bc",
+      "prepEvaluatedSHA256": "3e40c18a18ced4ec6e4d21282af2ee558c59dd328c89ea9fcd08d758705931bc"
+    },
+    "Eye white.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "6ad223a4db6622b174d262b6bd912867ab0c3d8b918b33397ef7935eac4681d7",
+      "prepRawSHA256": "6ad223a4db6622b174d262b6bd912867ab0c3d8b918b33397ef7935eac4681d7",
+      "sourceEvaluatedSHA256": "d53b7484d809b46371f8be3cd2af8f8bba41a332fecc2fe8c145e70d47e1153e",
+      "prepEvaluatedSHA256": "d53b7484d809b46371f8be3cd2af8f8bba41a332fecc2fe8c145e70d47e1153e"
+    },
+    "Finger crease.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "a3ed62189fa0e18ff3e52097d36131cda72fbb2ed50fa405d99ff2c8e3435fd6",
+      "prepRawSHA256": "a3ed62189fa0e18ff3e52097d36131cda72fbb2ed50fa405d99ff2c8e3435fd6",
+      "sourceEvaluatedSHA256": "baec9a49e22f88b5d1e213f056ecb5d75e3726730c3d11f29768b09f6da8fc77",
+      "prepEvaluatedSHA256": "baec9a49e22f88b5d1e213f056ecb5d75e3726730c3d11f29768b09f6da8fc77"
+    },
+    "Finger crease.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "c5ca5596227b0ece1d45e3b3d58b3fdb7219a8affc748cbc276c7a32b0485fab",
+      "prepRawSHA256": "c5ca5596227b0ece1d45e3b3d58b3fdb7219a8affc748cbc276c7a32b0485fab",
+      "sourceEvaluatedSHA256": "287ebfcb03df0f006950d90fe0f2792ebba7f197355351e0b4dbc4101c3c7c33",
+      "prepEvaluatedSHA256": "287ebfcb03df0f006950d90fe0f2792ebba7f197355351e0b4dbc4101c3c7c33"
+    },
+    "Hair | fitted dark foundation": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "0bfb5f3ec6162a00464126aaf27d48b899a12686fc58c58dfe1767f2bdc0bd8b",
+      "prepRawSHA256": "0bfb5f3ec6162a00464126aaf27d48b899a12686fc58c58dfe1767f2bdc0bd8b",
+      "sourceEvaluatedSHA256": "e1d4a15b09efffc91782d7864f40487d783e2b9f3f0d1e09e29cd443db9ce559",
+      "prepEvaluatedSHA256": "e1d4a15b09efffc91782d7864f40487d783e2b9f3f0d1e09e29cd443db9ce559"
+    },
+    "Hair | L low-side": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "be3ba6425600897ad2da7b1ef4db17f10de7103c4f271c6c737dbd1fb3158abd",
+      "prepRawSHA256": "be3ba6425600897ad2da7b1ef4db17f10de7103c4f271c6c737dbd1fb3158abd",
+      "sourceEvaluatedSHA256": "a69fab445acd6c4585d57e611a243f57ecd68640561684e5e281b0eae75ea139",
+      "prepEvaluatedSHA256": "a69fab445acd6c4585d57e611a243f57ecd68640561684e5e281b0eae75ea139"
+    },
+    "Hair | L rear-low": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "e5e8b3ae5b665a1e5c55711c8f3b971f544c720f0e2803723c49c69f39d2d7bd",
+      "prepRawSHA256": "e5e8b3ae5b665a1e5c55711c8f3b971f544c720f0e2803723c49c69f39d2d7bd",
+      "sourceEvaluatedSHA256": "e0ec74628081805e90c6fb2aa40da6d3a5e78aa38e6d3213b1b08e0d713afa7d",
+      "prepEvaluatedSHA256": "e0ec74628081805e90c6fb2aa40da6d3a5e78aa38e6d3213b1b08e0d713afa7d"
+    },
+    "Hair | L sideburn": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "f51062a4706fa59c281d30af91272ddd280b3336d34e9414b42a4efc88028c5e",
+      "prepRawSHA256": "f51062a4706fa59c281d30af91272ddd280b3336d34e9414b42a4efc88028c5e",
+      "sourceEvaluatedSHA256": "a724820b96b0b0b7a611c328edd61210338d9369653a7b3ba46e43a6024845f2",
+      "prepEvaluatedSHA256": "a724820b96b0b0b7a611c328edd61210338d9369653a7b3ba46e43a6024845f2"
+    },
+    "Hair | M03 crown step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "1c425081238a2bb7c9e9242f17466081d3af78228efb655fe4208f127f0caf1c",
+      "prepRawSHA256": "1c425081238a2bb7c9e9242f17466081d3af78228efb655fe4208f127f0caf1c",
+      "sourceEvaluatedSHA256": "870c6a190594e37baf42803b06f0adc5e914d4d772ab74776ec565a9a6cf8f42",
+      "prepEvaluatedSHA256": "870c6a190594e37baf42803b06f0adc5e914d4d772ab74776ec565a9a6cf8f42"
+    },
+    "Hair | M03 rear lower": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "2cf78dd3ebfae80511f8714f9876ee1dfd48efd08ede675b8ea77a726a90f624",
+      "prepRawSHA256": "2cf78dd3ebfae80511f8714f9876ee1dfd48efd08ede675b8ea77a726a90f624",
+      "sourceEvaluatedSHA256": "4f19a50af864556f9c578a5b55642c2629834c9d270a255870f95a8d5e74619f",
+      "prepEvaluatedSHA256": "4f19a50af864556f9c578a5b55642c2629834c9d270a255870f95a8d5e74619f"
+    },
+    "Hair | M03 rear middle": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "604b4d4d2d95e2201deab645074689fb2faf46579d6f079feb6b2e03294398e0",
+      "prepRawSHA256": "604b4d4d2d95e2201deab645074689fb2faf46579d6f079feb6b2e03294398e0",
+      "sourceEvaluatedSHA256": "18ed20e7d0f3b8be33667457747df5b3c6055ff80f60a8a0bb5279444b2de502",
+      "prepEvaluatedSHA256": "18ed20e7d0f3b8be33667457747df5b3c6055ff80f60a8a0bb5279444b2de502"
+    },
+    "Hair | M03 rear upper": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "2641e80f85445a57d5853332ef77488e8b92bec05f44aaabb201db19007816df",
+      "prepRawSHA256": "2641e80f85445a57d5853332ef77488e8b92bec05f44aaabb201db19007816df",
+      "sourceEvaluatedSHA256": "5d426d50f002a4adfa25ea32336d868a845af391215a55ed32c55d91ef0479f0",
+      "prepEvaluatedSHA256": "5d426d50f002a4adfa25ea32336d868a845af391215a55ed32c55d91ef0479f0"
+    },
+    "Hair | M04 connected upper layer": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "7a26c427fd34fdf5657fdda66574964003e44c5d87cef1f485806bc38e3d070a",
+      "prepRawSHA256": "7a26c427fd34fdf5657fdda66574964003e44c5d87cef1f485806bc38e3d070a",
+      "sourceEvaluatedSHA256": "2ab348f39cc75ffe91ac9853b60d05ef3ae9b60011839d6e19acfab7e86fae4e",
+      "prepEvaluatedSHA256": "2ab348f39cc75ffe91ac9853b60d05ef3ae9b60011839d6e19acfab7e86fae4e"
+    },
+    "Hair | M04 L lower side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "01fd0f8eba44962a079e46f3141ea63b366768072182d3f1401e04ea01db3ea8",
+      "prepRawSHA256": "01fd0f8eba44962a079e46f3141ea63b366768072182d3f1401e04ea01db3ea8",
+      "sourceEvaluatedSHA256": "bd5cb781b7b7986b3044334d34ccc5d98d975c1fe025061da67d8176a8f45218",
+      "prepEvaluatedSHA256": "bd5cb781b7b7986b3044334d34ccc5d98d975c1fe025061da67d8176a8f45218"
+    },
+    "Hair | M04 L upper side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "bd86e98eeded0c1cacfb73483ca0c9de9038b871d82808097a7de6b025a21fcc",
+      "prepRawSHA256": "bd86e98eeded0c1cacfb73483ca0c9de9038b871d82808097a7de6b025a21fcc",
+      "sourceEvaluatedSHA256": "34a861d8135b9102c39cbadba6c082b6d8b66a1a740c3c1083ee6adc178d1094",
+      "prepEvaluatedSHA256": "34a861d8135b9102c39cbadba6c082b6d8b66a1a740c3c1083ee6adc178d1094"
+    },
+    "Hair | M04 R lower side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "5bf3d93e81613901fca994a4f7f47fba8c1e69fd3c934d7c65488cea9b4f4c7b",
+      "prepRawSHA256": "5bf3d93e81613901fca994a4f7f47fba8c1e69fd3c934d7c65488cea9b4f4c7b",
+      "sourceEvaluatedSHA256": "4a915873ca82085ad0a1aff7c54c2f5655ac3df6d67fc008e9a92f7efc22b91f",
+      "prepEvaluatedSHA256": "4a915873ca82085ad0a1aff7c54c2f5655ac3df6d67fc008e9a92f7efc22b91f"
+    },
+    "Hair | M04 R upper side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "9b49455161ac3056577471d322e8dc1ca73c42cfaa0a41548fe42adbd4eeaa58",
+      "prepRawSHA256": "9b49455161ac3056577471d322e8dc1ca73c42cfaa0a41548fe42adbd4eeaa58",
+      "sourceEvaluatedSHA256": "9c4fc1e2c2dff5fe39ddbd06f1ef3e44fad27bbe4d887f8646d851d34f190ec9",
+      "prepEvaluatedSHA256": "9c4fc1e2c2dff5fe39ddbd06f1ef3e44fad27bbe4d887f8646d851d34f190ec9"
+    },
+    "Hair | M04 stepped fringe": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "9a0230b6ce321f86dca5ea88f621e963d3fd95fb1391794015c2d8357c752280",
+      "prepRawSHA256": "9a0230b6ce321f86dca5ea88f621e963d3fd95fb1391794015c2d8357c752280",
+      "sourceEvaluatedSHA256": "d02efa9a092911144b907c6b02062b496eafd2cbeb2a718f7e456606f294df00",
+      "prepEvaluatedSHA256": "d02efa9a092911144b907c6b02062b496eafd2cbeb2a718f7e456606f294df00"
+    },
+    "Hair | parted right ridge": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "5ce0ff3a9c6320e68f68f71ec6988b8301ca4eef0885607cc7d78d81803f8797",
+      "prepRawSHA256": "5ce0ff3a9c6320e68f68f71ec6988b8301ca4eef0885607cc7d78d81803f8797",
+      "sourceEvaluatedSHA256": "f2c74bfad5ca92df65e1ce00b0df3e0dd1c10c8c72b25bbc9e912f9e0cb82d5d",
+      "prepEvaluatedSHA256": "f2c74bfad5ca92df65e1ce00b0df3e0dd1c10c8c72b25bbc9e912f9e0cb82d5d"
+    },
+    "Hair | Polish L center side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "ff1a1001a05d2302f200804875d60a8898dcc21757317d524503756ba11b0cb3",
+      "prepRawSHA256": "ff1a1001a05d2302f200804875d60a8898dcc21757317d524503756ba11b0cb3",
+      "sourceEvaluatedSHA256": "5f492a236a8dac7c571e285eaf8d37bc77f5ac8925e4c759799a44fb37a60010",
+      "prepEvaluatedSHA256": "5f492a236a8dac7c571e285eaf8d37bc77f5ac8925e4c759799a44fb37a60010"
+    },
+    "Hair | Polish L rear side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "f1a92e4c82e9a003a6eb0ed0ecc19b081c0dc3d5be9222ed44dd811072892a92",
+      "prepRawSHA256": "f1a92e4c82e9a003a6eb0ed0ecc19b081c0dc3d5be9222ed44dd811072892a92",
+      "sourceEvaluatedSHA256": "0d616d873b36970e695fd662a9335a33ed2133b23e786818cb6c29e852f72d3f",
+      "prepEvaluatedSHA256": "0d616d873b36970e695fd662a9335a33ed2133b23e786818cb6c29e852f72d3f"
+    },
+    "Hair | Polish L temple step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "143c840da3a867ccc02f4379e94f177ba397a1739a3f515fcd28ef0f8524636a",
+      "prepRawSHA256": "143c840da3a867ccc02f4379e94f177ba397a1739a3f515fcd28ef0f8524636a",
+      "sourceEvaluatedSHA256": "b86bcde249eb4cc4f629b7b9e736e982df771cc5501e9fc437248edcd28851e0",
+      "prepEvaluatedSHA256": "b86bcde249eb4cc4f629b7b9e736e982df771cc5501e9fc437248edcd28851e0"
+    },
+    "Hair | Polish L upper stagger": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "b36f31cc79e8a139adc08dcf82414d33bb9c3296f169c7b20d4eb09ba7061bf3",
+      "prepRawSHA256": "b36f31cc79e8a139adc08dcf82414d33bb9c3296f169c7b20d4eb09ba7061bf3",
+      "sourceEvaluatedSHA256": "ed11207dbab68315d1abae2a0649c95da4ee626276a3a76ab516d81640456c7b",
+      "prepEvaluatedSHA256": "ed11207dbab68315d1abae2a0649c95da4ee626276a3a76ab516d81640456c7b"
+    },
+    "Hair | Polish R center side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "da5ad7b75f8aa2c476e7dde71f7c62fdfd52bb9eb66d53ec8f767626f89faa4a",
+      "prepRawSHA256": "da5ad7b75f8aa2c476e7dde71f7c62fdfd52bb9eb66d53ec8f767626f89faa4a",
+      "sourceEvaluatedSHA256": "38585c8b95bc688d79cdb2d00f99349ed109c6d991111f803d95788e603f07a5",
+      "prepEvaluatedSHA256": "38585c8b95bc688d79cdb2d00f99349ed109c6d991111f803d95788e603f07a5"
+    },
+    "Hair | Polish R rear side step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "6e805ab2b927b559bcbdb80b4c683aa4deb14bd9ba0339512b6924abd14acbb3",
+      "prepRawSHA256": "6e805ab2b927b559bcbdb80b4c683aa4deb14bd9ba0339512b6924abd14acbb3",
+      "sourceEvaluatedSHA256": "cfae9df82ed69fc0e0dc4182cef7923a6b4bd057950972a3f86d0dacd3eb9003",
+      "prepEvaluatedSHA256": "cfae9df82ed69fc0e0dc4182cef7923a6b4bd057950972a3f86d0dacd3eb9003"
+    },
+    "Hair | Polish R temple step": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "bc1506e0b1ee7ef141986b899440eaa837002cc7a3a4502a10651362f53be838",
+      "prepRawSHA256": "bc1506e0b1ee7ef141986b899440eaa837002cc7a3a4502a10651362f53be838",
+      "sourceEvaluatedSHA256": "fd24ddc2a3bb95c9d868826220514f406b1e3ffed03658e240e9be05bc7e9f4e",
+      "prepEvaluatedSHA256": "fd24ddc2a3bb95c9d868826220514f406b1e3ffed03658e240e9be05bc7e9f4e"
+    },
+    "Hair | Polish R upper stagger": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "448c0cc0440e21e12e5539ed7ba26227a63a597e36dda6ef9e5189b3d042fc04",
+      "prepRawSHA256": "448c0cc0440e21e12e5539ed7ba26227a63a597e36dda6ef9e5189b3d042fc04",
+      "sourceEvaluatedSHA256": "03f5d51adca4a53fec5342bb4f256aab466b9596efdb3e1fce69f69cdb90936e",
+      "prepEvaluatedSHA256": "03f5d51adca4a53fec5342bb4f256aab466b9596efdb3e1fce69f69cdb90936e"
+    },
+    "Hair | Polish rear central middle": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "93e26fa1dcec9e191cbe4a6208fb715e7e5b66d8d9664f6bf5fa684f71df42a5",
+      "prepRawSHA256": "93e26fa1dcec9e191cbe4a6208fb715e7e5b66d8d9664f6bf5fa684f71df42a5",
+      "sourceEvaluatedSHA256": "823d8ec395e20c8be18139c71713fee1b5525ae10a49e9821133280b77e45727",
+      "prepEvaluatedSHA256": "823d8ec395e20c8be18139c71713fee1b5525ae10a49e9821133280b77e45727"
+    },
+    "Hair | Polish rear left middle": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "55bc8998a3c34ddaa148a99b1024d9cbb47402998f841547959d95b664e6d99b",
+      "prepRawSHA256": "55bc8998a3c34ddaa148a99b1024d9cbb47402998f841547959d95b664e6d99b",
+      "sourceEvaluatedSHA256": "45cbbfb5f081a3da6e577154e3d29f79e5d759bf9bdb7b309ebeb0a2d1bf285b",
+      "prepEvaluatedSHA256": "45cbbfb5f081a3da6e577154e3d29f79e5d759bf9bdb7b309ebeb0a2d1bf285b"
+    },
+    "Hair | Polish rear lower sweep": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "1106b58c3a03a692f90c62586f634e239ab5c7459f7fcc63b88b17673b86c6c1",
+      "prepRawSHA256": "1106b58c3a03a692f90c62586f634e239ab5c7459f7fcc63b88b17673b86c6c1",
+      "sourceEvaluatedSHA256": "c83d2f1ca07a0f1d0e2a5492934be9deaeb22d838a4c146e02c04649be97720a",
+      "prepEvaluatedSHA256": "c83d2f1ca07a0f1d0e2a5492934be9deaeb22d838a4c146e02c04649be97720a"
+    },
+    "Hair | Polish rear right middle": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "45f1ec016d561266f8230e9b83918d73cfb67feed4942e8ef85abcccbc5e0910",
+      "prepRawSHA256": "45f1ec016d561266f8230e9b83918d73cfb67feed4942e8ef85abcccbc5e0910",
+      "sourceEvaluatedSHA256": "894a95c630e0e57303f5528925778d8631a94f1f314dd2254dcd1e0102b2a0ba",
+      "prepEvaluatedSHA256": "894a95c630e0e57303f5528925778d8631a94f1f314dd2254dcd1e0102b2a0ba"
+    },
+    "Hair | Polish rear upper left": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "8d95a714b1647bfcb3231fc60da47c37490d56812f84d80e50504baedf4c207f",
+      "prepRawSHA256": "8d95a714b1647bfcb3231fc60da47c37490d56812f84d80e50504baedf4c207f",
+      "sourceEvaluatedSHA256": "c7cce6112e04bc935b48b3a721ae457d347fdfebd8e91ea1281f9a52d89fa50a",
+      "prepEvaluatedSHA256": "c7cce6112e04bc935b48b3a721ae457d347fdfebd8e91ea1281f9a52d89fa50a"
+    },
+    "Hair | Polish rear upper right": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "4acbf7e27761c0de4b1581af92592f353567168ef08a1638fb892500c3fd06c5",
+      "prepRawSHA256": "4acbf7e27761c0de4b1581af92592f353567168ef08a1638fb892500c3fd06c5",
+      "sourceEvaluatedSHA256": "ff3d433bc52410cf464f9d270a142243e7f36a2c75fd5a1f84538396f8a57bfb",
+      "prepEvaluatedSHA256": "ff3d433bc52410cf464f9d270a142243e7f36a2c75fd5a1f84538396f8a57bfb"
+    },
+    "Hair | R low-side": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "285111e2f87281b38b3cd32d44c047cf96a09d43f31462b9c3a7a7a4177c370b",
+      "prepRawSHA256": "285111e2f87281b38b3cd32d44c047cf96a09d43f31462b9c3a7a7a4177c370b",
+      "sourceEvaluatedSHA256": "ca841f0c8a8f8cc515c6471c47d5fa2c69e83e499d90d6d945c6e0f5b5d812e1",
+      "prepEvaluatedSHA256": "ca841f0c8a8f8cc515c6471c47d5fa2c69e83e499d90d6d945c6e0f5b5d812e1"
+    },
+    "Hair | R rear-low": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "8d8916013c995927a83be13e4766f5b52bbbda25a1fba567f3e8ddd9e0770875",
+      "prepRawSHA256": "8d8916013c995927a83be13e4766f5b52bbbda25a1fba567f3e8ddd9e0770875",
+      "sourceEvaluatedSHA256": "223842d58c3a59b99777fe0d036f639b9d25af9f76704292fe322b403b03a089",
+      "prepEvaluatedSHA256": "223842d58c3a59b99777fe0d036f639b9d25af9f76704292fe322b403b03a089"
+    },
+    "Hair | R sideburn": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "a0ecaa7ded919f8dd2777ab4a32ec8bd45eebdf4a730931b9eb08b1b1512f38f",
+      "prepRawSHA256": "a0ecaa7ded919f8dd2777ab4a32ec8bd45eebdf4a730931b9eb08b1b1512f38f",
+      "sourceEvaluatedSHA256": "cb552196a52e052288b1d0061d4a9c91dbba092c700d969becb4b4f44ae15f89",
+      "prepEvaluatedSHA256": "cb552196a52e052288b1d0061d4a9c91dbba092c700d969becb4b4f44ae15f89"
+    },
+    "Hair | rear crown fan": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "9b878baa35bb473d56e5e6eb992e351f4c67b5fc97fe548c0cb4c059f1671d91",
+      "prepRawSHA256": "9b878baa35bb473d56e5e6eb992e351f4c67b5fc97fe548c0cb4c059f1671d91",
+      "sourceEvaluatedSHA256": "9626d7460a2ebdb24d978665b9860840f2b9877a51f22f9d85b5d3dd590573a2",
+      "prepEvaluatedSHA256": "9626d7460a2ebdb24d978665b9860840f2b9877a51f22f9d85b5d3dd590573a2"
+    },
+    "Head | refined cheek-jaw planes": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "ed3d39de2c175fb154826303053373741474ff52f4d799586b24aacaea701b3d",
+      "prepRawSHA256": "ed3d39de2c175fb154826303053373741474ff52f4d799586b24aacaea701b3d",
+      "sourceEvaluatedSHA256": "d062b56f9015453d38645ef497786a20b5fcf77ec1fbba60e769acd444f3eec0",
+      "prepEvaluatedSHA256": "d062b56f9015453d38645ef497786a20b5fcf77ec1fbba60e769acd444f3eec0"
+    },
+    "Hem fold.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "d3ba3372b584365ca03607e57ccf1078a5c585722b86e966dd9ff08b6d436e60",
+      "prepRawSHA256": "d3ba3372b584365ca03607e57ccf1078a5c585722b86e966dd9ff08b6d436e60",
+      "sourceEvaluatedSHA256": "0db671de45f1b20a1d6218330c96520ca123af080632d26c4d9ee7452a253066",
+      "prepEvaluatedSHA256": "0db671de45f1b20a1d6218330c96520ca123af080632d26c4d9ee7452a253066"
+    },
+    "Hem fold.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "c7f69770383a841cdbc40f993f13a8c0b0a36bc79d534220203e8fcf12f6673e",
+      "prepRawSHA256": "c7f69770383a841cdbc40f993f13a8c0b0a36bc79d534220203e8fcf12f6673e",
+      "sourceEvaluatedSHA256": "90503ff8a1b0c04ad2af5bf116d67fadfbd8fbe754191d551e030760de20222b",
+      "prepEvaluatedSHA256": "90503ff8a1b0c04ad2af5bf116d67fadfbd8fbe754191d551e030760de20222b"
+    },
+    "Hem seam | front": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "d16248d66beca950e5640d1a0971d9ed36f6cbfc50155aa985c01a7289053a35",
+      "prepRawSHA256": "d16248d66beca950e5640d1a0971d9ed36f6cbfc50155aa985c01a7289053a35",
+      "sourceEvaluatedSHA256": "c5fc21ca4b26437e6a89f87e71781f03d00318eb0a7f1c70a946fc32bec65f15",
+      "prepEvaluatedSHA256": "c5fc21ca4b26437e6a89f87e71781f03d00318eb0a7f1c70a946fc32bec65f15"
+    },
+    "Hood back seam": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "32e88026135be506801dc912ec2067795fa13f7893b60970d4c22767188ebb71",
+      "prepRawSHA256": "32e88026135be506801dc912ec2067795fa13f7893b60970d4c22767188ebb71",
+      "sourceEvaluatedSHA256": "447cefee894a48e69b89fcb513cdf28414b5b21ba788b717463a02ca7401f917",
+      "prepEvaluatedSHA256": "447cefee894a48e69b89fcb513cdf28414b5b21ba788b717463a02ca7401f917"
+    },
+    "Hood | draped back shell": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "bc175391045c118fb5e77348392d828c2f047c634cfcf837485382d12a24fe2d",
+      "prepRawSHA256": "bc175391045c118fb5e77348392d828c2f047c634cfcf837485382d12a24fe2d",
+      "sourceEvaluatedSHA256": "e02c69e2369e788e91ddcb1dad1f4c12a9f48dfd44a786fbca336c746447df0e",
+      "prepEvaluatedSHA256": "e02c69e2369e788e91ddcb1dad1f4c12a9f48dfd44a786fbca336c746447df0e"
+    },
+    "Hood | front folded lip.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "b3d3370c980a0c32f6e813b05decade6a46a594d300235d3b8bc010f87297cc3",
+      "prepRawSHA256": "b3d3370c980a0c32f6e813b05decade6a46a594d300235d3b8bc010f87297cc3",
+      "sourceEvaluatedSHA256": "d73849f71f3c5251b80ef83ee61f4b9ecbd7a3f965c9ee8dae0bf475dae2e8fe",
+      "prepEvaluatedSHA256": "d73849f71f3c5251b80ef83ee61f4b9ecbd7a3f965c9ee8dae0bf475dae2e8fe"
+    },
+    "Hood | front folded lip.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "cc709265fc0ca3bd1784f55aef4cb3e51f9cb3805e80156ca2b3c14cfd532e03",
+      "prepRawSHA256": "cc709265fc0ca3bd1784f55aef4cb3e51f9cb3805e80156ca2b3c14cfd532e03",
+      "sourceEvaluatedSHA256": "157212641b4619e1bf56319b1076ad685d8ff4a0bb4bd70ff9da5946ebfc8b9a",
+      "prepEvaluatedSHA256": "157212641b4619e1bf56319b1076ad685d8ff4a0bb4bd70ff9da5946ebfc8b9a"
+    },
+    "Hood | M04 open U rim": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "a29042e9984a310a878247c720577ec755df66265b8cc29c8c14d7301c0c7128",
+      "prepRawSHA256": "a29042e9984a310a878247c720577ec755df66265b8cc29c8c14d7301c0c7128",
+      "sourceEvaluatedSHA256": "4cab272a63e55bcaf24436511669a77bf01277c96dc04dbf116e37f1f72bb22c",
+      "prepEvaluatedSHA256": "4cab272a63e55bcaf24436511669a77bf01277c96dc04dbf116e37f1f72bb22c"
+    },
+    "Hoodie hem | rib band": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "1a00b9493adf8bd6d38e9038db62ebbc20007f676d20666b97bd344c2d27af0f",
+      "prepRawSHA256": "1a00b9493adf8bd6d38e9038db62ebbc20007f676d20666b97bd344c2d27af0f",
+      "sourceEvaluatedSHA256": "f9ad89839b6ae11bfe3ba69a36817c418878e7fe448163ed8102309d3399cb2d",
+      "prepEvaluatedSHA256": "f9ad89839b6ae11bfe3ba69a36817c418878e7fe448163ed8102309d3399cb2d"
+    },
+    "Hoodie torso | shoulder-chest-waist contour": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "48a838d2bfbf5b90b47a4f91b70d1585cd9bba55d8ea45f3e7a3f6564361e171",
+      "prepRawSHA256": "48a838d2bfbf5b90b47a4f91b70d1585cd9bba55d8ea45f3e7a3f6564361e171",
+      "sourceEvaluatedSHA256": "244955a7f60cc1d69723f2cd7dafad1246e04a7d56e9589e35a664cfe3b6df59",
+      "prepEvaluatedSHA256": "244955a7f60cc1d69723f2cd7dafad1246e04a7d56e9589e35a664cfe3b6df59"
+    },
+    "Kangaroo pouch | M03 rectangular": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "7f7a0dc8a1660879ee4e3a4c4666e5d3b560b3f367de0b3c5699fc19e1748e21",
+      "prepRawSHA256": "7f7a0dc8a1660879ee4e3a4c4666e5d3b560b3f367de0b3c5699fc19e1748e21",
+      "sourceEvaluatedSHA256": "4cf52ee66dcbc535d06d6498229473426bb86ae1776c9808cea444f233ec51f1",
+      "prepEvaluatedSHA256": "4cf52ee66dcbc535d06d6498229473426bb86ae1776c9808cea444f233ec51f1"
+    },
+    "Lime cord end.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "aee7a1b35c8aafffa40db37757a89d0d7bde3e20bd4038a607eaa6532897426b",
+      "prepRawSHA256": "aee7a1b35c8aafffa40db37757a89d0d7bde3e20bd4038a607eaa6532897426b",
+      "sourceEvaluatedSHA256": "e8dba2e667d217e5527a3a402063d12f6b9a351481ce66e95241e62fdf69f585",
+      "prepEvaluatedSHA256": "e8dba2e667d217e5527a3a402063d12f6b9a351481ce66e95241e62fdf69f585"
+    },
+    "Lime cord end.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "4d3a65d4515f3c2a1dc99b7bd4819e9145852d3297e39f6c2b796f2083a01478",
+      "prepRawSHA256": "4d3a65d4515f3c2a1dc99b7bd4819e9145852d3297e39f6c2b796f2083a01478",
+      "sourceEvaluatedSHA256": "65436dcb9a390232cf9a477ca25f8db430ed7fb98e50f0f81a62e2ce12668798",
+      "prepEvaluatedSHA256": "65436dcb9a390232cf9a477ca25f8db430ed7fb98e50f0f81a62e2ce12668798"
+    },
+    "Neck": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "3e8f7da1bedd1d867769f10c6e7554f6a26c99b7b0585c611f0c48c980d11dbd",
+      "prepRawSHA256": "3e8f7da1bedd1d867769f10c6e7554f6a26c99b7b0585c611f0c48c980d11dbd",
+      "sourceEvaluatedSHA256": "5bcbf5dbb9c0928b6476dabf2805b03fdf649ce90236054dc40a1041b982643c",
+      "prepEvaluatedSHA256": "5bcbf5dbb9c0928b6476dabf2805b03fdf649ce90236054dc40a1041b982643c"
+    },
+    "Neutral mouth | original minimal line": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "797d0bdef60656fcce4f039be2283f3ff312d7b6be836d65695ecdb93b1b191c",
+      "prepRawSHA256": "797d0bdef60656fcce4f039be2283f3ff312d7b6be836d65695ecdb93b1b191c",
+      "sourceEvaluatedSHA256": "56564bae3e481671b3d70806636d6693108c97b197b6abab8e86e6ab893a240e",
+      "prepEvaluatedSHA256": "56564bae3e481671b3d70806636d6693108c97b197b6abab8e86e6ab893a240e"
+    },
+    "Nose | small faceted bridge": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "0d1afea88e9661cdd541113685e35a4ffdc2802f16f2e365a9012c8643f62a48",
+      "prepRawSHA256": "0d1afea88e9661cdd541113685e35a4ffdc2802f16f2e365a9012c8643f62a48",
+      "sourceEvaluatedSHA256": "00f58a7def5800827c12d956f44ca270e4803aec77b636c79e4eb425b2f42778",
+      "prepEvaluatedSHA256": "00f58a7def5800827c12d956f44ca270e4803aec77b636c79e4eb425b2f42778"
+    },
+    "Outsole.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "cebb93c6d371f06836ca9c6bf4753dd8ffa406200e5974af034bf69190b90c59",
+      "prepRawSHA256": "cebb93c6d371f06836ca9c6bf4753dd8ffa406200e5974af034bf69190b90c59",
+      "sourceEvaluatedSHA256": "98ff42d88cbdcd3effe12a1fd3aa950ea2eed6dd9cf7e8da2524e172f9cb4663",
+      "prepEvaluatedSHA256": "98ff42d88cbdcd3effe12a1fd3aa950ea2eed6dd9cf7e8da2524e172f9cb4663"
+    },
+    "Outsole.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "75ec57a6b7fcb1db3b0678157c14247ab0452cf779d3f0173a7ab50ee85aa3d8",
+      "prepRawSHA256": "75ec57a6b7fcb1db3b0678157c14247ab0452cf779d3f0173a7ab50ee85aa3d8",
+      "sourceEvaluatedSHA256": "8bfb1be95444df5bb9d7e90c3b01303d7e9cc5184d409f40be0ec5d3623e6a24",
+      "prepEvaluatedSHA256": "8bfb1be95444df5bb9d7e90c3b01303d7e9cc5184d409f40be0ec5d3623e6a24"
+    },
+    "Palm.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "ec85977b916497a092957b1bb225c97cab43344f51b31a727f33d7830b43002d",
+      "prepRawSHA256": "ec85977b916497a092957b1bb225c97cab43344f51b31a727f33d7830b43002d",
+      "sourceEvaluatedSHA256": "cc7218444cae3da194a2366b05bc23fd1f66d3fb8112b755700bd78f2317a8a6",
+      "prepEvaluatedSHA256": "cc7218444cae3da194a2366b05bc23fd1f66d3fb8112b755700bd78f2317a8a6"
+    },
+    "Palm.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "8c3de4d6f1429042051cedf0f40a43001a57aeb88505a00e965be86c4a6e0523",
+      "prepRawSHA256": "8c3de4d6f1429042051cedf0f40a43001a57aeb88505a00e965be86c4a6e0523",
+      "sourceEvaluatedSHA256": "4b283664d59f5049af22915370f3bbfb75012bfdead561c9b037b7d75831556b",
+      "prepEvaluatedSHA256": "4b283664d59f5049af22915370f3bbfb75012bfdead561c9b037b7d75831556b"
+    },
+    "Pouch opening stitch.M03.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "f689b6dafb41ddfbf4bafcd7cdf79be8ed16075b015195b129326de0b7a6f065",
+      "prepRawSHA256": "f689b6dafb41ddfbf4bafcd7cdf79be8ed16075b015195b129326de0b7a6f065",
+      "sourceEvaluatedSHA256": "d99f49fc45a26f71b3be82f30d67cb361ae486176e17949b47b79d83897b25ed",
+      "prepEvaluatedSHA256": "d99f49fc45a26f71b3be82f30d67cb361ae486176e17949b47b79d83897b25ed"
+    },
+    "Pouch opening stitch.M03.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "e899b17dbd6918a787d122b8ecec9c7cfcadd59fb57bc2685faa55d689688c1d",
+      "prepRawSHA256": "e899b17dbd6918a787d122b8ecec9c7cfcadd59fb57bc2685faa55d689688c1d",
+      "sourceEvaluatedSHA256": "d2fff464cef6a0312b31df8e280e87df5b0d07b56163eda27de239818fa17226",
+      "prepEvaluatedSHA256": "d2fff464cef6a0312b31df8e280e87df5b0d07b56163eda27de239818fa17226"
+    },
+    "Pupil.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "d0e0500f1c80bbe14cd7ed0c5f6de2bd14bb7f48a9c1b66df6fbd266ee6fd259",
+      "prepRawSHA256": "d0e0500f1c80bbe14cd7ed0c5f6de2bd14bb7f48a9c1b66df6fbd266ee6fd259",
+      "sourceEvaluatedSHA256": "2197055ee9ecffdf4ffcc86dd84d1f65c3eb3a704a57a3c6e67adbe2666d716e",
+      "prepEvaluatedSHA256": "2197055ee9ecffdf4ffcc86dd84d1f65c3eb3a704a57a3c6e67adbe2666d716e"
+    },
+    "Pupil.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "4809b1937d4e40865c090a201ef94d80e7f3fb8b6b15ed3e64b405d40abbf4a2",
+      "prepRawSHA256": "4809b1937d4e40865c090a201ef94d80e7f3fb8b6b15ed3e64b405d40abbf4a2",
+      "sourceEvaluatedSHA256": "7d44f4e3b6b2a8b44237a779943ae405d210171b0eb22cb30e8372f6ee5ca44c",
+      "prepEvaluatedSHA256": "7d44f4e3b6b2a8b44237a779943ae405d210171b0eb22cb30e8372f6ee5ca44c"
+    },
+    "Shoe upper.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "68626a64ff0c8d4adc2aadb2dad75a29a104702a3a6b54dfe678ba7c9ef465a0",
+      "prepRawSHA256": "68626a64ff0c8d4adc2aadb2dad75a29a104702a3a6b54dfe678ba7c9ef465a0",
+      "sourceEvaluatedSHA256": "df49eab3a921c862ac395aebafde11cd6d7cb243603376c713689a291764b48b",
+      "prepEvaluatedSHA256": "df49eab3a921c862ac395aebafde11cd6d7cb243603376c713689a291764b48b"
+    },
+    "Shoe upper.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "e4a7f536cb86258a1d30b61744854ee3ab377b99b3ba1326e60ea7e3f8117a8f",
+      "prepRawSHA256": "e4a7f536cb86258a1d30b61744854ee3ab377b99b3ba1326e60ea7e3f8117a8f",
+      "sourceEvaluatedSHA256": "fd5900093b82ed08578898f3ca2aeb61d943ec29c3a8d4b394170d43c044b965",
+      "prepEvaluatedSHA256": "fd5900093b82ed08578898f3ca2aeb61d943ec29c3a8d4b394170d43c044b965"
+    },
+    "Shoulder seam.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "5633f9c18a29ec56eeb6e2ecd6d27154d3b70590cc7cc7f08a2c37decc714c6d",
+      "prepRawSHA256": "5633f9c18a29ec56eeb6e2ecd6d27154d3b70590cc7cc7f08a2c37decc714c6d",
+      "sourceEvaluatedSHA256": "425a84c4decf00d8e2df2741231146793571f6f1404ce2ffe7dda0e4b21ed136",
+      "prepEvaluatedSHA256": "425a84c4decf00d8e2df2741231146793571f6f1404ce2ffe7dda0e4b21ed136"
+    },
+    "Shoulder seam.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "87574eb627c39f52c50945cecf16ec00d718e6c04bb3f74049d6d8c966402ffc",
+      "prepRawSHA256": "87574eb627c39f52c50945cecf16ec00d718e6c04bb3f74049d6d8c966402ffc",
+      "sourceEvaluatedSHA256": "46d491f58a3541878501aba7f77799a1ee692c93855c204c066d7f707c0742aa",
+      "prepEvaluatedSHA256": "46d491f58a3541878501aba7f77799a1ee692c93855c204c066d7f707c0742aa"
+    },
+    "Sleeve | continuous shaped elbow.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "d211e0226048ae1c9ca197426ed7ef182b3a9bbeaf80111d3408a50a12bb7a37",
+      "prepRawSHA256": "d211e0226048ae1c9ca197426ed7ef182b3a9bbeaf80111d3408a50a12bb7a37",
+      "sourceEvaluatedSHA256": "d286e50c0df9a4f09839bea8d18ace97c020c5f69ce3d3c7ad6834b8ceb6bf64",
+      "prepEvaluatedSHA256": "d286e50c0df9a4f09839bea8d18ace97c020c5f69ce3d3c7ad6834b8ceb6bf64"
+    },
+    "Sleeve | continuous shaped elbow.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "fceb87b8e35bb4821ff6910c51926baaec0886fd655c6b3cd6e8dc9747f3e735",
+      "prepRawSHA256": "fceb87b8e35bb4821ff6910c51926baaec0886fd655c6b3cd6e8dc9747f3e735",
+      "sourceEvaluatedSHA256": "a57dcf3252eda07f38dc3c82418899c33274e336174e94ecc16c6f92f8123e0a",
+      "prepEvaluatedSHA256": "a57dcf3252eda07f38dc3c82418899c33274e336174e94ecc16c6f92f8123e0a"
+    },
+    "Thumb.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "3be2c4685c016ed697b30fbecb51a69df575dc65a9ae66c147e86776ebf8ea97",
+      "prepRawSHA256": "3be2c4685c016ed697b30fbecb51a69df575dc65a9ae66c147e86776ebf8ea97",
+      "sourceEvaluatedSHA256": "8a4535ced830049b08126c244d768f011b6b7e7d9708ce93e86f4404b597b418",
+      "prepEvaluatedSHA256": "8a4535ced830049b08126c244d768f011b6b7e7d9708ce93e86f4404b597b418"
+    },
+    "Thumb.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "a72cc500bfc52da045da1f7b1b6c5927cecc02cd719310e2a01a48c366292294",
+      "prepRawSHA256": "a72cc500bfc52da045da1f7b1b6c5927cecc02cd719310e2a01a48c366292294",
+      "sourceEvaluatedSHA256": "859a18f9233c908f1d8f3eb2af00ebbe9c90c9d8fc573ef868cf0690c9f80efe",
+      "prepEvaluatedSHA256": "859a18f9233c908f1d8f3eb2af00ebbe9c90c9d8fc573ef868cf0690c9f80efe"
+    },
+    "Toe panel.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "f5fdf314fb1b399c1e05e500c857ec2bf9ae92b129f8f9080ff5e8f7dd2fdf20",
+      "prepRawSHA256": "f5fdf314fb1b399c1e05e500c857ec2bf9ae92b129f8f9080ff5e8f7dd2fdf20",
+      "sourceEvaluatedSHA256": "543f1c2feeb1d683223ca4f7fb30404e4a54e4d5d1f8e6902db172a95b956d45",
+      "prepEvaluatedSHA256": "543f1c2feeb1d683223ca4f7fb30404e4a54e4d5d1f8e6902db172a95b956d45"
+    },
+    "Toe panel.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "646444906afd90a79ad2f89269c783d3c74b2170f3ae8879dedb90bf7bc15454",
+      "prepRawSHA256": "646444906afd90a79ad2f89269c783d3c74b2170f3ae8879dedb90bf7bc15454",
+      "sourceEvaluatedSHA256": "859dbddd5ac14b8c2b8176b4e4505c13c0149dd104f70865d82480ebf5110acb",
+      "prepEvaluatedSHA256": "859dbddd5ac14b8c2b8176b4e4505c13c0149dd104f70865d82480ebf5110acb"
+    },
+    "Tongue.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "57021e5612ddc8cff37240d3ae8706a45ea428c89ec1d95626cc600d2e40c2ab",
+      "prepRawSHA256": "57021e5612ddc8cff37240d3ae8706a45ea428c89ec1d95626cc600d2e40c2ab",
+      "sourceEvaluatedSHA256": "3841a5375c004f1c0d3b65ab4bc0a2565dcdc05d692be3614aec55081fba6945",
+      "prepEvaluatedSHA256": "3841a5375c004f1c0d3b65ab4bc0a2565dcdc05d692be3614aec55081fba6945"
+    },
+    "Tongue.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "5d0fd03539733c3a5b7c5e76a23a566b925e0b33bb36929b714879040c8e4548",
+      "prepRawSHA256": "5d0fd03539733c3a5b7c5e76a23a566b925e0b33bb36929b714879040c8e4548",
+      "sourceEvaluatedSHA256": "cb95cc66ba62f34fabef960e306836ef616a99c29096c67d932bf5ce810f7a99",
+      "prepEvaluatedSHA256": "cb95cc66ba62f34fabef960e306836ef616a99c29096c67d932bf5ce810f7a99"
+    },
+    "Trouser outer seam.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "bdbd176f538bb472aec14a5451371c2e4c67299bb1c7e3b7afd92908cb89ce66",
+      "prepRawSHA256": "bdbd176f538bb472aec14a5451371c2e4c67299bb1c7e3b7afd92908cb89ce66",
+      "sourceEvaluatedSHA256": "e95a99c660a561b4fcc73bc45ea56e2d5a527edc634c68b0dbb73b47de075568",
+      "prepEvaluatedSHA256": "e95a99c660a561b4fcc73bc45ea56e2d5a527edc634c68b0dbb73b47de075568"
+    },
+    "Trouser outer seam.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "3e0c825bafbda2f4eeaf021307ee635cac98c426ad15279e5e0bd302ac340be8",
+      "prepRawSHA256": "3e0c825bafbda2f4eeaf021307ee635cac98c426ad15279e5e0bd302ac340be8",
+      "sourceEvaluatedSHA256": "ca0b296c5ba854bd9120bd7db425a00e14dc982086c20ea23c3e9286c22397d1",
+      "prepEvaluatedSHA256": "ca0b296c5ba854bd9120bd7db425a00e14dc982086c20ea23c3e9286c22397d1"
+    },
+    "Trousers.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "faf7e8e7bbdb76c7126d7e142dd77a3c693520a8e80cf297705e1736be7db121",
+      "prepRawSHA256": "faf7e8e7bbdb76c7126d7e142dd77a3c693520a8e80cf297705e1736be7db121",
+      "sourceEvaluatedSHA256": "19e58df105773ba5d860e536a495ea662b0fba279b2c38f3d11328bab0652568",
+      "prepEvaluatedSHA256": "19e58df105773ba5d860e536a495ea662b0fba279b2c38f3d11328bab0652568"
+    },
+    "Trousers.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "6799897b29f08344d0a0b3d047cbd38c2634a34103bd59bb7ec6e69821828ac4",
+      "prepRawSHA256": "6799897b29f08344d0a0b3d047cbd38c2634a34103bd59bb7ec6e69821828ac4",
+      "sourceEvaluatedSHA256": "8a8c928db15274d1b4fb97ca363b7cc5bdc6ef29d08e26d53e162a71c3fd63f3",
+      "prepEvaluatedSHA256": "8a8c928db15274d1b4fb97ca363b7cc5bdc6ef29d08e26d53e162a71c3fd63f3"
+    },
+    "Upper eyelid.L": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "68bd64f4fc20ebeded48053a898fe49105130a25665caa33532b13fda5fc60e9",
+      "prepRawSHA256": "68bd64f4fc20ebeded48053a898fe49105130a25665caa33532b13fda5fc60e9",
+      "sourceEvaluatedSHA256": "8a4d9acef3c193a5167bd5220c5719a9d3bc07e4a5fe1aa40906349d48e31250",
+      "prepEvaluatedSHA256": "8a4d9acef3c193a5167bd5220c5719a9d3bc07e4a5fe1aa40906349d48e31250"
+    },
+    "Upper eyelid.R": {
+      "rawMeshTransformModifiersUVSlotsAndVisibilityIdentical": true,
+      "evaluatedWorldGeometryTrianglesNormalsIdentical": true,
+      "sourceRawSHA256": "91ac088b5638250c4bc6ff1552a3f1fc5604829a8b0818d1fe845e5a4e5e3aea",
+      "prepRawSHA256": "91ac088b5638250c4bc6ff1552a3f1fc5604829a8b0818d1fe845e5a4e5e3aea",
+      "sourceEvaluatedSHA256": "ef261227c923823c3acc3baf281b5e27f60827df6ae6c3e7bfa0dc2ae7c8b327",
+      "prepEvaluatedSHA256": "ef261227c923823c3acc3baf281b5e27f60827df6ae6c3e7bfa0dc2ae7c8b327"
+    }
+  },
+  "allMaterialsNodesLinksIdentical": true,
+  "lightsWorldColorManagementIdentical": true,
+  "unitsIdentical": true,
+  "topologyCleanupPerformed": false,
+  "originOrTransformsApplied": false,
+  "preserved": "All original raw/evaluated meshes, silhouette, proportions, face, hair, garments, materials, visibility, unit scale and lighting. Parent relationships changed through identity-transform static containers only."
+}
