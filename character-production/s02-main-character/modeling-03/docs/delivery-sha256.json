@@ -1,0 +1,18 @@
+{
+  ".gitignore": "3bb521c0465e956b098b4c68a48be6dee74a7c0a697b8bdf534a658168e0db6e",
+  "README.md": "7917d0740297b6568fdc2c2bf84eb4726a39171d8c37cf6c02ea5b3c9edad97f",
+  "evaluation/side.png": "fc668497334b140114283e40a8de12ef697d5a881c5ff89d861066a05442240d",
+  "evaluation/front.png": "7a9386b254dea120279cb9ba423b28dc5c762ba3af840c2ccecc971dc5561045",
+  "evaluation/approved-vs-model03.png": "5c3ffd39407b865537f8cc79dce959e24d1b89493e4d5eeb81521257b7e87da2",
+  "evaluation/three-quarter.png": "1019c84a8c379b535099ea55c5de31940e7f90a18c7c91d6e4de7a9872a6f3da",
+  "evaluation/back.png": "6de97a28e70f2901a6e365fb1efdddfd1d0d40130e7df9abe67c2f6302e04752",
+  "evaluation/comparisons.pdf": "7f9ec419d4c6c5fbdc6cd90fb40ee7b1f54518aa673eb33c1e8e077c43506b80",
+  "evaluation/model02-vs-model03.png": "9679b0ec067d78b64c422b543e389712441edbfdbaef050151b2e92f275bf1c9",
+  "scripts/make_comparisons.py": "ee4df6551e2c892743837bf6eb8223cdc6708ab70d0acdd649827426bc4c8c4b",
+  "scripts/validate_model03.py": "07db4fcb5145a28595a60c1c58febf41624ccd91c6f7a8fb4e1b93fe331a8caa",
+  "scripts/refine_model03.py": "d200f16d7d92d8be3e024e0fb714f24dad5cb01a019726b6c240bb8d7e3bf110",
+  "source/s02-character-modeling-03.blend": "f63668c75ca695be0430c7467042ef750a3be342411dc330bed57e26b5658110",
+  "docs/geometry-material-changes.json": "4da43b243cc958a22333d4207140c97184e0f511dc360381caa1fedb4f43cc30",
+  "docs/technical-validation.json": "b4471ac834c26af66a4ab093f74525907b527799a22868d3e2cac65c9ae7c5b6",
+  "docs/REVIEW.md": "d4c36b874dc38d1344283e75c3ae43e87ff5ce727961cea4cc510ed2b2e65e1f"
+}
